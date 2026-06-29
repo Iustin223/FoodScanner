@@ -1,0 +1,213 @@
+{% extends 'base.html' %}
+{% block title %}Istoric Scanări - FoodScanner{% endblock %}
+
+{% block content %}
+<section class="scan-section">
+    <div class="scan-container" style="max-width: 900px;">
+        <div class="history-header">
+            <a href="/scan" class="back-btn"><i class="fa-solid fa-arrow-left"></i> Scanează</a>
+            <div>
+                <h1>Istoricul Scanărilor</h1>
+                <p class="scan-subtitle">Toate produsele pe care le-ai scanat</p>
+            </div>
+        </div>
+        
+        <div id="historyGrid" class="history-grid">
+            <div class="loading">
+                <p>Se încarcă istoricul...</p>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    const historyGrid = document.getElementById('historyGrid');
+    const token = localStorage.getItem('token');
+
+    if (!token) {
+        window.location.href = '/auth/login';
+    } else {
+        loadHistory();
+    }
+
+    async function loadHistory() {
+        try {
+            const response = await fetch('/auth/history', {
+                headers: {'Authorization': 'Bearer ' + token}
+            });
+
+            if (!response.ok) {
+                if (response.status === 401 || response.status === 403) {
+                    localStorage.removeItem('token');
+                    window.location.href = '/auth/login';
+                    return;
+                }
+                throw new Error('Eroare server');
+            }
+
+            const scans = await response.json();
+
+            if (scans.length === 0) {
+                historyGrid.innerHTML = `
+                    <div class="empty-state">
+                        <p>Nu ai nicio scanare încă.</p>
+                        <a href="/scan" class="btn btn-primary">⌘ Scanează primul produs</a>
+                    </div>
+                `;
+                return;
+            }
+
+            let html = '';
+            for (const scan of scans) {
+                const s = scan.summary;
+                
+                let badges = '';
+                if (s.periculos > 0) badges += `<span class="badge badge-danger">${s.periculos} <i class="fa-solid fa-skull-crossbones"></i></span>`;
+                if (s.moderat > 0) badges += `<span class="badge badge-warning">${s.moderat} <i class="fa-solid fa-face-meh fa-lg" style="color: rgb(233, 187, 22);"></i></span>`;
+                if (s.inofensiv > 0) badges += `<span class="badge badge-safe">${s.inofensiv} <i class="fa-solid fa-face-grin-beam"></i></span>`;
+                if (s.necunoscut > 0) badges += `<span class="badge badge-unknown">${s.necunoscut} <i class="fa-solid fa-circle-question"></i></span>`;
+
+                html += `
+                    <div class="history-card" onclick="showScanDetails(${scan.id}, this)" style="cursor:pointer;">
+                        <div class="history-image">
+                            <img src="${scan.image_url}" alt="Scanare">
+                        </div>
+                        <div class="history-info">
+                            <div class="history-date">${scan.created_at}</div>
+                            <div class="history-badges">${badges}</div>
+                        </div>
+                    </div>
+                `;
+            }
+
+            historyGrid.innerHTML = html;
+
+        } catch (error) {
+            historyGrid.innerHTML = `<div class="error-msg">Eroare: ${error.message}</div>`;
+        }
+    }
+
+    // Store all scans data for detail view
+    let allScans = [];
+
+    async function loadHistory() {
+        try {
+            const response = await fetch('/auth/history', {
+                headers: {'Authorization': 'Bearer ' + token}
+            });
+
+            if (!response.ok) {
+                if (response.status === 401 || response.status === 403) {
+                    localStorage.removeItem('token');
+                    window.location.href = '/auth/login';
+                    return;
+                }
+                throw new Error('Eroare server');
+            }
+
+            allScans = await response.json();
+
+            if (allScans.length === 0) {
+                historyGrid.innerHTML = `
+                    <div class="empty-state">
+                        <p>Nu ai nicio scanare încă.</p>
+                        <a href="/scan" class="btn btn-primary">⌘ Scanează primul produs</a>
+                    </div>
+                `;
+                return;
+            }
+
+            renderCards();
+
+        } catch (error) {
+            historyGrid.innerHTML = `<div class="error-msg">Eroare: ${error.message}</div>`;
+        }
+    }
+
+    function renderCards() {
+        let html = '';
+        for (const scan of allScans) {
+            const s = scan.summary;
+            
+            let badges = '';
+            if (s.periculos > 0) badges += `<span class="badge badge-danger">${s.periculos} <i class="fa-solid fa-skull-crossbones"></i></span>`;
+            if (s.moderat > 0) badges += `<span class="badge badge-warning">${s.moderat} <i class="fa-solid fa-triangle-exclamation fa-lg" style="color:#e65100;"></i></span>`;
+            if (s.inofensiv > 0) badges += `<span class="badge badge-safe">${s.inofensiv} <i class="fa-solid fa-face-grin-beam"></i></span>`;
+            if (s.necunoscut > 0) badges += `<span class="badge badge-unknown">${s.necunoscut} <i class="fa-solid fa-circle-question"></i></span>`;
+
+            html += `
+                <div class="history-card" onclick="showScanDetails(${scan.id})" style="cursor:pointer;">
+                    <div class="history-image">
+                        <img src="${scan.image_url}" alt="Scanare">
+                    </div>
+                    <div class="history-info">
+                        <div class="history-date"><i class="fa-regular fa-clock"></i> ${scan.created_at}</div>
+                        <div class="history-badges">${badges}</div>
+                    </div>
+                </div>
+            `;
+        }
+        historyGrid.innerHTML = html;
+    }
+
+    function showScanDetails(scanId) {
+    const scan = allScans.find(s => s.id === scanId);
+    if (!scan) return;
+
+    const order = {'periculos': 0, 'moderat': 1, 'inofensiv': 2, 'necunoscut': 3};
+    const sorted = [...scan.ingredients].sort((a, b) => (order[a.risc] || 3) - (order[b.risc] || 3));
+
+    let ingredientsHtml = '';
+    for (const item of sorted) {
+        const riskClass = {'periculos':'card-danger','moderat':'card-warning','inofensiv':'card-safe','necunoscut':'card-unknown'}[item.risc] || 'card-unknown';
+        const emoji = {
+            'periculos': '<i class="fa-solid fa-face-angry fa-lg" style="color:#c62828;"></i>',
+            'moderat': '<i class="fa-solid fa-face-meh fa-lg" style="color: rgb(233, 187, 22);"></i>',
+            'inofensiv': '<i class="fa-solid fa-face-grin-beam fa-lg" style="color:#2e7d32;"></i>',
+            'necunoscut': '<i class="fa-solid fa-circle-question fa-lg" style="color:#616161;"></i>'
+        }[item.risc] || '';
+
+        const name = item.matched || item.ingredient;
+        const code = item.cod_e && item.cod_e !== '-' && item.cod_e !== 'None' && item.cod_e !== 'nan'
+                     ? `<span class="e-code">${item.cod_e}</span>` : '';
+
+        ingredientsHtml += `
+            <div class="ingredient-card ${riskClass}">
+                <div class="ingredient-header">
+                    <span>${emoji}</span>
+                    <strong>${name}</strong>
+                    ${code}
+                </div>
+                <div class="ingredient-desc">${item.descriere || ''}</div>
+            </div>`;
+    }
+
+    // Summary badges
+    const s = scan.summary;
+    let badgesHtml = '<div class="summary-bar">';
+    if (s.periculos > 0) badgesHtml += `<span class="badge badge-danger"><i class="fa-solid fa-face-angry fa-sm" style="color:rgb(233,22,22);"></i> ${s.periculos} periculoase</span>`;
+    if (s.moderat > 0) badgesHtml += `<span class="badge badge-warning"><i class="fa-solid fa-face-meh fa-sm" style="color:rgb(233,187,22);"></i> ${s.moderat} moderate</span>`;
+    if (s.inofensiv > 0) badgesHtml += `<span class="badge badge-safe"><i class="fa-solid fa-face-grin-beam fa-sm" style="color:rgb(51,172,45);"></i> ${s.inofensiv} inofensive</span>`;
+    if (s.necunoscut > 0) badgesHtml += `<span class="badge badge-unknown"><i class="fa-regular fa-face-meh-blank fa-sm" style="color:rgb(109,120,118);"></i> ${s.necunoscut} necunoscute</span>`;
+    badgesHtml += '</div>';
+
+    historyGrid.innerHTML = `
+        <div class="history-detail-view">
+            <a href="#" onclick="renderCards(); return false;" class="back-btn">
+                <i class="fa-solid fa-arrow-left"></i> Înapoi la istoric
+            </a>
+            <img src="${scan.image_url}" class="scanned-image">
+            <div class="history-date" style="text-align:center; margin:15px 0;">
+                <i class="fa-regular fa-clock"></i> ${scan.created_at}
+            </div>
+            ${badgesHtml}
+            <div class="ingredients-grid">
+                ${ingredientsHtml}
+            </div>
+        </div>
+    `;
+}
+</script>
+{% endblock %}

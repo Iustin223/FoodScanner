@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+
+{% block title %}Creare Cont - FoodScanner{% endblock %}
+
+{% block content %}
+<section class="scan-section" style="display: flex; align-items: center; justify-content: center; min-height: 80vh; padding: 20px;">
+  
+  <div class="card" style="max-width: 450px; width: 100%; padding: 40px 30px;">
+    
+    <div class="icon-box" style="margin-bottom: 20px;"></div>
+    
+    <h2 style="font-size: 2rem; margin-bottom: 10px; color: var(--text-dark);">Creează un cont</h2>
+    <p style="color: var(--text-muted); font-family: Arial, Helvetica, sans-serif; margin-bottom: 30px; font-size: 0.95rem;">
+      Alătură-te comunității și începe să scanezi etichetele alimentare inteligent.
+    </p>
+
+    <form style="text-align: left; display: flex; flex-direction: column; gap: 16px;" id="registerForm">
+      
+      <div>
+        <label for="nume" style="font-family: Arial, Helvetica, sans-serif; font-size: 0.9rem; font-weight: bold; color: var(--text-dark); margin-bottom: 8px; display: block;">Nume complet</label>
+        <input type="text" id="nume" name="nume" placeholder="Ex: Ion Popescu" required 
+               style="width: 100%; padding: 12px 16px; border: 2px solid #d4ccc8; border-radius: 12px; font-size: 1rem; outline: none; transition: border-color 0.3s ease, box-shadow 0.3s ease; color: var(--text-dark);">
+      </div>
+
+      <div>
+        <label for="email" style="font-family: Arial, Helvetica, sans-serif; font-size: 0.9rem; font-weight: bold; color: var(--text-dark); margin-bottom: 8px; display: block;">Adresă Email</label>
+        <input type="email" id="email" name="email" placeholder="nume@exemplu.ro" required 
+               style="width: 100%; padding: 12px 16px; border: 2px solid #d4ccc8; border-radius: 12px; font-size: 1rem; outline: none; transition: border-color 0.3s ease, box-shadow 0.3s ease; color: var(--text-dark);">
+      </div>
+
+      <div>
+        <label for="password" style="font-family: Arial, Helvetica, sans-serif; font-size: 0.9rem; font-weight: bold; color: var(--text-dark); margin-bottom: 8px; display: block;">Parolă</label>
+        <input type="password" id="password" name="password" placeholder="••••••••" required 
+               style="width: 100%; padding: 12px 16px; border: 2px solid #d4ccc8; border-radius: 12px; font-size: 1rem; outline: none; transition: border-color 0.3s ease, box-shadow 0.3s ease; color: var(--text-dark);">
+      </div>
+
+      <div>
+        <label for="confirm_password" style="font-family: Arial, Helvetica, sans-serif; font-size: 0.9rem; font-weight: bold; color: var(--text-dark); margin-bottom: 8px; display: block;">Confirmă Parola</label>
+        <input type="password" id="confirm_password" name="confirm_password" placeholder="••••••••" required 
+               style="width: 100%; padding: 12px 16px; border: 2px solid #d4ccc8; border-radius: 12px; font-size: 1rem; outline: none; transition: border-color 0.3s ease, box-shadow 0.3s ease; color: var(--text-dark);">
+      </div>
+
+      <button type="submit" class="btn btn-primary" style="width: 100%; margin-top: 15px;">
+        Creează Contul
+      </button>
+      
+    </form>
+
+    <p style="margin-top: 25px; font-size: 0.9rem; color: var(--text-muted); font-family: Arial, Helvetica, sans-serif;">
+      Ai deja un cont? <a href="/auth/login" style="color: var(--orange); font-weight: bold; text-decoration: none; transition: color 0.2s ease;">Intră în cont</a>
+    </p>
+
+  </div>
+</section>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+  // Păstrăm efectul elegant de focus portocaliu pe input-uri
+  const inputs = document.querySelectorAll('input');
+  inputs.forEach(input => {
+    input.addEventListener('focus', () => {
+      input.style.borderColor = 'var(--orange)';
+      input.style.boxShadow = '0 0 0 3px rgba(242, 140, 40, 0.15)';
+    });
+    input.addEventListener('blur', () => {
+      input.style.borderColor = '#d4ccc8';
+      input.style.boxShadow = 'none';
+    });
+  });
+</script>
+<script src="/static/auth.js"></script>
+{% endblock scripts %}
+

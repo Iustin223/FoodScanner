@@ -1,0 +1,843 @@
+filename,ground_truth,default_output,default_cer,has_diacritics
+crop_000012.jpg,"consuma ca atare pentru a obține ceai, amestecată cu miere.","CONSUMO OR DERO PERTRI O DBIBLE CEAL, AMES",52.54,True
+crop_000013.jpg,din agricultura ecologică din Sri Lanka. Mod de consum: se poate,"ON BACKCLATED EXCLUDED ON SIX LAHRA, MADE OR CONSUM.",60.94,True
+crop_000014.jpg,"Conține pudră de scorțișoară adevărată (CEYLON) crudă, provenită","COMPLE PRIDD DE SCARDPORTA ADVIDATED (CEY ONLY COUNDA, PR",51.56,True
+crop_000018.jpg,ORGANIC RAW CINNAMON POWDER,ORGANIC RAW CINTAINON POWDER,11.11,False
+crop_000040.jpg,"supravegeați când consumă acest produs, întrucât","SUPRANGEAU CONSUMA ACEST PRODUCT, MINICAT",37.5,True
+crop_000041.jpg,Atenționare de siguranță: copiii mici trebuie,ATENTIONARE DE SIGNANTA: COPILL MICH USUE,28.89,True
+crop_000042.jpg,"A se păstra în loc uscat, ferit de razele soarelui.","A SE PASTRA IN IOC USCAT, PERIT DE RAZCLE SARELL",17.65,True
+crop_000043.jpg,COAJĂ LEMNOASĂ. Ambalate în atmosferă protectoare.,"COAJA LEMONASA, AMBALATE IN ADNOSTERA PROT",36.0,True
+crop_000045.jpg,"Ingrediente: ARAHIDE (94%), sare (5%), agent","INGREDIENTE: ARAHIDE (94%), SARE (5 %), AGENT",2.27,False
+crop_000046.jpg,"RO MD ARAHIDE ÎN COAJĂ ROȘIE, COAPTE ȘI SĂRATE","@ ARAHIDE IN COAJA ROSIE, COAPTE SISURATE",23.91,True
+crop_000047.jpg,"de cacao, emulsifianți: lecitină din soia, E476; vanilină). Cacao - 10,0% min.","BE CACSO, EMULSTIANTI: LECITINA ON SOIA,",56.41,True
+crop_000048.jpg,"masă de cacao, echivalent al untului de cacao (ulei de palmier, ulei shea), pudră","MASI DE CACAD, ECHIVALENT AL UNTULU DE CACA",49.38,True
+crop_000049.jpg,"MD/RO: Ingrediente: caise uscate - 64,0% glazură de ciocolată - 36% (zahăr,","MO.RO: INGREDIENTE: CALSE USCATE - 64,0%,",49.33,True
+crop_000051.jpg,www.lactofood.ro,WWW.LACTOFOOD.RO,0.0,False
+crop_000059.jpg,"cod 300288, România. 0800 800 804","COD 300288, ROMANIA. TX 0800800804",18.18,True
+crop_000067.jpg,"A se consuma, de preferință, înainte de /","A SE CONSUMA, DE PREFERINTA, INAINTE DE /",7.32,True
+crop_000068.jpg,temperaturi cuprinse între +2C........+8C,"TEMPERATURI CUPRINSE INTRE +2""C........+8",7.32,True
+crop_000071.jpg,Condiții de păstrare și transport: A se păstra la,CONDITION DE PASTRARE SI TRANSPORT: A SE PASTRA LA,12.24,True
+crop_000072.jpg,din care zaharuri,DIN CARE ZAHARURI,0.0,False
+crop_000074.jpg,Țara de originea a laptelui: Germania.,TARA DE ORIGINE A LAPTELUE GERMANIA.,10.53,True
+crop_000077.jpg,Produs ambalat în atmosferă protectoare.,PRODUS AMBALAT IN ATMOSTERA PROTECTIONE.,15.0,True
+crop_000078.jpg,din care acizi grași saturați 18 g,DIN CARE ADIZI GRAJ SATURATI 18G,14.71,True
+crop_000079.jpg,"culturi lactice, cheag.","CULTURILACTICE, CHEAG.",4.35,False
+crop_000081.jpg,"Ingrediente: lapte de vacă pasteurizat, sare,","INGREDIENTE: LAPTE DE VACA PASTEURIZAT, S",11.11,True
+crop_000083.jpg,Conținut total de grăsime: 28%.,CONTINUT TOTAL DE GERSIME: 28%:,12.9,True
+crop_000084.jpg,Valoare energetică 1446 kJ / 348 kcal,VALOARE ENERGETICA 1446 KJ/348 KCAL,8.11,True
+crop_000085.jpg,Grăsime raportată la substanța uscată: minimum 48%.,GRAILIME RAPORTATA LA SUBSTANTA USCATA: MIN,29.41,True
+crop_000087.jpg,BRÂNZĂ GOUDA FELII,BRANZA GOUDA FELII,11.11,True
+crop_000088.jpg,"jud. Prahova, România.","JUD. PRAHOVA, ROMANIA.",4.55,True
+crop_000089.jpg,"Crângul lui Bot, KM 73+810,","CIANGUL LUI BOT, KM 73-810,",11.11,True
+crop_000090.jpg,"Comuna Ariceștii Rahtivani, DN 72,","COMUMA ARICESTI RAHTVANT, DN 72,",14.71,True
+crop_000091.jpg,"SC Lidl Discount SRL, Sat Nedelea,","SCLUDI DISCOUNT SRL, SAT NEDELEA,",8.82,False
+crop_000100.jpg,frigider și a se consuma în maxim 48 de ore.,MIGHLER SIA SE CONSUMA IN MAXIM 48 DE ORE.,15.91,True
+crop_000101.jpg,"uscat și răcoros. După deschidere, a se păstra la","EXCLI RICOROS, DUPA DESCHIDERE, A SE PIS",32.65,True
+crop_000102.jpg,de/Nr. Lot: vezi data pe capac. A se păstra la loc,"DE/UR. LOT: VEZI DATA PE CAPAC, A SE P",28.0,True
+crop_000103.jpg,foi de dafin). A se consuma de preferință înainte,LAY DE DALIM). A SE CONSIMA DE PREFERIMA INLINE,24.49,True
+crop_000105.jpg,Zacuscă de vinete. Produs sterilizat.,ZALUSCH DE VIMATE. PRODUCTS STERILLANT.,24.32,True
+crop_000106.jpg,Administrare orală.,ADMINISTRATE ORALA.,10.53,True
+crop_000107.jpg,Vezi prospectul pentru informații suplimentare.,VEZI PROSPECTUL PENTRU INFORMATIONS SUPPLIMENTARE.,10.64,True
+crop_000108.jpg,Conține aspartam (E 951) și alcool benzilic (E 1519).,CONTIME ASPARTAM (E 951) SIALCOOL BENZILIC (,22.64,True
+crop_000109.jpg,echivalent cu montelukast 5mg.,ECHIVALENT CU MONTEUKAST 5 MG.,6.67,False
+crop_000110.jpg,"Fiecare comprimat masticabil conține montelukast sodic,",FIECARE COMPRIMAT MASTICABIL CONFINE MONTELLUKAST S,12.73,True
+crop_000111.jpg,"de: seminte de susan, soia, secare, ovaz si orz","THE: SEMINTE DE SUSAN, SOIA, SECARE, OYAY",23.4,False
+crop_000112.jpg,propionat de calciu si acid sorbic. Poate contine urme,PROPIONATE CALCLU SI ACID SORBIC. POATE CONLINE UR,11.11,False
+crop_000113.jpg,"ascorbic, L-cisteina), seminte de chimen, conservanti:","(ASCOFBLIC, L-C ISTEINA), SEMINTE DE CHIM",37.04,False
+crop_000114.jpg,"tehnologici (grau), agenti de tratare a fainii: acid","TEHANOLOGICI (JURAIL), AGENTI DE TTATARE A PA",32.69,False
+crop_000117.jpg,emulsifiant: esteri ai acizilor mono si diacetiltartric cu,EMULSITANT: GSTERI AL ACIZILOR MONO SI DACET,29.31,False
+crop_000118.jpg,"iodata, ameliorator de panificatie (gluten vital din grau,","TOTALA, AMELORATOR DE PANIFICATE (GLUTEN VITAL DIN",18.97,False
+crop_000120.jpg,"INGREDIENTE: faina de grau alba 650, faina de grau,","INGREDIENTE: FAINA DE GRAY ALBA 650, FAINA DE GRAV",5.88,False
+crop_000121.jpg,la frigider și a se consuma în decurs de 24 de ore.,I A FIGILDER SI A SE CONSUMA IN DECURS DE 24 D,23.53,True
+crop_000122.jpg,"0°C și +10°C. După deschidere, a se păstra","O'CST - 10""C. DUPA DESCHIDERE, A SE P",33.33,True
+crop_000123.jpg,ambalaj. A se păstra la o temperatură cuprinsă între,"AMBALAI,A SE PASTA LA O TEMPERATURA C",36.54,True
+crop_000124.jpg,membrană. Expiră la/Nr. Lot: vezi parte inferioară,"MEMBANIA, EQIIA LA/NK.LOT, VEZ PAT",50.0,True
+crop_000125.jpg,"condimente, colorant: carmine). Produsul nu contine","CONDIMENTE, COLORANT: CAMINE) PRODUCT NO CONLINE",13.73,False
+crop_000126.jpg,antioxidant: acid ascorbic; amestec de,AMTIOXIDANT: ACD ASCORDIC; AMESTEC DE,7.89,False
+crop_000128.jpg,"stabilizatori: difosfați, trifosfați;","STADILIZATORI: DIFOSTAIL, MITOSFATT;",24.32,True
+crop_000130.jpg,"condimentar (sfeclă roșie, dextroză,","CONDIMENTAR (SPECIA ROSLE, DEXTROZA,",16.67,True
+crop_000132.jpg,"carboximetilceluloză), preparat","CARDOXIMETICELULOZA), PREPARAT",9.68,True
+crop_000134.jpg,"de porc (șorici de porc, apă, stabilizator:","DE PONG (SORICI DE PONG, APA, STABILIZATION.",20.93,True
+crop_000136.jpg,conservant: nitrit de sodiu; șorici,CONSERVANT: NITRIT DE SODLU; SORICE,8.57,True
+crop_000138.jpg,"untură de porc, carne de vită, sare,","UNTURA DE PONG, CARME DE WITH, SARE,",16.67,True
+crop_000140.jpg,"de vită). Ingrediente: carne de porc,","DE VITA), INGREDIENTTE: CARNE DE PONG,",13.51,True
+crop_000142.jpg,(123 g carne de porc și 7 g carne,(123 g CARNE DE PORC SI 7 g CANNE,6.06,True
+crop_000145.jpg,salam se prelucrează 130,SALAM SE PRELUCEAZA 130,8.33,True
+crop_000148.jpg,în atmosferă protectoare.,IN ATMOSTERA PROTECTDARE.,16.0,True
+crop_000150.jpg,"fum de lemn de fag, feliat. Ambalat","TUM DE LEMN DE TAG, FELIAT, AMBALAT",8.57,False
+crop_000153.jpg,"Produs fiert, afumat cu","PRODUS FERT, AFUMAT CU",4.35,False
+crop_000158.jpg,CR - Consumul de referință al unui adult obișnuit,CR = CONSUMUL DE REFERINTA AL UNUL ADULT OBLENULT,14.29,True
+crop_000159.jpg,Cantitate netă:,CANTITATE META:,13.33,True
+crop_000172.jpg,din care zaharuri,DIN CARE ZAHARUN!,11.76,False
+crop_000181.jpg,din care acizi grași saturați,DIN COME ACIDI GRASI SATURANTI,20.69,True
+crop_000193.jpg,Valoare energetică,VALOARE ENERGETICA,5.56,True
+crop_000203.jpg,"agricultură ecologică controlată. Poate conține urme de fructe cu coajă lemnoasă, arahide, lupin, semințe de","APPERINT FOODS A COMOUNTI, PASAS COMPINE ARMAS DE",75.0,True
+crop_000204.jpg,"roiniță, aromă naturală, scorțișoară, emulsifiant: lecitine, sirop de sfeclă de zahăr, extract din vanilie, din","INVOICE, AMOUNT, STOPPINAL, EMADBLATE INCLUS, SHOP",75.68,True
+crop_000205.jpg,"făină de orez, zahăr din trestie de zahăr), 0,1% amestec de plante aromatice (frunze de mentă creață, frunze de","THANKE ONCL, MAKE OR TESTE OR ZALARI, Q/N",77.48,True
+crop_000206.jpg,"0,3% praf de ceai verde, sirop de zahăr invertit, sare, 0,2% preparat crocant din qulnoa și orez (50% făină de qulnoa","LAYMENT BEAVABLE' SHOP OR DAHR INVOIT, SAME, 0",76.07,True
+crop_000207.jpg,"mere, coacăze negre), aromă naturală) semințe de in, cacao cu conținut redus de grăsime, 0,3% amarant expandat,","INVOICE RECEIPE REGEN, ARIMA TAMPAIL(REMIN",79.28,True
+crop_000208.jpg,"din suc concentrat de vișine, dextroză, acidifiant acid citric: concentrate colorante din fructe și legume (morcovi","AMOUNT RECEIPT BE AGAINCE, DEBIT, ADDIANT AND CONCENT",72.17,True
+crop_000209.jpg,"integral praf, 0,5% cireșe amarena deshidratate (cireșe, zahăr, sirop de glucoză-fructoză, 15% suc de vișine obținut","PLEASE AND"", 9.5% WHERE AMOUNTED DESCIPATE (CREME"",",77.59,True
+crop_000210.jpg,"potasiu, carbonați de sodiu, carbonați de amoniu, 0,8% semințe de chia (Salvia hispanica), lapte praf integral, ou","RECEIPT, CASHIER FOR SANDY, CARBANAR OR AMOUNT",79.82,True
+crop_000211.jpg,"gelatinizant: pectine; acidifiant: acid malic), unt de cacao, 1% semințe de dovleac, agenți de afânare: tartrați de","RECEIPTANT RECIPT ABOLLANT AND MAID, NOT OR DAMAS",73.04,True
+crop_000212.jpg,"preparat cu mere (57% piure de mere, 39% suc de mere obținut din suc concentrat de mere, fibre de ovăz, agent",PRICE OF MEN FACE OF MORE! SEE ARE ARE RECE APPROVED ON THE CONCENT,70.64,True
+crop_000213.jpg,"făină integrală de grâu, zahăr din trestie de zahăr, 14% fulgi de ovăz, unt, făină de grâu, masă de cacao, zahăr, 1,6%","INCLINGENT OF FINAL ARNA OR WHITE OR DAHAR, VIS POLLOW OR",76.27,True
+crop_000214.jpg,Amestec de fursecuri cu 9% ciocolată neagră și 4% ciocolată cu lapte. Produs ecologic. Ingrediente:,AD AMOUNTS OR HAREMENT ON PRICELLA WASPIL OF US CERETAIN,76.77,True
+crop_000217.jpg,clorură de calciu; culturi lactice selecționate. A se consuma de preferință înainte de:/Nr. Lot: vezi parte,COUNTRADE CALCIU; CARBUNI LARTICE SELECTIONATE. ARE,62.62,True
+crop_000218.jpg,"minumum 43%. Ambalat în atmosferă protectoare, Ingrediente: lapte pasteurizat, sare, stabilizator:","MINIMUM 43%,AMBALAT IN AMPOFERI PROTECTSARE,",61.22,True
+crop_000223.jpg,"modificat din porumb, sare, amestec de condimente, plante","MODFICATED PORUMB, SATE, AMESTER DE CONDIMENT",26.32,False
+crop_000224.jpg,"Ingrediente: 78% pastă de roșii, zahăr, oțet din alcool, amidon","INGREDIENTE: 78% PASTA DE ROSIL, ZALAN, OEL",41.27,True
+crop_000228.jpg,"mere obținut din suc concentrat, apă, zahăr, suc","INERE OBJINUT DIN SIC CONCENTRAL, ADJ, ZALAB",31.25,True
+crop_000253.jpg,"care conțin gluten, fructe cu coajă lemnoasă, lapte și arahide. A","CARE CONTAIN GLUTEN, FRUCE CU COAJA LEMANASA",41.54,True
+crop_000254.jpg,aromă naturală de scorțișoară. Poate conține urme de alte cereale,"AROMA NATURALA DE SCORTISARA, POATE CONTIME URME DE",33.85,True
+crop_000255.jpg,"ulei de palmier, sare, sirop de glucoză deshidratat, 0,2% scorțișoară,","BLEI DE PALMIER, SARE, STROP DE GLUNORA DESHID",41.43,True
+crop_000256.jpg,"Ingrediente: 37% făină integrală de grâu, 35% făină de orez, zahăr","INGRECIENTE: 37% FAINA INTERALD DE GRAH, 35%",42.42,True
+crop_000260.jpg,"făină de ceapă, mărar (0,1%)",". FAINO DE CEAP�, MARAR (0.1%),",28.57,True
+crop_000261.jpg,"proporții variabile), zahăr,","PROPORTIL VARIABLLE), ZALHAR,",17.86,True
+crop_000262.jpg,", sare, ZER dulce praf (1%), aromă naturală","SARE, ZER DULCE POT (1%), AMOUNT RAURALI",27.91,True
+crop_000263.jpg,Ingrediente: cartofi (60%)，,hOLDENTE: CARTON (60%),33.33,False
+crop_000264.jpg,"), uleiuri vegetale (floarea-soarelui, rapiță în",") UBLE UNT VEGETABLE (INDAICE-SCARCLU, K",50.0,True
+crop_000276.jpg,"pasta de tomate, zahăr,","PASTA DE TOMATE, ZAHAR,",4.35,True
+crop_000280.jpg,Ingrediente: 49%,INGREDIENTE: 49%,0.0,False
+crop_000285.jpg,"de fructe cu coajă lemnoasă, ouă și cereale care conțin gluten. A se consuma de preferință înainte de:/Nr. lot:",NETTERATED FOLLOWES AND IF ENTERIN FOR COMPLY ONCLUS. FOR SIGNAGE,76.58,True
+crop_000286.jpg,"Ciocolată neagră. Ciocolata neagră conține substanță uscată de cacao: minimum 47%. Ingrediente: zahăr,",GST REGULAR MARKET MARKET MARKET COMPLE AGAINY ONCLUSE AGAIN,77.45,True
+crop_000287.jpg,"Poate conține urme de țelină, muștar, lapte și produse derivate.","PURTE COMTIME ARTHE DE (BILL, MUSTER, LAPAT & PRODUCT SERVICE",40.62,True
+crop_000289.jpg,"(ascorbat de sodiu), conservanți (nitrat de potasiu, nitrit de sodiu),","(EXCOUNT DE SOLD), CONSERVANTT (DIM DE POTASIL",50.0,True
+crop_000290.jpg,"Ingrediente: pulpă de porc, sare, dextroză, condimente, antioxidant","INGRECIENTE PULAX DE POT, SITE, DESTOZA,",52.24,True
+crop_000294.jpg,"Ingrediente: făină albă de grâu, 12% ouă, apă.","INGREDIENTE: FAIMA ALLES DE GRAU, 12% ODA",30.43,True
+crop_000302.jpg,"drojdie, extracte din amestec de condimente, culturi starter. Poate","DROIDIE, EXTRACTE DIN AMESTEC DE CONDIMENTE",37.31,False
+crop_000303.jpg,"Ingrediente: 98% pulpă de porc, sare, glucoză, zahăr, extract din","INGREDIENTS: 98% PULPA DE PORD, SARE, GLUCO",38.46,True
+crop_000310.jpg,"de arahide, alte fructe cu coajă lemnoasă, ouă, soia și semințe de susan.","DE ARAHIDE, ALTE FRUCTE CU COAJA LEMOAASA",45.21,True
+crop_000311.jpg,"lecitine; lapte praf degresat, corector de aciditate: acid citric. Poate conține urme","LECITINE; LAPTE PRAP REGIESAT, CORRECTOR DE ACID",49.41,True
+crop_000312.jpg,"carbonați de sodiu, carbonați de amoniu; malț de grâu, sare, emulsifiant:","CARDONATOR DE SODIU, CARBONATOR DE AMONIA; AROM",50.68,True
+crop_000313.jpg,"2,1% miere, minerale: calciu, magneziu, fier; tărâțe de grâu, agenți de afânare:","2.1% WHERE, MINERALE: CALCIU, MAGNEZU, FIRE",50.0,True
+crop_000314.jpg,"de cacao, dextroză, unt de cacao, emulsifiant: lecitină), 2,5% alune de pădure,","DE CACAD, JEATROZA, LINT DE CACAO,",65.82,True
+crop_000315.jpg,"1,1% făină de alac integrală)], zahăr, grăsime de palmier, 3,2% ciocolată (zahăr, masă","1.1% FAIMA DE ALAC INTERALAIL, ZAHAR, GR",61.63,True
+crop_000316.jpg,"3,2% făină de grâu integrală, 2,7% făină de orz integrală, 1,1% făină de secară integrală,","3,2% FAIMA DE GRAU INTERGINALA, 2,7%",68.89,True
+crop_000317.jpg,"62,9% cereale [42,4% făină de grâu, 20,5% cereale integrale (12,4% fulgi de ovăz,","62,9% CEREALE |42,4% FAIMA DE GRAU,",61.73,True
+crop_000318.jpg,"Sursă de minerale (magneziu, calciu, fier). Bogat in cereale, Ingrediente:","SURSA DE MINEALE (MAGNEZIL, CALCIU, FIER),",45.95,True
+crop_000325.jpg,"(morcovi, hibiscus), aromă. A se păstra la o temperatură","(MOPONI, INDICOS) AMOMA A SE PLATE TA O T",48.21,True
+crop_000326.jpg,"soc, 0,2% afine, concentrate din plante cu rol de colorare","SIR, 0.2% ALIME, COMEEMNAE DN PLANNE OU",51.72,False
+crop_000327.jpg,"obținut din piure concentrat, 0,6% zmeură, 0,6% fructe de","ADJIMUT ON PLUE COMENTRA, 0.6% AMOUNT, 0.",50.88,True
+crop_000328.jpg,"obținut din suc concentrat de zmeură, 0,8% piure de afine","ADIMU DIN SIC CONCENTIA DE AMOUNT, 0.8% PLUE",42.11,True
+crop_000329.jpg,"soc obținut din suc concentrat de soc, 0,9% suc de zmeură",SEE DOFINAL ON SUC COMENTRA DE SOC. 0.9% SIX DE,40.35,True
+crop_000330.jpg,"lapte de vacă pasteurizat, zahăr, 3,3% mure, 2,6% suc de","TABLE OF FACE PAKEUNT, ZALAN, 3.3% MURE 26%",46.43,True
+crop_000331.jpg,"Conținut de grăsime: 2,7%. Ingrediente: 79% iaurt din",CONTIMUT BE GALAME: 27% INORDLEME 79% LAUR DIN,32.08,True
+crop_000344.jpg,Ingrediente: smântână pasteurizată.,"INGREDIENTE: SMANTANA PASTEURIZATA,",14.29,True
+crop_000351.jpg,conservant: nitrit de sodiu; culturi starter. A se păstra la o temperatură de,CONSERANT: NITRIT DE SODIU; CULTURI STARTER.,42.86,True
+crop_000352.jpg,"de condimente, colorant: extract de ardei roșu; ardei iute Chili,","DE CONDIMENTE, COLORANT: EXTRACT DE ARDEI ROSU",30.77,True
+crop_000353.jpg,"aciditate: acid citric; antioxidanți: acid ascorbic, afla-tocoferol; amestec",ADIDITATE: ACID DITRIC; AMTOXIDANT: ACID ASC,47.37,True
+crop_000355.jpg,"produs se prelucrează cu 158 g carne de porc. Ingrediente: carne de porc,",PRODUS SE PREINCREZA 158 & CARNE BE PORS. INGREDIENT,36.99,True
+crop_000358.jpg,"conține urme de lapte, țelină, muștar, soia, susan. A se păstra la o temperatură","CONLINE UMME DE LAPTE, TELLAN, MUSTAR, SOLA,",55.0,True
+crop_000360.jpg,"praf de ou), sare, ulei vegetal de floarea-soarelui, ierburi aromate în proporții","PRAP DE AR""), SAME, UEL VEGETAL DE HOAREA-SD",56.79,True
+crop_000361.jpg,"Ingrediente: 67% piept de pui, panadă (făină de grâu, sare, drojdie, apă,","INGRECIENTE: 67% PEPT DE PUL, PANADA (RIINA",47.95,True
+crop_000368.jpg,"Poate conține urme de lapte, soia, țelină și muștar.","POATE COMTIME AMME DE LAPTE, SOLA, TELLMA SI MUSTAR",25.0,True
+crop_000369.jpg,"lizină, sare. ouă de găini crescute în hale la sol.","IZING, SAME. ""DUA DE GAINI CRESCUTE IN BALLE",33.33,True
+crop_000370.jpg,"12% semințe de susan, ulei de floarea-soarelui, apă,","12% SEMIMPO DE SUSAN, ULEI DE FLOAREA-SO",28.85,True
+crop_000371.jpg,"dulce), drojdie, apă, praf de ouă, sare, piper],","DUICE), DROODLE, APR, PRAY DLE OUR"", SARE,",33.33,True
+crop_000372.jpg,"sare, extract de malț de orz), condiment (boia de ardei","SALE, EXTRACT DE MALI DE ANY), CONDIMENT (BOL",29.09,True
+crop_000373.jpg,"33% panadă [făină de grâu, fulgi de porumb (porumb,","33% DAMADA (FAMA DE GRAU, FULGI DE PORUM",37.25,True
+crop_000374.jpg,"atmosferă protectoare. Ingrediente: 52% piept de pui,","AMOSTERI PROTECTORE, INIFIEDTE: 52% PEPT DE P",26.42,True
+crop_000397.jpg,sodiu; aromă: cafeină; arome,SODIUM; AROMA: CAFEIN EARM,25.0,True
+crop_000398.jpg,;corector de aciditate: citrați,ROMECTOR DE ACCIDITATE: CITRATI,16.13,True
+crop_000403.jpg,acidifiant: acid fosforic;,ADDMANT: ACID FOSFORIC;,19.23,False
+crop_000406.jpg,caramel cu sulfit de,CARAMEL ON SUITH @,35.0,False
+crop_000408.jpg,"ingediente: apă,","BYALIATE: AOA,",56.25,True
+crop_000424.jpg,"cu coajă lemnoasă, muștar, țelină, semințe de susan și sulfiți.","CU COAJA LEMOAASI, MUSTAR, FELINA, SEMINTE",46.03,True
+crop_000425.jpg,"zahăr. Poate conține urme de cereale care conțin gluten, soia, fructe","ZALAN POATE CONTIME URME DE CEREALE CARE CONTAIN GLUTEN,",30.43,True
+crop_000426.jpg,"floarea-soarelui, sare iodată, oțet de alcool, 0,7% usturoi, pătrunjel,","FIOREA-SOARELUI, SARE IODATA, OFET BE A",50.7,True
+crop_000427.jpg,"Ingrediente: 90% ardei capia copt, 3,1% oțet de mere, ulei de","INGREDIENTS: 90% ARDEI CAPIA COPT, 3.1% OF",36.07,True
+crop_000433.jpg,"benzoat de sodiu. Poate conține urme de gluten, soia, fructe",BENZOAT DE SODIU. POATE CONTIME URME DE GLUTEN,26.67,True
+crop_000434.jpg,"carboximetilceluloză de sodiu; conservanți: sorbat de potasiu,",CARDOMETICELULOZA DE SODIU; CONSERVANTI:,40.32,True
+crop_000435.jpg,"ceapă, sare iodată, usturoi granulat, pastă de roșii, stabilizator:","REAPT, SARE IODATA, USTURI GRANULAT, PAS",44.78,True
+crop_000436.jpg,"Ingrediente: 88,6% fasole fiartă, ulei de floarea-soarelui,","INGRECIENTS: 88,6% FASOLE FLATA, UEL DE",42.37,True
+crop_000443.jpg,"sorbic. Poate conține urme de cereale care conțin gluten, soia, fructe cu","SORBIC, POATE CONLINE URNE DE CEREALE CARE CONDIN GL",34.25,True
+crop_000444.jpg,"ulei de floarea-soarelui, 4,7% ceapă, sare iodată, conservant: acid","UEL DE HOAREA-SOARELLI, 4,7% CEAPA,",52.24,True
+crop_000445.jpg,"în atmosferă protectoare. Ingrediente: 85% vinete coapte,",IN ATMOSTERA PROTECTORE. INGREDIENTS: 85% VINATE,22.81,True
+crop_000451.jpg,"lemnoasă, semințe de susan și țelină. A se păstra la o temperatură cuprinsă între +2C și","TEMAGASI, SEMINTE DE SUSAN PI TELLMA,A SE",63.64,True
+crop_000453.jpg,"de sodiu, cultură starter), 11,8% cașcaval (din lapte de vacă pasteurizat), 11,8% ardei gras.","RE SOLD, CASHIER) 11,8% CASCINAL (DIN LAPTE",63.44,True
+crop_000454.jpg,"antioxidanți: acid ascorbic, ascorbat de sodiu; extracte de condimente, conservant: nitrit","AMTION DAMP: ACID ACCORDIC, ASCONDAF DE SOD",63.33,True
+crop_000455.jpg,"11,8% salam de Sibiu (carne de porc, sare, condimente, zaharuri: dextroză, sirop de glucoză;","TTL8% SALAM DE S/BILL COME DE PORS ARE, CONDIM",60.87,True
+crop_000456.jpg,"porumb. zăhar, sare iodată, usturoi granulat, piper, curry, conservant: sorbat de potasiu),","PORUMB, ZAHAR, SAME JODATA, USBUROI",68.13,True
+crop_000457.jpg,"soarelui, colorant: caroteni; coriandru măcinat), oțet din alcool, amidon modificat din","SOARELUI, COLORANT: CAROTENI; CORLANDRA MAINAT",49.43,True
+crop_000458.jpg,"(apă, făină de muștar, oțet din alcool, făină albă de grâu, zahăr, sare iodată, ulei de floarea","TAPE, FAIMABLE MARKTER, OFF OR ALCOOL, FLIMA ARE G",67.37,True
+crop_000460.jpg,"pasteurizat, ulei de floarea-soarelui, făină albă de grâu, apă, ouă pasteurizate, muștar","PATERURIZAT, USE ORDATEE-STARELL, FAIMI",68.18,True
+crop_000462.jpg,"smântână din lapte de vacă pasteurizat, sare, amidon modificat), lapte de vacă","SMENTHANA DIN LAPTE DE VACA PASTERIZAT,",57.69,True
+crop_000463.jpg,"de calciu], 17,6% sos [cremă de brânză (brânză proaspătă din lapte de vacă pasteurizat,",DECALCUAL IT6% SOS (CREMA DE BRINZA)BALNA PR,60.92,True
+crop_000464.jpg,enzime: a- si b-amilaze; agent de tratare a făinii: acid ascorbic; conservant: propinat,ENDIME: @-S/B-AMILAZE AGENT DE TRAKARE,60.92,True
+crop_000465.jpg,"variate), sare iodată, zahăr, zer praf, făină de soia, emulsifiant: stearoil-2-lactilat de sodiu;","VANTABLE, SAME IODATE, ZAHAR, PER PRINT, FLIM",64.95,True
+crop_000466.jpg,"drojdie de panificație, uleiuri vegetale (palmier, floarea-soarelui, rapiță, in proporții","DROXDIE DE DAMILICATE, UELIAN VEGETALE (BAL",62.92,True
+crop_000469.jpg,ascorbat de sodiu; arome naturale. conservant: nitrit,"ACOPDATE SOLD, AROME NATURALE, CONSERVANT: NICE",26.42,False
+crop_000470.jpg,"de condimente, extracte de condimente, antioxidant:","DE CONDIMENTE, EXTRACE DE CONDIMENTE, AMTOX",17.65,False
+crop_000471.jpg,"Ingrediente: ceafă de porc, cotlet de porc, sare, amestec,","INGRECIENTIC CEAIL DE PONG, COLLEI DE PORG S",41.38,True
+crop_000481.jpg,"(măsline verzi feliate, apă, sare, corectori de aciditate: acid citric, acid","(MASLINE VERZI FELIATE, APA, SARE, CORRECT",47.37,True
+crop_000482.jpg,"iodată, oțet de alcool, usturoi, pătrunjel, zahăr), 10,7% măsline verzi","TODATE, OFET BE ALCOOL, USTURI, PATRUNJ",52.11,True
+crop_000483.jpg,"oțet (ardei capia copți, oțet de mere, ulei de floarea-soarelui, sare","OFFET (ARDEI CAPIA COPI, OFF DE MAKE, UEL DE FID",43.48,True
+crop_000484.jpg,"conservanți: sorbat de potasiu, benzoat de sodiu), 16% ardei capia în","CONSERVANT: SOPBAT DE POTASIL, BENZOAT DE",44.93,True
+crop_000485.jpg,"5,5% pastă de susan, suc de lămâie, sare iodată, usturoi granulat","5.5% PASIA DE SUSAN, SUC DE LAMBLE, S",52.31,True
+crop_000486.jpg,"Ingrediente: 73,3% humus (82,4% năut fiert, ulei de floarea-soarelui","INGREDIENTS: 73,3% HUMUS (82,4% NAUT FLET",44.12,True
+crop_000516.jpg,"gluten din grâu, produse derivate din lapte, ouă si muștar. Expiră la:/Nr. Lot:","GALATEN MIN STATE, PENDEN DENIVATE AND LEVEL, AND IS MUSTAS",62.03,True
+crop_000517.jpg,"de sodiu; roșii pudră, colorant: extract de ardei roșu. Poate conține urme de:","THE FOLLOW, ROLLOWY, COLORANT, CHANCE FOR FOLLOW USSU.",67.95,True
+crop_000518.jpg,"conservant: metabilsulfit de potasiu), conservanți: sorbat de potasiu, acetați","CONSERIENCE METAILPOLLLLLE FOR FINDEN, COMERMENTS AD",62.82,True
+crop_000519.jpg,"derivate din pește, sare), 6% ceapă, suc de lămâie concentrat (conține","DETAILS ON FERSE, SAND, BE CASH, AND BE BANDLE",64.29,True
+crop_000522.jpg,"Ingrediente: ulei de floarea-soarelui, apă, 10% icre de hering sărate (Clupea","INVOODENTRE WILL BE THE ARE - BANDEN, BHD, YOU FOR OR",71.43,True
+crop_000537.jpg,"7%piure de mere,",".7% PLUTE DE MERE,",25.0,False
+crop_000538.jpg,"concentrat, zahăr,","CONCENT RAT, ZAHAR,",11.11,True
+crop_000553.jpg,"ANTIOXIDANT BHA, COLORANT E113, CONȚINE O SURSĂ DE FENILALANINĂ. CONSUMUL","ANTICODANT BHA, COLORANT E33. COMTIME 0 SURSU DE F",43.84,True
+crop_000554.jpg,"ACIDITATE CARBONAT ACID DE SODIU, AGENT DE GLAZURARE CEARĂ DE CARNAUBA","ACOTATE CARBONAT ACID DE SOONU, AGENT DE GUAZURA",37.14,True
+crop_000555.jpg,"ÎNCĂRCARE FOSFAȚI DE CALCIU, EMULSIFIANT LECITINĂ DIN SOIA, COLORANT E171, CORECTOR DE","INCLACARE FOSPATIONO, EMALSPANT LOCINA ON SDA, COL",58.14,True
+crop_000556.jpg,"AGENT DE ÎNGROȘARE GUMĂ ARABICĂ, AGENT DE UMEZIRE GLUCEROL, AROME, AGENT DE","AGENT DE INGROSAKE GUNA ARABICK, AGENT DE UME",48.0,True
+crop_000557.jpg,"INGREDIENTE: ÎNDULCITORI XILITOL, SORBITOL, ASPARTAM, ACESULFAM K; BAZĂ DE GUMĂ","INORDENTE INDUCTORD XICTOL, SORBITOL, ASPARTAM,",45.57,True
+crop_000560.jpg,"amidon modificat, agent de îngroșare: guma carruba, guma de guar,","AMILON INDJITAT, ADENT DE INGROS ARE AGAIMA GARD",46.15,True
+crop_000561.jpg,"ciocolată (zahăr, cacao), 0,1% ciocolată, dextroză, ouă, sare alimentară,","INVOICE TAILS, AIDD, D.1% GOODIABLE, DETA",72.6,True
+crop_000562.jpg,"Ingrediente: lapte integral, zară, apă, zahăr, 6,3% orez, 2,2% pudră de","@ IMPELLEME LABLE METERL, ARN ADJ, ZALAN 6",67.61,True
+crop_000583.jpg,Ingrediente: apă,INGREDIENTTE: APA,12.5,True
+crop_000584.jpg,îndulcită cu zahăr.,INDULOTA CU ZAKER,36.84,True
+crop_000588.jpg,"naturale, vitamina D3). Grăsime în substanță uscată: 11,4%. Expiră la data de: vezi pe","INATURE, NITAMINA DB), GRASINE IN SUBTAINIA USCATA:",54.65,True
+crop_000589.jpg,"banană 6,2% (cu adaos de: calciu [citrat de calciu], suc concentrat de lămâie, arome",BANANA 6.2% (QU ADADS DE: CALDU (DURAT,61.9,True
+crop_000590.jpg,"soc, concentrat de zmeură, arome naturale, suc concentrat de lămâie, vitamina D3) scu","SOC, SOCONCENT DE ZNEURA, AROMENATURE, SUCONENTABLE",48.24,True
+crop_000591.jpg,"smântână, zahăr, zmeură 6,3% (cu adaos de: calciu [citrat de calciu], suc concentrat de","SMANTANA, ZAHAR, AMEURI 6/3% (A) AD",68.97,True
+crop_000597.jpg,colorant: caroteni. Conține  o sursă de fenilalanină. A se,COLORANT: CAROTENI. CONTIME O SURSA DE FENILALAN,22.41,True
+crop_000598.jpg,"arome naturale, inclusiv chinină, stabilizatori: E 1450, E 445,","AROME NATURATE, INCLUSIV CHININA, STABILIZATORI:",26.98,True
+crop_000599.jpg,"antioxidant: acid ascorbic, conservant: sorbat de potasiu,","ANTIOXIDANT: ACID ASCORDIC, CONSERVANT: SORBAT",22.41,False
+crop_000600.jpg,"sodiu, îndulcitori: aspartam, zaharinat de sodiu, sucraloză,","SODIU, INDULCITORI: ASPARTAM, ZAHARINAT",36.67,True
+crop_000601.jpg,"carbon; acidifiant: acid citric, corector de aciditate: citrați de","CARDON, ACIDIPANT: ACID CITRIC, CORECTOR DE AC",34.85,True
+crop_000602.jpg,"grediente: apă, suc de lămâie din concentrat (2%), dioxid de","REDIENTS: APA, SUC DE LAMAIE DIN CONCENTRAT (",31.67,True
+crop_000607.jpg,"(ACID FOSFORIC), ÎNDULCITORI","(ACD FOSFORD, INDULOTOR!",28.57,True
+crop_000608.jpg,"SULFIT DE AMONIU), AROME (CONȚIN CAFEINĂ),","SURT DE AMOWNU), AROME (CONTIN CAFEWA),",21.43,True
+crop_000609.jpg,"E: APĂ, ZAHĂR, DIOXID DE CARBON, COLORANT (CARAMEL CU","E APK ZAHAR, DIXD DE CARBON, OLDRANT (CAR",28.3,True
+crop_000612.jpg,"CU AROMĂ DE COLA, CU ZAHĂR ȘI","GU AROMA DE COLA, QU ZAHUR S!",20.69,True
+crop_000622.jpg,"Conțin alergeni (făină, ouă, lactoză)","CONFIN ALERGENI (FAINA, DUA, IACTOZA)",18.92,True
+crop_000623.jpg,"Ingrediente: făină albă 480, grăsimi vegetale,","INGREDIENTE, FAINA ALBA 480, GRAIMI VEGETALE",15.22,True
+crop_000632.jpg,"aromă naturală, boia de ardei dulce, agent de îngroșare: gumă de guar. Poate conține urme de","AROMI NATURNA, BOIA BE ARDELLATE, AGENT BE INGR",59.78,True
+crop_000633.jpg,"17% porumb, 9% ardei gras roșu, apă, morcovi, ceapă, ulei de floarea-soarelui, sare, zahăr,","17% PARIMA, 9% ARDEI GRAS TOTAL, APK, MORCON",62.64,True
+crop_000634.jpg,"stil mexican. Produs sterilizat. Ingrediente: 25% ton dungat, 23% fasole roșie,",STIL MAXICAN. PRODAS STERILZAT.INGREDIENTS:,49.37,True
+crop_000642.jpg,"Ingrediente: 50% gutui felii, apă, zahăr, antioxidant:","INGRECIENTE: 50% OUTUL FELL, APK, ZALAN,",38.89,True
+crop_000646.jpg,"coloranți, arome, conservanți artificiali.","COLORANTI, AROME, CONSERVANTI ARTIFICIALI.",4.76,True
+crop_000647.jpg,"Nu conține: gluten, sare, drojdie, grâu, soia, lactate,","NU CONTING: GLUTEN, SARE, DRYDIE, GRAU",38.18,True
+crop_000648.jpg,Conține vitamina D3 125mcg/capsulă.,CONLINE VITAMINA D3 125MCG/CAPSULA.,5.71,True
+crop_000652.jpg,"apă purificată], vitamina D3 (colecalciferol) 125mcg","APA PURIFICATAJ, VITAMINA D3 (COLECALCIEROL",23.08,True
+crop_000653.jpg,"tinctorius)(emulsifiant), capsulă [gelatină, glicerină,","TINCTORIUS)(EMULSIFANT), CAPSULA [GEL",34.55,True
+crop_000654.jpg,Ingrediente/capsulă: ulei de Șofrănel (Carthamus,INGREDIENTE/CAPSULA: ULEI DE SOFRAVEL (,27.08,True
+crop_000662.jpg,Denumire: Vitamin D3 5000UI,DENUMIRE: VITAMIN D3 500OUI,3.7,False
+crop_000668.jpg,"INGREDIENTE: 100% lapte natural de capră neomonegizat, pasteurizat",MOBBIENTS 100% LAPLE MALURAL DE CARDED NEONOGEN,51.52,True
+crop_000671.jpg,Conține o sursă de fenilalanină. A se consuma de preferință înainte de:,CONTIMER SURSUBLE (EXUALAMIA) . LSE CONSIMNA DE GREEN,52.11,True
+crop_000672.jpg,"de aciditate citrați de sodiu, arome naturale de lămâie și lămâie verde.","THE ADDITATE DETAIL OF SOLLOW, AROME NATURATE OF DAMALE",52.78,True
+crop_000673.jpg,"acesulfam-K, aspartam și E 959, conservant benzoat de sodiu, corector","AMESULIAMA, ASPARTAM SI F159, ONSERMANI BEN",49.28,True
+crop_000674.jpg,"frunctoză-glucoză, dioxid de carbon, acidifiant acid citric, îndulcitori:","""INCLOZ-GLUCOR, DIXO DE CARDOM, ADDIRA",58.9,True
+crop_000675.jpg,"îndulcitori. Ingrediente: apă, sirop de","INDULCTORT. IngREDENTE: ABA, SIROP DE",15.38,True
+crop_000676.jpg,"aromă de lămâie și lămâie verde, cu zaharuri","PROMS DE LAMALE SILIMBLE VEGE, CU ZALBARUN",36.36,True
+crop_000685.jpg,ciocolată cu lapte: 30% minimum. Poate conține urme de alte fructe cu coajă,DIOODATE ON LAPTE: 30% MINIMUM. POATE CONLINE UR,44.0,True
+crop_000686.jpg,"migdale 0,3%, nuci 0,3%, arome naturale. Substanță uscată de cacao în","MIGDATE 0,3%, NUCI 0,3%, ARONE NATURALE",46.38,True
+crop_000687.jpg,"aromă de vanilie naturală), grăsimi din lapte, emulsifiant: lecitine (soia);","AROMA DE VANILLE NATURALA), ORIGIMI ON LAPTE,",50.0,True
+crop_000688.jpg,"afânare: bicarbonat de sodiu; emulsifiant: lecitină din floarea soarelui; sare,","AFANARE: BICARDONAT DE SODU, EMULISFANT:",55.7,True
+crop_000689.jpg,"cacao pudră, biscuiți 0,9% (făină de grâu, zahăr, malț de grâu, agenți de","CACCO PUDRA, BISCUIT 0.9% (TAINA DE G",57.53,True
+crop_000690.jpg,"(palmier, shea), masă de cacao, alune de pădure, 1,4% lapte praf degresat,","(PALMIER, SHEA), MASA DE CACAD, ALUNE DE P",45.95,True
+crop_000691.jpg,"nuci. Ingrediente: zahăr, unt de cacao, lapte praf integral, grăsimi vegetale","INUCI. INGREDENTE: ZAHAR, UNT DE CACAD",55.84,True
+crop_000692.jpg,RO Ciocolată cu lapte (70%) cu (30%) umplutură de praline cu biscuiți și,@ CHOCOLATE CU LAPTE (70%) CU (30%) UMPULTUR,45.83,True
+crop_000717.jpg,"agent antiaglomerant: stearat de magneziu vegetal,",AGENT ANTIAGLOMERANT: STEARAT DE MAGNEZU VEG,12.0,False
+crop_000718.jpg,"îngroșare: celuloză, gumă din celuloză modificată;","INGROSARE: CELULOZA, GUMA DIN CEULOZA",34.0,True
+crop_000719.jpg,Alte ingrediente: îndulcitor: sorbitol; agent de,ALTE INGROUNDIENTS: INDULCTOR: SORDITION AGENT BE,22.92,True
+crop_000759.jpg,"Poate conține urme de lapte (înclusiv lactoză),",PURTE CONLINE LIME ON LAYLE INCLUSIVE RECEIPT.,42.55,True
+crop_000761.jpg,monoglutamat de sodiu; conservant: nitrit de sodiu.,MONDELAMART BE ROLLY COMPERMENTE WITH BE GOODUL.,49.02,False
+crop_000763.jpg,"ascorbic; usturoi, piper negru, potențiator de aromă:","ASSCOUNTIC, USTUROL, PIGER MEGEN, POTEM",49.06,True
+crop_000764.jpg,"acetați de sodiu; antioxidanți: acid citric, acid","RECEIPT DE ADDIC AMTENDENTS SOLD ETHIE, ALLA",59.18,True
+crop_000766.jpg,"de rapiță, proteine de soia, corector de aciditate:","DATE REQUIRED, PROTELLME OF ASILA, CONCENTAR OF RECE",60.78,True
+crop_000768.jpg,"pui separată mecanic, apă, făină de grâu, sare, ulei","PAY SEPARATED MECHING, ADL, FLIM DUE GRILL,",51.92,True
+crop_000770.jpg,atmosferă protectoare. Ingrediente: 75% carne de,"ATMOSTED PROTICIANT,INGRECIENTS. 75% CARME OF",33.33,True
+crop_000775.jpg,"soarelui, legume deshidratate (ceapă, usturoi), sare.","SOARELUI, IEGUME DESHORRATATE (CEAPB",39.62,True
+crop_000776.jpg,"mazăre, făină din mazăre, ulei vegetal de floarea","MAZURE, FLIND JLN MAZARE, UEL VEGETAL DE",32.65,True
+crop_000777.jpg,"apă, proteină din mazăre, proteină din bob, fibre din","ADD. PROTEING OIN MAZINE, POTELIMA DIN BOB",41.51,True
+crop_000779.jpg,Poate conține urme de: susan.,POATE CONLINE URNE DE: SUSAN.,6.9,True
+crop_000780.jpg,acizilor grași.,ACIZILOR GRASI.,6.67,True
+crop_000781.jpg,"și digliceridele acizilor grași, mono și digliceride ale","SIDIGLICERIDLE ACIZILOR GRASI, MONO SI D",33.93,True
+crop_000782.jpg,"sodiu, esteri ai acizilor mono și diacetiltartric cu mono","SODIU, ESTERI AI ACIZILOR MONO SI DIACETILAT",24.56,True
+crop_000783.jpg,"gluten de grâu, cmulsifianți: stearoil-2-lactilat de","GLUTEN DE GRÁ, EMULSIFANTI: STEAROIL-2",32.69,True
+crop_000784.jpg,"lactice ), lapte praf, ulei de floarea soarelui, sare,","LACTICE ), LAPTE PRAF, ULCI DE FLOAREA SOAR",22.22,False
+crop_000785.jpg,"ascorbic E 300, enzime), iaurt ( lapte de vacă, culturi","ASCOFBIE E 300, ENZIME), LAURT ( LAPTE DE",30.91,True
+crop_000786.jpg,"confiată și uscată, dextroză, aromă, antioxidant: acid","CONFINAL SI USCATA, DEXTROXA, AROMA, AMTIO",38.89,True
+crop_000787.jpg,"maia naturală deshidratată din grâu, coajă de portocală","MAIN NATURALA DESHIDRATALAN DIN GRAU, CO",40.0,True
+crop_000788.jpg,"unt 3%, maia funcțională ( făină albă de grâu 650,","UNT 3%, MAIA FUNCHONALA ( FAIMA ALBA DE GRA",28.0,True
+crop_000789.jpg,"sare, antioxidant: acid ascorbic], zahăr, ouă, drojdie,","SARE, AMTIOXIDANT: ACID ASCORDIC], ZAHAR,",30.91,True
+crop_000790.jpg,"stabilizatori: alginat de sodiu, guma xantan, arome,","STABILIZATORI: ALGINAT DE SODIU, GUNA XANT",21.15,False
+crop_000791.jpg,"arahide, făină de soia, griș de grâu, zahăr caramelizat,","ARAHIDE, FRIMA DE SOIN, GRIS DE GRAU, Z",41.07,True
+crop_000792.jpg,"albuș ou, cremă cacao 3%, stafide 3%, pesmet,","IBUS ON, CREMA CACAO 3%, STAFIDE 3%, PESMET",13.33,True
+crop_000793.jpg,"cu cremă cacao, nucă și stafide 40% [zahăr, nucă 10%,","A CREMA CANO, MUCH SI STATE 40% [ZAHAR, NUCA",33.96,True
+crop_000794.jpg,"INGREDIENTE: Făină albă de grâu 480, umplutură","NGREDIENTE: FAIMA ALBA DE GRAU 480, UNPLUTUR",17.39,True
+crop_000798.jpg,"Poate conține urme de: de OU, CHIMEN, FĂINĂ DE GRÂU","POATE CONLINE URME DE : DU, CHIMEN, FAINA DE GRAU",15.69,True
+crop_000799.jpg,"grăsimi animale 12%, apă 11%, cacao 4% (min 12%), arahide 4%, esențe.","GRIOSIMI ANIMATE 12%, APA 11%, CACAN 4% (",49.28,True
+crop_000800.jpg,"Ingrediente: zahăr 40%, lapte praf integral 29%(26% grăsime),","INGRECIENTE ZAHAR 40%, LAPTE PRAF INTERNAL 29%",31.15,True
+crop_000801.jpg,"fulgi de ceapă 1%, ceapă verde 0,2%.","FULGI DE CEAPA 1%, CEAPA VERDE 0.2%",11.11,True
+crop_000802.jpg,"floarea-soarelui, sare, extracte vegetale,","MOAREA-SOARELUI, SARE, EXTRACTE VEGETALE",7.14,False
+crop_000804.jpg,"ingrediente: apă, izolat proteic de SOIA","INGREDIENTE: APA, IZOLAT PROTEIC DE SOLA",5.0,True
+crop_000806.jpg,"Glazura de cacao (grăsime de palmier,cacao și zahăr).","GLAZURA DE CACAO (GRASIME DE PALMIER,CACA",24.53,True
+crop_000808.jpg,"sirop de glucoză, apă,acid sorbic, aromă (CARAMEL),","SIROP DE GLUCOZA, APA,ACID SORBIC, AR",31.37,True
+crop_000809.jpg,"zahăr, cacao 3%,margarină vegetală nehidrogenată,","ZAHAR,CACAO 3%,MARGANINA VEGETALA NEH",32.65,True
+crop_000811.jpg,"iodată, metabisulfit de sodiu E 233),rahat de cacao,","IODATE, METABISLIFIT DE SODIU E 233),RAHAT",25.0,True
+crop_000813.jpg,"bicarbonat de sodiu E500, lecitină din soia,sare","BICARDONAT DE SODIU E500, IECITINA DIN SOLA",18.75,True
+crop_000815.jpg,"nehidrogenată, zahăr, bicarbonat de amoniu E503,","NEHLOGENATA, ZAHAR, BICARDONAT DE AMONIU E",20.83,True
+crop_000816.jpg,"tip 650, apă, sirop de glucoză, grăsime vegetală","TIP 650, APJ, SHOP DE GLUCOZA, GRASIME VEG",20.83,True
+crop_000818.jpg,Ingrediente:BIscuiți populari 35% (făină de grâu albă,INGREDIENTA:BISCUIT POPULARI 35% (TAINA DE GRA,22.64,True
+crop_000821.jpg,din agriculura ecologică. Poate conține urme de migdale și alune de pădure.,"* AN ORIGILITURA ECOLOGIOD, POOTE CONLINE URME DE MID",50.67,True
+crop_000822.jpg,"Ingrediente: nuci caju (65%), apă, sare de Himalaya, culturi de fermentare","INGREEMENTE: MADE AGAI* (65%), APB, SARE DE HIM",52.7,True
+crop_000824.jpg,"grăsimi adăugate, drojdie, agenți de îngroșare.","GRAIMI ADAUGATE, DROJDIE, AGENTI DE IN",27.66,True
+crop_000825.jpg,"NU CONȚINE: gluten, soia, conservanți, uleiuri,","NU CONTINE: GLUTEN, SOIA, CONSERVANTI, U",19.15,True
+crop_000827.jpg,"pătrunjel, cimbru, asmățui, piper, tarhon și ATÂT.","PATRUNJEL*, CIMBRU"", ASMARTUR"", PIPER"",",50.0,True
+crop_000828.jpg,"culturi vegane de fermentare, usturoi, arpagic,","CULTURI VEGANE DE FERMENTARE, USTUROL"", ARP",14.89,False
+crop_000829.jpg,"Ingrediente: nuci de caju, sare de Himalaya, apă,","INGREDIENTE: NUCI DE CAJU*, SARE DE HIMALAYA",14.29,True
+crop_000831.jpg,"grăsimi adăugate, drojdie, agenți de îngroșare.","GRAIMI ADJUGATE, DROJOLIE, AGENTI DE IN",31.91,True
+crop_000832.jpg,"NU CONȚINE GLUTEN, soia, conservanți, uleiuri,","NU CONTINE GLUTEN, SDA, CONSERVANTI, UEL",21.74,True
+crop_000834.jpg,"Himalaya, culturi vegane de","HIMALAYA, CULTURI VEGANE DE",0.0,False
+crop_000835.jpg,"nuci de caju 69%, apă, sare de","INVOICE CAJU* 69% APA, SARE DE",26.67,True
+crop_000837.jpg,ecologică. Poate conține urme de nuci caju și migdale.,ECOLOGICO. PORTE CONLINE URNE DE NUCI CAJU SI,25.93,True
+crop_000838.jpg,"de lămâie, corector de aciditate: acid citric vegan, din agricultura","DE LAMBLE"", CORRECTOR DE OCIDITATE: ACID DITIC V",42.65,True
+crop_000840.jpg,"Ingrediente: preparat cu boabe de Năut 81% (Năut 24%, apă), pastă",INGRECIENTE: PEPOROT CU BOOBE DE NEUR* 81%,47.69,True
+crop_000853.jpg,"alune de pădure, nuci pecan și susan.","ALUME DE PAIDUE, NUCI PECAN SI SUSAN.",13.51,True
+crop_000854.jpg,"Poate conține urme de lapte, soia, migdale, caju,","POATE COMLINE UTIME DE LATTE, SOIA, MIDDATE, CAJU",16.33,True
+crop_000855.jpg,"floarea-soarelui. Cereale 57,5%.",TIOAREA-SOARELUR* . CEREALE 57.5%,21.88,False
+crop_000856.jpg,"vanilie pudră*), miere*, sare, ulei de","VANILIE PUDRA*,MIERE*, SARE, UEL DIE",15.79,True
+crop_000857.jpg,"2,5% (pudră de cacao* 60%, zahăr de trestie*,","2.5% (PUBLRA DE CACAR* 60%, ZAHAR DE TR",28.89,True
+crop_000858.jpg,"6,5%, pudră pentru ciocolată caldă elvețiană*","6.5%, PUDRE PENTRU CICOLLATIA CALDA ENE",33.33,True
+crop_000859.jpg,"zahăr*, sirop de grâu, cacao* pudră degresată","ZALIAI*, STOP DE GRAU, DACAR* PUDRA DECRES",31.11,True
+crop_000860.jpg,"Ingrediente: făină de grâu* și secară* (57,5%),","INGREDIENTE, FAND DE GRAU* SI SECARA* (57.5",23.4,True
+crop_000874.jpg,"conține urme de soia, ouă si fructe cu coajă lemnoasă.","CONLINE UTHE DE SOIA, OUR SI FRUCE CU COAIA LEMON",22.22,True
+crop_000875.jpg,"disodic), zer praf (lapte), sare, aromă, conservant (metabisulfit de sodiu). Poate","DISCODC), PER PRAPTE), SARE, AROMA, CONSERV",52.44,True
+crop_000876.jpg,"agenți de afânare (carbonat acid de amoniu, carbonat acid de sodiu, difosfat)","AGENTI DE ARIANATE (CARBONAT ACID DE AMONIU, CAR",45.45,True
+crop_000877.jpg,"vegetal (palmier), sirop zahăr invertit, lapte grăsime 3% proaspăt pasteurizat (2,5%),","RECEIAL (DALMIER), SHOP ZAHOR INENTIT, LAP",59.3,True
+crop_000878.jpg,"RO Biscuiți cu lapte proaspăt. Ingrediente: Făină de grâu (60%), zahăr, ulei",GST REGALIT CO LAPTE PROASPAT. INGRADIENTE,61.84,True
+crop_000884.jpg,"arome (rom, portocală). Conține gluten, lapte, soia, ou. Poate conține","AROME (ROM, PORTOCALD), CONLINE GLUTEN, LAPTE,",38.57,True
+crop_000885.jpg,"acid de amoniu), agent antiaglomerant (carbonat de magneziu), sare,","ACID DE AMONIU), AGENT ANTAGLOMERANT (CARDON",35.82,False
+crop_000886.jpg,"carbonat acid de sodiu), amidon din porumb], agent de afânare (carbonat","CARDONAT AID DE SODIU, AMIDON DIN PORUMB",45.07,True
+crop_000887.jpg,"UE și din afara UE), praf de copt [agenți de afânare (difosfat disodic,","UE SI DIN ATARA UE, PROF DE COPT AGAENTI DE DION",42.25,True
+crop_000888.jpg,"din UE), fibră de soia, gălbenuș de ou, coajă de portocală 2,7% (origine: din","DIN UE, FIBRA DE SALBENUS DE OU, COOD BE P",51.95,True
+crop_000889.jpg,"Produs copt. Ingrediente: Făină albă de grâu, zahăr, unt 19,2% (origine:",PRODUS COPT INGREDIENTS: FOIND ALBO DE GRAU,45.83,True
+crop_000892.jpg,Ingrediente :semințe de schinduf-pudră;,.INGREDIENTE: SEMINTE DE SCHINDUT - PUDRA;,20.51,True
+crop_000898.jpg,"acidifiant: acid citric, coloranți: coșenilă și beta caroten, antioxidant: acid ascorbic,","ADDIENT SOLD, COLORANT FORMIA 9'BETA CAROKEN, ANDARDANT",56.18,True
+crop_000899.jpg,"roșii de Sicilia obținut din suc concentrat de portocale roșii de Sicilia (25%), zahăr,",TOTAL OF SCIPT CONTEDING CORCENTABLE PERICOBLE FOR DE SCATE (,58.62,True
+crop_000900.jpg,"roșii de Sicilia. Conținut de fructe: minimum 25%. Ingrediente: apă, suc de portocale","NOODS SOLD FORPUT BE FUCE MINIMUM 25%, HARDENOR",58.82,True
+crop_000910.jpg,nitrit de sodiu. Membrană naturală. Temperatura de păstrare:,INITRICE SOLD. MEMBER AND NATURNABLE TEMPERATURE OR DESTR,38.33,True
+crop_000911.jpg,"antioxidant: acid ascorbic; usturoi, colorant: carmin; conservant:","AMPOXDANT AND ASSORDIC USTERO, COLORANT CARMINS CON",33.33,False
+crop_000912.jpg,"sare iodată, stabilizatori: polifosfați de sodiu; condimente,","SALE TOTALA, STARTIZATION, POLIFOSIAY DE SOLUS, COND",42.62,True
+crop_000913.jpg,"Ingrediente: carne de vită (50%), slănină, apă, carne de porc,","INGRECIENTE COME DE WILL (SOS), SISMINAL, ADN",50.0,True
+crop_000914.jpg,în substanță uscată) min. 45%. Alergeni: conține lactoză.,"IN SUBSTANTA USCATA) MIN. 45%, ALERGENI:",38.6,True
+crop_000916.jpg,"clorură de calciu, cheag, culturi lactice selecționate, sare,","DONURI DE CALGIU, CHEAG CULTURI LACTICE SELECTIONATE",22.95,True
+crop_000917.jpg,"Ingrediente: lapte de vacă normalizat pasteurizat,",INGREDIENTS: LAPTE DE VACI NORMALIZAT PASTERIZ,12.0,True
+crop_000918.jpg,SARE IODATA. Contine alergenii:GLUTEN. Soia.,SARE IODATA. CONTIME ALERGENI:GLUTEN. SOIA.,4.55,False
+crop_000919.jpg,"AMONIU, BICARBONAT DE SODIU ), AROMA,","AMONIU, BICARBONATE SODIU ), AROMA.",8.11,False
+crop_000920.jpg,"Soia ), AGENTI DE AFANARE ( BICARBONAT DE","SELA), AGENTI DE AFANARE (BICARBONATE",14.63,False
+crop_000921.jpg,"PALMIER, ZAHAR, EMULSIFIANT ( LECITINA DIN","PALMIER, ZAHAR, EMULSIFIANT (LECTINA DIN",4.76,False
+crop_000922.jpg,"00FAINA DE GRAU, ,GRASIMI VEGETALE DE","00FAINA DE GRAU, GRASIMI VEGETALE DE",2.7,False
+crop_000933.jpg,"de sodiu. Poate conține urme de soia, lapte (lactoză),","OR SOOLED POATED COMLINE UMME DE SOLA, LAPLE (IN",38.89,True
+crop_000934.jpg,"de sodiu; maltodextrină, aromă de fum, conservant: nitrit","BE SOLD, MALTONORIMA, AROMA DE ITEM, CONSERM",47.37,True
+crop_000954.jpg,"susan, fructe cu coajă lemnoasă, lupin, ouă și țelină.","SHANK INVOICE ON CONDITIONES, INCLUS, ONE OF FOLLANT.",66.67,True
+crop_000955.jpg,"urme de lapte și produse derivate, muștar, semințe de","AMOUNT BE INVOICE AT PRODUCTED SERVICES, MUSTBACK, REMEATO OR",64.15,True
+crop_000956.jpg,"de porc, sare, amestec de condimente. Poate conține",ON BACK FACE AMEETEE ARE COMDIMENTE. PASITE CONFINE,35.29,True
+crop_000957.jpg,de esență tare. Ambalat în vid. Ingrediente: muschiuleț,SR ECEIPT RATE AMOUNT IN VEGETABLE INSCHANGE,60.0,True
+crop_000963.jpg,"Ingrediente: lapte pasteurizat, sare, culturi lactice selecționațe, cheag","INGRECIENTE: TAPTE PASTERIZAT, SARE, OUTUR",46.58,True
+crop_000964.jpg,Conținut de grăsime raportat la substanța uscată minimum 55%.,COMMINT BE GRASIME RAPORTATIA SUBSTANTAUSCATA MIN,31.15,True
+crop_000987.jpg,ascorbat de sodiu; conservant: nitrit,"RECEIPT DE SODUR, COMSERVANT: MILOT",37.84,False
+crop_000990.jpg,stabilizator: trifosfați; antioxidant:,"STABILIZATOR, MILOSTAH, AMTIONDAUR.",36.84,True
+crop_000994.jpg,"din cartofi, aromă naturală, glucoză.","DIN CARTON, AROMA NATURNA, GLACOTA,",27.03,True
+crop_000996.jpg,"amestec de condimente, amidon","AMESTER DE CONDIMABLE, AMIDON",13.79,False
+crop_001002.jpg,"formată, apă, sare, zahăr, amestec","FORMULI, APL, SITE ZALAN, AMESTER",32.35,True
+crop_001004.jpg,Ingrediente: 87% carne de curcan,INGREDIENTE 87% CARNE DE CARLAM,12.5,False
+crop_001012.jpg,"aromatice, morcovi deshidratați, ardei gras deshidratat). Deși au fost efectuate","AMOUNTICE, IMPROVE DESCIPTANTLY ANDE (RES DEBITRA",61.25,True
+crop_001013.jpg,"Ingrediente: fileuri de macrou, sare, amestec de condimente (0,5% plante","INGREEMENTED TIBEN BEETMENT, SAIT, AMETRE OF COND",58.33,False
+crop_001014.jpg,aromatice. Bogat în acizi grași Omega-3. Ambalat în atmosferă protectoare.,"AMOUNTBOOK. ROGAT IN ALCLE JAY OMEGABLEA, ADH",66.22,True
+crop_001032.jpg,"conservant: nitrit de sodiu), extracte de condimente, condimente, dextroză, oțet de","COMEIPENT MUST OR ABILITY CHANCE OF CONDERSTE, CONDIMENTS",62.65,True
+crop_001033.jpg,"atmosferă protectoare. Ingrediente: 97% pulpă de porc, sare cu nitriți (sare,","AMOUNTED PURCHAS ARE INCLABLE 3% POICE OF FOR FACE ON WHITE,",63.64,True
+crop_001036.jpg,"GLUTEN, LACTOZĂ, MUȘTAR.","GLUTEN, LACTOZA, MUSTAR.",8.33,True
+crop_001037.jpg,acizilor grași). Poate conține urme de:,ACIZILOR GRASI). POATE CONTHE URME BE:,12.82,True
+crop_001038.jpg,"SOIA, emulsifiant (mono- si digliceride ale","SOLA, EMULSIHANT (MONO-DIGHCERDEAE",27.91,False
+crop_001039.jpg,"acetați de potasiu), proteină vegetală de","ACETATION DE POTASIU), PROTEING VEGETABLE",19.51,True
+crop_001040.jpg,"de sodiu), acidifianți (lactat de potasiu,","DE SODIU), ACIDINANTI (LACTATICE POTASU,",14.29,True
+crop_001041.jpg,"sodiu), sare nitrică (sare, conservant: ntrit","SODIU), SARE NITRICA (SARE, CONSERANT: nTR",8.89,True
+crop_001042.jpg,"neiodată, corectori de aciditate (citrați de","NEIODATA, CORECTORI DE ACIDITATE (DETAILRE",15.91,True
+crop_001043.jpg,"(monoglutamat de sodiu), condimente, sare","(MONOGLUTAMAT DE SODIU), CONDIMENTE, SARE",0.0,False
+crop_001044.jpg,"sodiu), arome, potențiator de aromă","SODIU), AROME, POTENITATOR BE AROMA",11.43,True
+crop_001045.jpg,"antioxidanți (ascorbat de sodiu, eritorbat de","ANTIOXIDANTI (ASCOPDAT DE SOONU,ERTORB",26.67,True
+crop_001046.jpg,"vită, agent de îngroșare (caragenan),","VITA, AGENT DE INGROSARE (CARAGENAN),",8.11,True
+crop_001048.jpg,"(trifosfați, polifosfați), proteină animală de","(TRIFOSFATI, POLIFOSFATI), PROTEINA AN",23.91,True
+crop_001050.jpg,"modificat din porumb, dextroză, stabilizatori","MOOLIFICAT DIN PORUMB, DEXTROZA, STABIL",22.22,True
+crop_001051.jpg,"pasăre lucru, piele de pasăre, apă, amidon","PASARE IUCRU, PIELE DE PASARE, ADJ, AM",21.43,True
+crop_001053.jpg,"Ingrediente: piept de pui 54%, carne de","INGREDIENTE: PIEPT DE PUI 54%, CARNE BE",2.56,False
+crop_001089.jpg,"E330, antioxidanți: E306, E304 (i): aroma], stafide 7%,","E330, AMTIOXIDANTI: E306, E304 (D): AR",36.36,True
+crop_001090.jpg,"floarea-soarelui, rapita), emulsifiant: E471, acidifant:","FLOARAS-SORALLI, FAPLIA), EMALAILANT:",50.0,False
+crop_001091.jpg,"lichide], uleiuri si grasimi vegetale rafinate [(palmier,","UCHIDEJ, UALURI AI GRABIMI VEGETALE RAFINATE",33.33,False
+crop_001092.jpg,"aroma, aroma (con?ine LAPTE), coloranti: E150a,  E101; OU","AROMA, AROMA (CONPINE LAPTE), COLARANTI:",33.33,False
+crop_001093.jpg,"integral, LAPTE praf degresat, agent gelatinizant: E401,","INTAGRAL, LAPTE PRAP AGREASI, AGENT GALATIN",35.71,False
+crop_001094.jpg,"apa, umplutura crema 24% [amidon modificat, LAPTE pra","APA, UMPULTURA CREMA 24% (AMIDAN MEDIFICAT,",28.3,False
+crop_001110.jpg,Ingrediente: Pulpe pui inferioare cu os si piele.,INGREDIENTS: PULPS PUL INPERIGARE CU OS SI PIBLE.,12.24,False
+crop_001158.jpg,"sare, cheag. Gr/SU: min. 30%. Conține: Lapte. Origine lapte: România.","SARE, CHEAG, GR/50: MIN. 30%: COMPINE: LAP",47.83,True
+crop_001159.jpg,"Ingrediente: Lapte de vacă pasteurizat, culturi lactice selecționate,","INGREDIENTE: LAPTE DE VACI PASTEORIZAT,",46.38,True
+crop_001161.jpg,"antioxidant (eritorbat de sodiu), conservant (nitrit de sodiu). Produs vidat,","ANTIONDANT (ERITORBAT DE SODIU), CONSERVANT (M",42.86,False
+crop_001162.jpg,"gumă de xantan), pontețiator de aromă (monoglutamat de sodiu),","GUMA DE XANTAN), POTENITATOR DE AROMA (MOM",40.32,True
+crop_001163.jpg,"amidon modificat, proteină animală, arome, agenți gelatinizanți (caragenan,","AMIDON MODIFICAT, PROTEINA ANIMALA, AROME,",46.67,True
+crop_001164.jpg,"potasiu, acetat de potasiu, citriți de sodiu), stabilizatori (difosfați, trifosfați),","POTASIL, ACETAT DE POTASIL, DITRAXIDE S",60.0,True
+crop_001165.jpg,"Ingrediente: pulpă de porc cu slănină și șorici, apă, sare, acidifianți (lactat de","INGREDIENTE: PULPA PORO ON SDENIMA SI SORD,",60.98,True
+crop_001169.jpg,"nitrit de sodiu), colorant de suprafață (anatto). Ambalat în vid.","UNVOICE SOLD, COLORANT DE SUBMABA (AMATO), AMBAL",44.62,True
+crop_001170.jpg,"naturale, agent de îngroșare (gumă de xantan), conservant","DATURATE, ARIM DE INFORATE (QUMA DE KAMAN), CON",40.35,True
+crop_001171.jpg,"(lactat de sodiu), antioxidant (eritorbat de sodiu), arome","(ARTAT DE QUID), AMTOXDANT (EXDOTAL DE SODU",41.38,False
+crop_001172.jpg,"stabilizatori (difosfați, trifosfați, polifosfați), agent de întărire","SADILIZATION U.03AU, UNINSAY, POLIFOSATU,",62.32,True
+crop_001173.jpg,"Ingrediente: piept de pui dezosat, apă, sare, amidon,","INCLUDIENCE, DE DE NOT REGEAT, ADA, SARE, AMOUNT,",41.51,True
+crop_001182.jpg,"pudră, acidifiant (acid citric).","PUDRA, ACIDILIANT (ACID CITRIC).",6.25,True
+crop_001183.jpg,"colorant (extract de ardei roșu), fructoză, ardei cayenne","COLORANT (EXTRACT DE ARDEI ROSU), FRUCTOZA, AR",22.81,True
+crop_001184.jpg,"pudră, usturoi pudră, paprica dulce afumată pudră,","PUORA, USTUROI PUDRA, PAPRICA DULCE",36.0,True
+crop_001185.jpg,"citric)], zahăr, sare, paprica pudră (0,5%), arome, ceapă","DINICI), ZAHAR, SARE, PAPRICA PUDRA (",45.61,True
+crop_001186.jpg,"rozmarin, acid ascorbic, extract bogat în tocoferol, acid","REEMARIN, ACID ASCORDIC, EXTRACT BOGAT IN TOC",28.07,True
+crop_001187.jpg,"soarelui, în proporții variabile; antioxidanți (extracte de","SCARELAN, IN PROPORTI VARIABILE; ANTAXID",42.37,True
+crop_001188.jpg,"Ingrediente: cartofi, uleiuri vegetale [rapiță, floarea","INGREDIENTS: CARTOF, UELURI VEGETALE [RAPIT",27.27,True
+crop_001192.jpg,"RO - Mazăre verde foarte fină - Ingrediente: Mazăre, apă, sare,",RO-MAZARE VERDE FORTE FINA - INGREDIENTE:MA,34.92,True
+crop_001194.jpg,"zer praf, amidon din porumb, aromă de vanilie, colorant (beta-caroten). Poate conține","ZER PRAL, AMIDON DIN PORUNP, AROMA DE V",58.82,True
+crop_001195.jpg,"sau praf, agenți de îngroșare (amidon modificat din porumb, caragenan), permeat de",SALIPAT AGENTI DE INGROGARE (AMIDON MOODIFICATION,50.0,True
+crop_001196.jpg,"Ingrediente: lapte degresat pasteurizat, zahăr, smântână, lapte degresat concentrat","INGRECIENTS: LAPTE DEGREAT PASTERIZAT, ZAH",51.81,True
+crop_001206.jpg,acid malic; antioxidant: acid ascorbic; aroma,ACID MALIC; ANTIOXIDANT: ACID ASCORDIC; AR,8.89,False
+crop_001207.jpg,"fructoză-glucoză, agent de reglare aciditate:","FRUCTOZA-GLUCOZA, AGENT DE REGLARE ADDITATE:",8.89,True
+crop_001209.jpg,"Ingrediente: apă, suc de merișoare din","INGREDIENTS: APA, SUC DE MERISOARE DIN",7.89,True
+crop_001213.jpg,Poate conține urme de arahide si gluten.,POATE CONLINE UME DE ARAHIDE SI GLUTEN.,5.0,True
+crop_001223.jpg,cafeină: 24 mg/100 ml).,CALENA: 24 MG/100 M).,17.39,True
+crop_001225.jpg,sodiu.Conținut ridicat de cafeină .Nu se recomandă pentru,SODU COMINUT ROLOAI DE CATENIA NU SE RECOMAND,38.6,True
+crop_001226.jpg,"caragenan), corector de aciditate (acid lactic), bicarbonat de","CARDENAN), CORRECTOR DE ADDILATE (ACID LACTS), B",32.26,False
+crop_001227.jpg,"0,01% aromă de cafea, stabilizator (amidon modificat,","QTY, AROMA DE CAFEA, SDABIIZATOR (AMIDON",35.85,True
+crop_001228.jpg,"extract de cafea 0,8%, sirop de zahăr invertit, praf de cacao","ENTACT DE CARIES 08%, SHOP DE ZALAR INVERTI, PRAY DE",29.51,True
+crop_001229.jpg,"RO: Ingrediente: lapte pasteurizat parțial degresat, zahăr,",NO INDEPEDIENTE: LAME PASTERIZAT PARTRI DEGRES,37.29,True
+crop_001237.jpg,"Ingrediente: Seminte de floarea soarelui, sare, faina.","INGREDIENTS: SEMINTE DE ROAREA SOARELUI, SARE,",18.52,False
+crop_001265.jpg,"cheag, sare, culturi lactice, clorură de calciu","CHEAG, SARE, CULTURI LACTICE, CORURA DE CALCLU",6.38,True
+crop_001267.jpg,"MODIFICAT DIN PORUMB, GHIMBIR, USTUROI PROASPĂT.","MODIFICAT DIN PORUMB, GHIMBIR, USTURI PROAS",10.42,True
+crop_001268.jpg,"OȚET DE MERE, SUC DE STRUGURI CONCENTRAT, AMIDON","DIET DE MERE, SUC DE STRUGURI CONCENTRI, AMIDON",8.33,True
+crop_001269.jpg,"UE (APĂ, BOABE DE SOIA, GRÂU (GLUTEN), SARE), ZAHĂR,","UE (APA, BOABE DESOLA, GRAU (GLUTEN),",34.62,True
+crop_001270.jpg,INGREDIENTE: SOS DE SOIA FERMENTAT NATURAL ORIGINE NON,INGREDIENTE: SOS DE SODA FERMENTAT NATURAL ORIGINE NON,1.85,False
+crop_001272.jpg,urme de lapte și ouă.,URME DE LAPTE $1 OUD.,14.29,True
+crop_001273.jpg,"Ingrediente: sare (max. 39%), potențiator de aromă (glutamat","INVERSLIANTE S ARE (MAX) 39%, POTENIAUR DE AR",41.67,True
+crop_001285.jpg,"hidrogenată, făină de soia, sare. Alergeni: Acest produs conține arahide și","INDEPONDAIL, FINAL OR SUIA, ARE JUMASAN POSE,",69.33,True
+crop_001286.jpg,">(ROM) Ingrediente: Făină de porumb, arahide (21%), grăsime vegetală","PERON INDRECIENTE, FINDE OF FORMAL RANDER (RYA",58.82,True
+crop_001318.jpg,"citric), condimente, conservanți (sorbat de potasiu, benzoat","COME, COMMENTS, COMEYANTI (SANDAT DE POTAS",48.33,True
+crop_001319.jpg,"modificat din porumb, sare, oțet din alcool, acidifiant (acid","MOCHING ATM BRYUNB, SATE, DIAT DIN ALCON",59.02,True
+crop_001320.jpg,"Ingrediente: piure de roșii (63%), apă, zahăr, amidon","INGRECIENTIC, DURR DE ROLL(G3%), ADB, Z",49.06,True
+crop_001323.jpg,Poate conține urme de GLUTEN.,ROATE CONLINE UTME DE GLUTEN.,10.34,True
+crop_001324.jpg,"Ingrediente: făină de porumb (68%), ulei de floarea-soarelui (20%), amidon din","INVOODIENCE SILES ARE PROUNDING (6"" (6), LIFE ARE FOR FACE",69.23,True
+crop_001327.jpg,"LAPTE praf degresat, drojdie, condimente, extracte de condimente.","LAPTE,PAL REGINAL, MOBILE, COMBIMETO, EX",58.46,False
+crop_001328.jpg,"ceapă, emulsifiant (mono- și digliceride ale acizilor grași), usturoi pudră, extract de drojdie,",REQUIREDIAL AMOUNT RESIDE(EXCEDTE ON FOLLOWS) (EX,80.21,True
+crop_001329.jpg,"naturală (conține GRÂU), ZER dulce praf, sare, CAȘCAVAL pudră (0,9%), zahăr, făină de","AMOUNTIONLINE GRAD, ZER CHICK AT COME, CASGAWAL",68.24,True
+crop_001330.jpg,"Ingrediente: făină de porumb (65%), ulei de floarea-soarelui (19%), amidon din porumb, aromă","MYPLEEMENT BALES ARE PROHANT 18"" NO. MAKE ARE ARE ARE AREMENT 18",76.09,True
+crop_001332.jpg,"Poate conține: SOIA, MUȘTAR.","POATE CONTIME: SOIA, MUSTAR.",10.71,True
+crop_001333.jpg,"panificație, zahăr, sare, amidon modificat.","PANIFICATE, ZAHAR, SARE, AMIDON MODIFICAT.",6.98,True
+crop_001334.jpg,"4,3% pastă de tomate, ulei de rapiță, drojdie de","4,3% PASTA DE TOMATE, ULEI DE RAPITA,",29.17,True
+crop_001335.jpg,"12% BRÂNZĂ (MOZZARELLA cu pastă tare, EDAM),","12% BRANZA (MOZZARELLA CU PASTA TAPE, EDAM",13.64,True
+crop_001336.jpg,"INGREDIENTE: făină albă 480 din GRÂU, apă,","INGREDIENTE; FAIMA ALBA 480 DIN GRAU, APA",19.05,True
+crop_001343.jpg,"sodiu), conservant (nitrit de sodiu), cultură starter. Poate","SODIU), CONSERVANT (NITRITE SODIU), CULTUR",30.0,True
+crop_001344.jpg,"colorant concentrat din sfeclă roșie, antioxidant (ascorbat de","COLORANT CONCENTRATING SEXIA ROSIE, ANDXIDANT (ASCORD",25.81,True
+crop_001345.jpg,"Ingrediente: carne de porc, sare, dextroză, condimente,","INGREDIENTE: CAME DE PORC, SARE, DEXTROZA",29.09,True
+crop_001353.jpg,conservant: nitrit de sodiu. Ambalat în atmosferă,CONSERVANT WITH BE SOLD. AMBALAT IN ATMOSTERA,24.49,True
+crop_001354.jpg,"(muștar), dextroză, antioxidant: acid ascorbic;","IMUSTAN, TEXTROZA, AMTOXDANT ACD ASCORDIC,",27.66,True
+crop_001355.jpg,"și digliceride ale acizilor grași; amidon din cartofi, condimente","S ADJICERIBLE ACIZLOR GRAI, ANDON DIN CATOL",46.15,True
+crop_001356.jpg,esteri ai acizilor mono- și diacetiltartric cu mono-,ESERI AL AGAILOR MONO- SI ACCETITATING CU MONO-,26.92,True
+crop_001357.jpg,"19% grăsime de cocos, apă, sare, emulgatori:","19% gratISIME DE COCOS, APA, SARE, EMULG",22.73,True
+crop_001358.jpg,"Ingrediente: 59% carne de curcan,","INGRECIENTE: 59% CARNE DE CURCAN,",3.03,False
+crop_001370.jpg,lecitina de sola).,TECITINA DE SOLA).,5.56,False
+crop_001371.jpg,"ciocolata alba (zahar, unt de cacao, lapte praf, zer praf, emulgator","CHOCOLATE ALBE ( FAHAR, UNT DE CICKO, LAP",51.47,False
+crop_001372.jpg,"praf, masa de cacao, zer praf, emulgator: lecitina de soia) 1%","PROF, MASA DE CACNO, ZER PRAF, EMULGATOR,",38.71,False
+crop_001373.jpg,"Ingrediente: 99% Ciocolata cu lapte (Zahar, Unt de cacao, lapte","INGREDIENTS: 99% CIOCOLATE CH LAPTE ( ZALAR,",39.68,False
+crop_001382.jpg,"CEARĂ DE CARNAUBA), ANTIOXIDANT (BUTILHIDROXIANISOL (BHA)), COLORANT (E133).","(CEARA DE CARNAIBA), ANTOXDANT (BUTTHOROXDA",52.63,True
+crop_001383.jpg,"ÎNGROȘARE (GUMĂ ARABICĂ), EMULSIFIANT (LECITINĂ DIN SOIA), AGENT DE GLAZURARE","INGROSARE (GUMA ARABICK), EMULSFUANT (LECT",51.95,True
+crop_001384.jpg,"ACESULFAM-K), BAZĂ DE GUMĂ, AROME, AGENT DE UMEZIRE (GLICEROL), AGENT DE","ADESUFAM-K), BAZA DE GIMA, AROME, AGENT",51.39,True
+crop_001385.jpg,"RO INGREDIENTE: ÎNDULCITORI (XILINTOL, SORBITOL, MANITOL, ASPARTAM, SUCRALOZĂ,","DED INGREDIENTE INDUCTORI (KLITOL, SORBT",56.41,True
+crop_001402.jpg,"emulsifiant: lecitine; acidifiant: acid citric, arome (LAPTE), praf de",EMULSIPANT: LECITINE; ADDIFANT: ACID DITRIC,42.86,False
+crop_001403.jpg,"sodiu, difosfați; produse din ZER (LAPTE), LAPTE praf integral, sare,","SODU, DILOSTATI; PRODUSE DIN ZER (LAP",50.72,True
+crop_001404.jpg,"UNT (12%), sirop de zahăr invertit, agenți de afânare: carbonați de","UNT (12%), SHOP DE ZAHAR INVERIT, AGENTI BE AGA",37.31,True
+crop_001409.jpg,acid sorbic; îndulcitor: neotam. Puterea de îndulcire: 1 linguriță,ADD SORDIC; INDULCTOR: NEOTAM. PUTEREA DE,42.42,True
+crop_001410.jpg,"ciclamați și zaharine; fructoză, acidifiant: acid citric; conservant","DALAMATI SI ZAHARINE, TRUCTOZA, ACIDIFANT",50.0,True
+crop_001411.jpg,"neotam, sub formă lichidă. Ingrediente: apă, îndulcitori:","NETAM, SUB FORMA IICHIDA - INGREDIENTE: APA, IND",29.82,True
+crop_001415.jpg,"care se utilizează: lapte, ouă, soia, susan arahide și fructe cu coajă lemnoasă.","CRE SE UTILEZABLE, OUD, SOLD, SUSON, AROHIDE S",53.75,True
+crop_001417.jpg,"alimentar din vin, conservanți: acid sorbic, propinat de calciu, făină de malț din orz,","DIMENTOR ON VIN, CONSEVANTI GOOD SODIC, PROP",58.62,True
+crop_001418.jpg,"grâu (măciniș integral), drojdie, sare iodată, gluten de grâu, grăsime de palmier, oțet","GROW IMBOIN'S INTEROL, DROYBLE, SARE IODATO",63.22,True
+crop_001419.jpg,"Ingrediente: făină albă de grâu 650, apă, făină de secară 25%, făină dietetică de","INCLUSICATE FORD OLD DE GRBU 650, 000, FIND DEGARD",59.26,True
+crop_001421.jpg,"zahăr, drojdie de panificație. A se păstra în loc uscat și răcoros.","ZOHOR, DROYDIE DE PANIFICOTIE. A SE POSTRA IN",43.28,True
+crop_001422.jpg,"palmier, sare iodată 1,3% (sare de masă, iodat de potasiu), mac 0,7%","POLLOWER, SARE IODATO 1,3% (SARE DE MASO",50.0,True
+crop_001423.jpg,"Ingrediente: făină albă de grâu, grăsimi vegetale nehidrogenate de",INGRECIENTE: FOINO OIBO DE GRÓORMSIM V,56.06,True
+crop_001432.jpg,"conservant (nitrit de sodiu). Poate conține urme de soia, muștar,",CONSERVANT (NITRITE SODIU). POATE COMLINE URME DE,27.69,True
+crop_001433.jpg,"sare, condimente (usturoi, piper, cimbru, rozmarin, coriandru),","SARE, CONDIMENTE (USTURI, PIPER, CIMBRU",38.1,False
+crop_001434.jpg,"protectoare. Ingrediente: cotlet de porc 55%, piept de porc 42%,",PROTECTORATE. INGRADIENTS: COTLET DE PORS 55 %,37.5,False
+crop_001447.jpg,"porumb, 0,14% capere, sare, ceapă pudră, usturoi pudră), ulei de","PROUND, 014% CAGER, SALE, CASH POINT, USFUN",54.69,True
+crop_001448.jpg,"ultrapasteurizată, ulei de floarea-soarelui, lapte praf, amidon din","ULTREASTERTRATED, ULET DE FLORNEA-SDAKELLI",53.73,True
+crop_001449.jpg,"floarea-soarelui, sare), 5% ceapă roșie, 5% sos cu capere (apă, smântână","NOAREA-SOBARELL, SALE), 3% CERDA ROBIE",61.11,True
+crop_001450.jpg,"feliată, 10% ton dungat in ulei de floarea-soarelui (ton dungat, ulei de","TELIATA, 10% FOR DUNGAT IN DEL DE TRAKEA-",55.56,True
+crop_001451.jpg,"măsline, sare, dextroză, oregano deshidratat), 10% brânză Mozzarella","MASLIME, SARE, DEKTROZ, OREGANO DESH",51.47,True
+crop_001452.jpg,"drojdie). 16% sos de roșii (13% piure de roșii, 2% pulpă de roșii, ulei de","DRODLE), 16% SOS DE ROLL (13% JALARE DE ROSIL,",51.35,True
+crop_001453.jpg,"Ingrediente: 52% aluat (făină de grâu, apă, ulei de floarea-soarelui, sare,","INTREDIENTE: 52% ALLAT (FINAL DE GRLU, ADJ",50.67,True
+crop_001461.jpg,"sodiu; antioxidant: ascorbat de sodiu; stabilizator: trifosfați; extracte de condimente, conservant:","SODU, AMTIONIDANT, ASCORBAT DE SODUR,STAB",65.0,True
+crop_001462.jpg,"potectoare. Ingrediente: 96% carne de porc, sare, dextroză, corector de aciditate: acetați de","PRATECIATE, INGREDENTE: 96% CAME DE PORC",64.52,True
+crop_001506.jpg,"de mere deshidratate, 5% suc concentrat de aronia, aromă naturală, 1% granulat din suc de fructe de pădure","TAMEN TELLENATE,S'S ACCORDING WITH, AND EXCLUDED",73.58,True
+crop_001507.jpg,"și acai, aromatizat. 20 pliculețe. Ingrediente: 33% fructe de aronia deshidratate, 30% hibiscus, 27% bucăți","RECEIPT SUMMARY TO FOLLOWING, INVOICE ARE, DON FACE AGA",77.57,True
+crop_001513.jpg,"Poate conține urme de muștar, lapte și produse derivate.","PONTE CONTING NAME OF MUSTARY, LAPLE A PRODUCTEDUER SERVICE.",39.29,True
+crop_001514.jpg,conservant: nitrit de sodiu; cultură starter. Produs fără membrană.,"CONSERVANT WITHOUT BE SOLD, CULTURNA STARTER, PODUS FRI",38.81,True
+crop_001515.jpg,"dulce, dextroză, antioxidant: ascorbat de sodiu; pudră de sfeclă roșie,","GUICE, DESTRON, ANDARDANT, RECORD ARE FOLLOW, BUTRA OR",59.15,True
+crop_001516.jpg,"de porc, slănină, sare, condimente, boia de ardei iute, boia de ardei","THE PONG, SUBIMA, SATE COMDIMENTS, BRIBLE ADDI",53.62,True
+crop_001527.jpg,"lactoză. pudră de cacao cu conținut redus de grăsime, 0,5% cafea măcinată,","EXCOUNT, MAILES ARE AND OR COMOUNT FOLLOW OR GELAME* Q",77.03,True
+crop_001528.jpg,"(făină de porumb, făină de orez, zahăr, făină de grâu, pudră de cacao, zer praf, sare),","(TOTAL OF PRIMO, BLIMBER ARE, ADBIY, BHD OR",74.71,True
+crop_001529.jpg,"amoniu; aromă naturală, emulsifiant: lecitine din soia); preparat crocant din cereale","AMOUNTIC, STOMA INDERNIL, AMOUNTMENT REFUNDED OR FULL",74.12,True
+crop_001530.jpg,"de ouă, ulei de floarea-soarelui, agenți de afânare: carbonați de sodiu, carbonați de","CREASE ** ALLER OR FILLERIES SERMINAL, EVERY OR FACE COMEIP",76.47,True
+crop_001531.jpg,"ciocolată (zahăr, masă de cacao, făină de grâu, amidon de grâu, unt de cacao, albuș",RECEIPT FOLLOW US MUST FOR CHANGE FOR REGINAL ONTAIN BE FOR FACE FOR,75.9,True
+crop_001532.jpg,"Integral, unt de cacao, zer praf, lapte praf degresat, preparat crocant cu glazură de","AMTREQUAL LAM OR EXPOSI, AND FOLLOW FOR NECESSIVE,",77.65,True
+crop_001533.jpg,"de palmier, sâmburi de palmier în proporții variate), masă de cacao, lapte praf","FOR QUITTER, SIMOUNT BE PRIMER IN PRPANY! WEIGHT MUST BE",65.82,True
+crop_001534.jpg,"cappucino și stracciatella. Ingrediente: zahăr, grăsimi vegetale (nucă de cocos, ulei","REQUIREDING ATERSFILLA PAYCLATE WITH, PRIND REFUNDATE",76.47,True
+crop_001562.jpg,"Poate conține urme de fructe cu coajă lemnoasă, semințe de susan.","FACEONLINE NAME OF FUETE EN COX(B) COMMUNASK, SEM",58.46,True
+crop_001563.jpg,"afânare: bicarbonat de sodiu, pirofosfat acid de sodiu; amidon, arome.","AMOUNT MARTANT BE SOLD, PEROFOSTAT ACTU DE SOLD, AMOUNT NAME",47.14,True
+crop_001564.jpg,"grâu, smântână, ouă, lapte, untură, zahăr, drojdie, sare iodată, agenți de","PAH AMEMOUNT, ONAI, LAPLE, UNTURA, ZAL",70.27,True
+crop_001565.jpg,"amidon modificat, zer dulce praf, cacao, scorțișoară, aromă], făină albă de","AMTOMPOLLOW ARE DUTRE PRAY, ALCAT, SCORTSOR",65.33,True
+crop_001566.jpg,"dextroză, făină de soia, pesmet (făină de grâu, drojdie, sare, ulei de rapiță).","DETAIL WILL OR SOIA, PESMET (FAMA DE GRIAN,",60.76,True
+crop_001567.jpg,"Ingrediente: 65% umplutură cu mac [30% semințe de mac, apă, zahăr,",INVOITENTS: 6SR UMPLUTIA CU MAKE [BOX SEMINTE DE,51.52,True
+crop_001570.jpg,"susan, ouă, produse derivate din","SUSAN, OUA, PRODUCTASE DERIVATE DIM",15.62,True
+crop_001577.jpg,"acid sorbic, propinat de calciu.","ACID SORBIC, PROPIONAT DE CALCIU.",3.12,False
+crop_001578.jpg,"zahăr, oțet din vin, conservanți:","ZAHAR, OTET DIN VIN, CONSERVANTI:",9.09,True
+crop_001579.jpg,"iodată, ulei de floarea-soarelui,","TODATA, ULEI DE FLOAREA- SOARELUI,",9.09,True
+crop_001580.jpg,"grâu 550, apă, drojdie, sare","GRAU 550, APA, DROJDIE, SARE",7.14,True
+crop_001581.jpg,Ingrediente: 79% făină albă de,INGREDIENTS: 79% FAINA ALBA DE,13.33,True
+crop_001584.jpg,"ascorbat de sodiu; conservanți: nitrat de potasiu, nitrit de sodiu;","FACEONDABLE GOODY, CONSERYANTI, MIXAT BE POTAS",59.7,True
+crop_001585.jpg,"Ingrediente: pulpă de porc, sare, dextroză, condimente, antioxidant:","INGREEMENTS ALLPOI OR POC, SATE, DEATOZA, CON",52.94,True
+crop_001612.jpg,"Poate conține urme de muștar, lapte și produse derivate.","POATED CONTIME ARMAS OR MAGTAIL, LAPETE & PRADUER",46.43,True
+crop_001613.jpg,conservant: nitrit de sodiu; cultură starter.,CONSERVANT: WITHOUT OR SOLDUR; CULTURNA STARTER.,24.44,True
+crop_001615.jpg,"de porc. Ingrediente: mușchi de porc, condimente (piper, corlandru,",ONE PRICE THERE BETTERTE MUST BE FORIC CONDIMENTS TODAY.COM/B,58.21,True
+crop_001621.jpg,"conține urme de lapte, boabe de soia, fructe cu coajă lemnoasă. A se păstra la o","CONLINE URMS DE LAPTE, BOABE DE SOLA, FRUCTE CU",45.0,True
+crop_001623.jpg,"din floarea-soarelui, poliricinoleat de poliglicerină; extract de vanilie), 3,8%","DIM HOAREA-SOARELLI, POLIFICINALAT DE POLLOWICER",50.0,True
+crop_001624.jpg,"ciocolată (zahăr, masă de cacao, unt de cacao, ulei de cocos, emulsifianți: lecitine","CLOCOLATE (RAHAR, MASA DE CACAR"", UNT BE C",60.71,True
+crop_001625.jpg,"gumă din semințe de carruba, gumă de guar; 0,1% caramel (zahăr, apă), sare], 30%","GUMI DIN SEMIN(E DE CARDA, GUMA DE GUAR;",55.0,True
+crop_001626.jpg,"emulsifiant: mono- și digliceride ale acizilor grași; aromă de arahide, stabilizatori:",EMULSTIANT: MOND-SINGLICERIDE ARE ACYLOR,60.47,True
+crop_001627.jpg,"[apă, zahăr, pudră de băutură de orez, ulei de cocos, sirop de glucoză, polidextroză,","(AP), ZAHAR, PUDRA DE BAUTUNA DE OREZ,",63.53,True
+crop_001628.jpg,"de arahide. Produs congelat. Ingrediente: 66,2% înghețată cu aromă de arahide","DE ARAHIDE, PRODUCTAGEI, INGROUNDIENCE: 66.2% INGH",51.95,True
+crop_001631.jpg,"conservant: nitrit de sodiu; culturi de maturare], 9% crustă de brânză [68%",CONSERANT: NITIT BE SODIU; CULTURI DE MATURATE,40.0,True
+crop_001632.jpg,"dextroză, condimente, antioxidanți: ascorbat de sodiu, acid ascorbic;","DETAZA, CONDIMENTE, AMTIOXIDANTI: ASC",52.17,True
+crop_001633.jpg,"Ingrediente: 91% salam [carne de porc, sare iodată (sare, iodat de potasiu),","INGEDIENTS: 97% SALAM (CAME DE PORC, SARE TODAY",44.74,True
+crop_001646.jpg,"Ingrediente: 72% pastă de tomate, zahăr, oțet de alcool, amidon modificat",REVERSEIPT 7/8 AMART RE TAMARE RETAILABLE ARE DETA,67.12,True
+crop_001676.jpg,"carne de pui, 10% slănină, apă, sare,","CARNE DE PUI, 10% SLAMINA, APJ, SARE,",10.81,True
+crop_001678.jpg,"Ingrediente: 68% piept de pui, 12%","INGREDIENTS: 68% PIEPT DE PUL, 12%",5.88,False
+crop_001692.jpg,"de sodiu; cultură starter, conservant; nitrit de sodiu.","BE SOLD ORDER A STARTER, CONSERVANT. WITH BE SOLD.",38.18,True
+crop_001693.jpg,"slănină, sare, condimente, extracte de condimente, antioxidant: ascorbat","SUBINAL, BARG, COMDIMENTIC, CATACATE OR CONDIM",59.72,True
+crop_001694.jpg,"se prelucrează 150g carne. Ingrediente: carne de porc, carne de vită,",RECEIPTURNABLE 150G GAME INFORMATIONTE COME DE PONG COME DE,53.62,True
+crop_001698.jpg,conservant: nitrit de sodiu. Poat,CONSERVANT: NITRIT DE SODIU. POATR,3.03,False
+crop_001699.jpg,antioxidant: ascorbat de sodiu;,AMTIOXIDANT: ASCORDAT DE SODIU;,6.45,False
+crop_001700.jpg,"de îngroșare: caragenan; arome,","DE INGROSARE: CARAGENAN, AROME,",9.68,True
+crop_001701.jpg,stabilizatori: trifosfați; agent,STADILIZATION: trIFOSFATI; AGENT,15.62,True
+crop_001702.jpg,"de porc, extract de condimente,","DE PORC, EXTRACT DE CONDIMENTE,",0.0,False
+crop_001703.jpg,"amidon de cartofi, proteine","AMIDON DE CARTOFI, PROTEINE",0.0,False
+crop_001704.jpg,"64% carne de porc, apă, sare,","64% CAME DE PORC, APA, SARE,",10.34,True
+crop_001711.jpg,"LACTOZĂ, OUĂ și produse","LACTOZA, OUA SI PRADUSE",17.39,True
+crop_001712.jpg,"Poate conține urme de MUȘTAR,",POATE CONTIME UTME DE MUSTAR.,17.24,True
+crop_001713.jpg,"arome, conservant: nitrit de sodiu","AROME, CONSERVANT: NINT BE SOLD.",20.59,False
+crop_001715.jpg,sodiu; antioxidant: acid ascorbic;,SODULAR AMTIONIDANT: ACID ASCORDIC.,23.53,False
+crop_001716.jpg,agent de îngroșare: alginat de,AGENT DE INGROSARE: ALGINABLE,16.67,True
+crop_001719.jpg,"mente, stabiizator: difosfați;","MENTE, STABILIZATION DILOSFAH,",26.67,True
+crop_001725.jpg,"sare, amestec de condimente,","SAME, AMESTER DE CONDIMENTE,",7.14,False
+crop_001728.jpg,"de mazăre, amidon de cartofi,","DE MAZARE, AMIDON DIN CARDE,",24.14,True
+crop_001732.jpg,"apă, 5% carne de pasăre, proteină","APA, 5% CARNE DE PASRE, PROTEIN!",9.09,True
+crop_001735.jpg,"Ingrediente: 65% carne de porc,","INGREDIEMTE: 65% CARNE DE PURE,",9.68,False
+crop_001771.jpg,"fructe cu coajă lemnoasă, lupin, ouă și țelină. A se păstra la o","INVOICE OR ROOD ITEMASA, BUYLE, AND IF FOLLOW.",75.0,True
+crop_001772.jpg,"urme de lapte și produse derivate, muștar semințe de susan,","AME IN LOVE & PRODUCT BETIVATE, MUSTAS, SOMMARY OF SUSAN",40.68,True
+crop_001773.jpg,"extracte vegetale, conservant: nitrit de sodiu. Poate conține","RECEIPT FORCEIPE, COMERNANT WITH BE SOLD PASTE COMT",55.74,True
+crop_001774.jpg,"de citrice, acerola, arome, condimente, extracte de condimente,","BE AGAICE, NOROLA, AMOUNT, COMPLEASE, CONTURATE OF CON",52.38,False
+crop_001775.jpg,"pulpă de vită, apă, sare, amidon de orez, proteine de vită, fibre","SALIPT BY WILL ADI, SAME ANDDOM DE OVERME OR FILL,",58.46,True
+crop_001782.jpg,îngroșare: gumă de xantan; aromă. A se păstra la o temperatură de până la,"INGROGATE, PUMPE DE MULTAN, AROMA, A'RE",65.75,True
+crop_001783.jpg,"sodiu; dextroză, usturoi prăjit, zahăr, gluten de grâu, extract de piper, agent de","SANDW.DETAZA, LISEMOI PRINT, ALLOR,",76.83,True
+crop_001784.jpg,"ardei afumată (ardei, lemn de stejar de fum), agenți de afânare: difosfați, carbonați de","AMOUNTMENTS (AMER LAM DE ATERIAN TAM), AGENIDE RIBANG",62.5,True
+crop_001785.jpg,"afumată (sare, fum de lemn de hickory), oțet de alcool. zahăr caramelizat, boia de","ALIMATI CARE, TIME THE LAM DE INCLONY), ARE ARE LOCOL,",60.98,True
+crop_001786.jpg,"piper alb), pudră de roșii, dextrină de cartofi, zahăr brun (zahăr, melasă), sare, sare","DATE AND FOLLOW OR RECEIPT OR CONDITI, ADBIY DON (",77.01,True
+crop_001787.jpg,"(conține grâu), condimente (piper negru, usutroi pudră, ceapă pudră, piper roșu,","(COMTIME GRILL) COMPLIMATE (GLOR REGIL, LATOR",68.75,True
+crop_001788.jpg,"drojdie), uleiuri vegetale (floarea-soarelui, rapiță), făină de porumb, amidon","GOODLE, UBLON VEGETABLE (TRAKE) SOMELLU,",69.23,True
+crop_001789.jpg,"Ingrediente: 60% buchețele de conopidă, apă, 10% pesmet (făină de grâu, sare,","INVOEDIENTE 80"" & AYOHENABLE COMPOID, BHD,",70.13,True
+crop_001793.jpg,"conțin gluten și soia. A se păstra la loc uscat și răcoros, ferit de razele soarelui.",INATIN GLUTEN PI SOLA. A SE PASTA LA LOC USCAT,54.12,True
+crop_001794.jpg,"Poate conține urme de țelină, muștar, semințe de susan, cereale care","PURTE CONTIME URME DE TELLING, MUSTAR, SEMINTE DE S",39.71,True
+crop_001795.jpg,Ingrediente: usturoi granulat (care conține dioxid de sulf).,INGREDIENTS: USTUROI GRANULAT (CONTIME DIOX,33.33,True
+crop_001799.jpg,"Ingrediente: lapte de vacă pasteurizat, sare, 1,6% piper, culturi lactice","INGRECIENTE INPRE DE FACE RESENTRI, SEE 16% PIPER",49.32,True
+crop_001803.jpg,ascorbat de sodiu; conservant: nitrit de sodiu; culturi de maturare. din agricultură,"ACORDATE DE SDILO CONSERVANT: WITH DE SODUR, CULT",51.19,True
+crop_001804.jpg,"Ingrediente: carne de porc, carne de vită, slănină, sare, condimente, dextroză, antioxidant:","INGREEMENTE RAME ARE PORC, CARE BE WILL, SDNINAL, S",59.78,True
+crop_001833.jpg,"caise (75%), zahăr, agent gelatinizant: pectine, corector de aciditate: acid citric.","IN RELI AND COMT RELADINAL RECEIPE, CONDOR, DE CON",65.48,True
+crop_001844.jpg,"îngroșare: gumă xantan, dextroză. Agitați bine înainte de utilizare.","INVOICE SUND WANTON, DEBITOZA, AGROTD BINE",64.71,True
+crop_001845.jpg,"masă, amidon modificat, condimente (conțin muștar), agenti de","MASU AMOOR MODITION, CONDIMENTE (DOMIN MUSTON) OF",40.98,True
+crop_001846.jpg,"masă, condimente, agent de întărire: clorură de calciu) (2%), sare de","(INCL) ORDIMENTE, AGENT DE INTOBIRE, DONUR",59.42,True
+crop_001848.jpg,"cubulețe de ardei (13%), cubulețe de roșii (10%), ceapă, suc de roșii,",ADJATE OF ORDER (18) AIDULATE OF ROSE (10 %) GOOD,64.29,True
+crop_001849.jpg,"Ingrediente: apă, zahăr, pastă de roșii dublu concentrată (14%),","INCOMPLETE CODE 20%, POSED DE ROBI DUDU CONCENTROND (",48.44,True
+crop_001862.jpg,"Ingrediente: apă, boabe de soia (11%), sare de mare, din agricultura","INGRECIENTE: ADD, BOODE DE SOLD! (11 %), SORE",51.47,True
+crop_001872.jpg,"proporții variate), extract din malț de orz, arome, emulsifiant:","PROPOTIL VALATE, ETTAX ON MAIL BE OZ, AOME",48.44,True
+crop_001873.jpg,"glucoză-fructoză, uleiuri vegetale (floarea-soarelui, rapiță, în","PRINCOA THRIDZA, UELUN VEGETABLE (INNER SAKE",65.62,True
+crop_001874.jpg,"Ingrediente: 50% zahăr, 30% boabe de porumb, sirop de","INGRECIENTE. 50% RATAT, 30% BOBILE BE POUND",41.51,True
+crop_001915.jpg,"dioxid de titan, emulsifiant: lecitine din floarea soarelui, agent de glazurare: ceară de carauba",TABLE THE ENCLIANT RICE ON FOOD SOLD US NOT BE AGABLE COM BE COM,63.92,True
+crop_001916.jpg,"(sirop de maltitol, aspartam, acesulfam K), corector de aciditate: carbonat acid de sodiu, colorant",SING & INDITION ISCRIPTION' INCLUSIT IT COMEAR OF REQUITE OR,74.75,False
+crop_001917.jpg,"(4%), agent deîncărcare: carbonat de calciu, arome, agent de încărcare: fosfați de calciu, îndulcitor",A'S AGET BENDER ORDER DETAIL COME OVER OF INDRONE TODAY,69.31,True
+crop_001918.jpg,"cu aromă de mentă cu îndulcitori. Ingrediente: îndulcitor: sorbitol, gumă bază, îndulcitor: xilitol",ON EVEN THE NOT FOLLOWMENT LEVELABLE INCLUDER SOLD COND TOTAL TOOD YOUR AND,77.78,True
+crop_001946.jpg,urme de grâu și lupin. Pentru produsul,UME DE GRDU 9 TUPIN. PENTUN PRODUCT,26.32,True
+crop_001948.jpg,"apă), apă, sare, drojdie. Produsul poate conține",GOLLOW AND SIDE DBOBILE PRODUCT POODE COMPINE,50.0,True
+crop_001952.jpg,Pasteurizat. Ingrediente: secară integrală,"POSTERIZOT, INGREDIENTIC, SECORD INDEPURDS",35.71,True
+crop_001977.jpg,"sare, stabilizator: carragenan, aromă,","SORE, STABILZATOR, CORROGENON, OROMO.",23.68,True
+crop_001978.jpg,"zahăr invertit, praf de cacao (1,4%),","ZOHOR INVERIT, PROF DE COCOD (14 %),",24.32,True
+crop_001979.jpg,"Ingrediente: lapte integral, sirop din","INGREDIENTE: LAPTE INTERNAL, SHOP OIN",13.16,False
+crop_001996.jpg,"zahăr, stafide (4%), pudră de cacao, alune de pădure (1%), aromă, sare, extract",THANK STALDE (4) POOD BE GOODS ABARE BE PEDARE (,64.56,True
+crop_001997.jpg,"amăruie (6,4%) (zahăr, masă dec cacao, dextroză, emulsifiant: lecitină de soia),","ONLINE (6.4 X) LAMOR MOST BE GOOD, DEBIT, EN",71.25,True
+crop_001998.jpg,"apă, zahăr, acidifiant: acid citric.","APA, ZAHAR, ACIDIFIANT: ACID CITRIC.",5.56,True
+crop_001999.jpg,"Ingrediente: 50% suc de portocale obținut din suc concentrat,",INGREDIENTE: 50% SUC DE PORTOCALE OBFINUT DIN S,24.59,True
+crop_002007.jpg,mono-și diacetiltartric,WOMO-S! DIARCEULTARTRIC,30.43,True
+crop_002008.jpg,acidului lactic cu mono-,ADDMULT ACTIC OU MONO-,29.17,False
+crop_002011.jpg,agent de umezire (,AGENT DE UMEZIRE (,0.0,False
+crop_002013.jpg,"hidrogenat) 19%, zahăr 7%,","MIDROGENAT(19%, ZAHAR 7%",19.23,True
+crop_002014.jpg,: lapte degresat 69%,: LAPTE DEGRESAT 69%,0.0,False
+crop_002016.jpg,", ulei de sâmburi de palmier (total",", ULET DE SANDURI DE PALMIER TOTAL",14.29,True
+crop_002021.jpg,"de susan, lapte și gluten.","DE SUSAN, LAPTE SI GLUTTEN.",7.69,True
+crop_002022.jpg,"Poate conține arahide, alte fructe cu coajă lemnoasă, semințe","PORK ONLINE ARCHICE, ALTE FURTE QU CONJAL EMMASAS",40.98,True
+crop_002024.jpg,"Ingrediente: stafide 98,8%, ulei de floarea-soarelui, conservant:","INPRADIEMESE SLABLE PBS 8%, DATE DE HOARRA-S",63.08,False
+crop_002029.jpg,"carbonat acid de sodiu, difosfat disodic), arome. Poate conține urme de fructe cu coajă","CARDONER ADD BE SOLD, DILASFAT DISODIC), AROME",57.47,True
+crop_002030.jpg,"digliceride ale acizilor grași, lecitine (soia)), agenți de afânare (carbonat acid de amoniu","GELESIDE ARE ADDICY GRASI, LECITINE (SOLA",66.3,True
+crop_002031.jpg,"măsline în proporții variate), proteine din lapte, sare, fibră de grâu, emulsifianți (mono- și","MASIDE IN PRODUCTI, PROTEINE DIN LAPTE, SARE, FIB",55.32,True
+crop_002033.jpg,"cacao, unt de cacao, lapte praf, lactoză, unt concentrat, emulsifiant (lecitine (soia), aromă","CASH VALES NECELLABLE PROT, LACTOZA, UNT CONC",68.82,True
+crop_002034.jpg,"grăsime 4,4%, amestec de ciocolată, ciocolată cu lapte și ciocolată albă 3% (zahăr, masă de","PRISURE 4/4%, AMESPEC DE DECOLATE, CHOCOTARA",62.64,True
+crop_002041.jpg,"lapte), cheag microbian, acidifiant (acid citric).","TABLE) CHEAP MICROBIAN, ADDIFANT (ADD DTHO).",30.0,False
+crop_002042.jpg,"Ingrediente: lapte de vacă pasteurizat, sare, culturi lactice (conțin","INGRECIENTEE TAPLE DE WAD RESIGNTAIL, SKE, ON",57.97,True
+crop_002058.jpg,conservant (lizozim din ou). Declarație nutrițională per 100g: Valoare,CONSERANT IIRAZIM DIM QU) .DETAARATE NORTHORAL,52.86,True
+crop_002059.jpg,"Conținutul total grăsime 29%. Ingrediente: 29% lapte, sare, cheag,","CONTIMUTOL TOTAL DE GASIME 29%, INDEPEDIENTRE DATE,",50.0,True
+crop_002074.jpg,"oțet din alcool, amidon de orez, agent de îngroșare: gumă de xantan; condimente,","GST ON ALCOL, AMOUNT OR DICE, APPRIT OR INGROG",68.75,True
+crop_002075.jpg,"Ingrediente: fileuri de hering 60%, pulpă de roșii 14%, apă, ulei de rapiță, zahăr,","INVOICE AMOUNT, TRANSIT BE INNING GOT 18, PULAS FOR FOR FULL",73.49,True
+crop_002083.jpg,conține fragmente de sâmburi sau de coajă.,COMLINE TAGMEME DE SAMBUN SAU DE COOD.,28.57,True
+crop_002084.jpg,"semințe de susan. În ciuda grijii deosebite acordate procesului de producție, produsul poate",AMOUNTS AGAIN IN ORIGINAL DESCIPTIVE CONDATE FOLLOW US ON,69.57,True
+crop_002085.jpg,"(acid citric). Poate conține urme de lapte, arahide, soia, fructe cu coajă lemnoasă și","(EXCLUDING TO MAKE ONLINE NAME OF LOTO, MAILED, SOLD INVO",67.44,True
+crop_002086.jpg,"griș de porumb, zahăr, amidon de porumb), căpșuni liofilizate 2,7%, aromă, acidifiant","GARDS PROGRAM, ARBAL, AMOUNTED PROMO, (DISCUN",70.59,True
+crop_002087.jpg,"fulgi de grâu integral 9,5%, extrudate de cereale 5,2% (făină de grâu integrală 72%,","LILIP OVER SUBJINGGINAL 9/5%, KEMADATE OF GENERALS",70.24,True
+crop_002088.jpg,"Ingrediente: fulgi de ovăz integral 50,6%, ulei de palmier, zahăr, sirop de glucoză,","INVOODIATE WITH ORN INTERIA S/6%, UEROE POINT",66.67,True
+crop_002108.jpg,"Ingrediente: 75,6% ton dungat,","INGREDIENTE: 75,6 % TON DUNGAT,",3.33,False
+crop_002119.jpg,"E954, taumatină E957), fructoză, acidifiant (acid citric),","BSA BUMBURIESY, FINDORA, ADDITION FOODIONA",68.97,True
+crop_002120.jpg,"Ingrediente: apă, îndulcitori (ciclamați E952, zaharine","REPRESEIPENCE APR INDULATION (ORDAMAS) EPS2,ABUR",56.36,True
+crop_002121.jpg,taumatină. Pentru îndulcirea produselor alimentare.,"BUMASINA, PENTU INDULORES PRODUCTOR ALIMERATE,",33.33,True
+crop_002138.jpg,"zahar, lapte praf degresat, paprika, extract de drojdie.","ZALIAN"", LAPLE PRAP DEGREAT"", PAPRILA"", EXTR",44.64,False
+crop_002139.jpg,"5% (ceapa, maltodextrina, sare, branza cheddar,","5% (CEAPA"", MALTODEXTRINA"", SARE, BRAHZA",25.53,False
+crop_002141.jpg,"TOPPING DE CASCAVAL. Ingrediente: porumb 75%,",TOPPING DE CASCAVAL. INGROUNDTE: POUND 79%,22.22,False
+crop_002160.jpg,"maltodextrină, aditiv alimentar - (E 407)",MULTOCK(RM) ADTRY AL MEHLAR-TE 407),43.9,True
+crop_002161.jpg,"lactat de proteine, agent de îngroșare -","WERE BE PROTANE, AGENT DE INGROSARE -",27.5,True
+crop_002163.jpg,"palmier și ulei de floarea-soarelui), antioxidant","INLINE: SIDE OR TRANS-BOARELLU, ANDX(DOM) :",63.27,True
+crop_002164.jpg,din lapte este ulei rafinat deodorizat (ulei de,"ON HOME SIDE JUST RAILANT, DECOTORIZAL (DATE OR",55.32,False
+crop_002169.jpg,concentrat cu zahăr,CONCENTRALT OU ZALHAR,21.05,True
+crop_002172.jpg,"susan, ouă și nuci (migdale și alune de pădure).","SUSAN, OUA SI NUCI (MIGDALE SI ALUNE DE P",20.83,True
+crop_002173.jpg,"Poate conține urme de proteine din lapte, semințe de","POATE CONFINE URME DE PROTEINE DIN LAPTE, SEMINTE DE",3.85,True
+crop_002175.jpg,"busuioc uscat (0.7%), sirop din zahăr brun.","BUSUIOC USCAT (0.7%), SIROP DIN ZAHAR BR",9.3,True
+crop_002176.jpg,"roșii uscate (2.9%), sare de mare, miere, drojdie,","ROSIL USCATE (2.9%), SARE DE MAKE, MIERE, DR",18.0,True
+crop_002177.jpg,"făină integrală de grâu, tărâțe de secară,","FAIMA INTERRALA DE GRAU, TARATE DE SECARA,",23.81,True
+crop_002178.jpg,"făinǎ de grâu, apă, făină integrală de secară,","FAIMA DE GRAU, APA, FAIMA INTERALA DE SECARA,",23.91,True
+crop_002195.jpg,Ingrediente: 100% ulei rafinat de floarea soarelui,INVOLENTE: 100% ULET RAFINAL DE FLOAREA SARRILL,24.0,False
+crop_002213.jpg,"potabila, alcool, suc de portocale concentrat 4,6%, glucoza, arome. tequila 0,3%]. Masa de","INITURIA, AMOUNTS ACCIDE PRONDAE COMEETANT E46",74.44,False
+crop_002214.jpg,"shea, ulei de palmier nehidrogenate), aroma ""vanilină""], umplutura [zahăr, melasă, apă","SARA, USE OF PALMARY PERINDOGERATED, AMOUNT ""VALIA""",63.95,True
+crop_002215.jpg,"ciocolată 62% [zahăr, masa de cacao, unt de cacao, echivalentul untului de cacao (unt de","EXCEIPT FOR TAXIAX, MASA DE GOOD, AND BE AGAIN,",70.45,True
+crop_002216.jpg,GRASIMI VEGETALE IN COMPOZITIA UNTULUI DE CACAO. Ingrediente: masa de,GRASINI VEGETATE IN COMPORIA UNTUII DE COCAD,43.48,False
+crop_002223.jpg,"ne, migdale, arahide, semințe de susan, lecitină de soia. A se păstra la tem-","RE, MIDDATE, ARCHADE, SEMINTE DE SUSAN, LEC",51.95,True
+crop_002224.jpg,"digo). Poate conține gluten (de grâu), produse din ouă, produse lactate, alu-","GOOD, POUTE CONLINE QUTEN (BE ARDU), PRODISE",55.84,True
+crop_002225.jpg,"aromatizatori, coloranți (antociani, extract de paprikă, curcumină, carmin in-","AMARTUARTOR, COLORANTI (AMTOCAN, EXTRACT DE",53.85,True
+crop_002226.jpg,"(măr, portocale, vișine, lămâie,), glazurant (ceară de albine albă și galbenă),","(MAX, POTOCALE, VISINE, TAMABLE,, ALASURANT (CRE",53.16,True
+crop_002227.jpg,"regulatori de aciditate (acid lactic, acid citric), sucuri concentrate de fructe 1%","REQUIRED DE ACIDICATE (ACID LACTIC, AND CHRIC), SU",49.4,False
+crop_002228.jpg,"Ingrediente: sirop de glucoză, zahăr, gelatină, umectant sirop de sorbitol,","INGRECIENTER SHOP DE GLUROZA, ZAHAR, GELAT",52.0,True
+crop_002231.jpg,"Poate conține produse din ouă, alune de pădure, migdale, arahide, semințe de susan. A se","PATE ONLINE PRODISE ON OUR, ALUME BE PADURE, MIDDABLE",50.0,True
+crop_002232.jpg,"fermentare (carbonat acid de amoniu, carbonat acid de sodiu), ulei de floarea soarelui, arome, sare,","TERMENTATE (CARDAR AND BE AMPOIX, CarbonAT ADD BE SOLD),",56.0,False
+crop_002233.jpg,"degresată 11%, lapte praf integral, ulei de cocos, emulgatori lecitine (conțin soia), agenți de","DEGREAS INI, TAPTE PARA INTERAL, UEL DE GOODS",62.11,True
+crop_002234.jpg,"Ingrediente: zahăr, făină de grâu, grăsime vegetală (ulei de palmier nehidrogenat), cacao pudră","INDEPENDER AND BE GRSU, CREUME REGALS (UEL OF PALMI",62.11,True
+crop_002236.jpg,"fructe cu coajă lemnoasă ,soia.","FRUCTE CU COAJA LEMOAASA, SOLA.",22.58,True
+crop_002237.jpg,"vanilină. Poate conține urme de: ouă, semințe de susan,","VANILINA. POATE CONTIME URME DE: OUA, SEMINTE DE",21.82,True
+crop_002238.jpg,"iodată, agent de afânare: bicarbonat de sodiu; scorțișoară,","IODATA, AGENT DE AGAINARE: BICARDONAT DE SODIU",32.2,True
+crop_002239.jpg,"uscate (5,5%), ulei de palmier hidrogenat, sare alimentară","USCATE (5,5%), ULEI DE PALMIER HIDROGEN",32.76,True
+crop_002240.jpg,"făină de ovăz (13,8%), unt din smântână dulce, prune","FAINA DE OVAZ (13,8%), UNT DIN SMANTANA D",32.69,True
+crop_002241.jpg,"Ingrediente: făină de grâu calitatea întâi, zahăr cristal,",INGREDIENTE: FAINA DE GRAU CALITATEA INTAI,34.48,True
+crop_002243.jpg,"din soia, E476; vanilină), zahăr, stafide, acidifiant acid citric. Cacao - 13% min.","DRYOUR, S/B, WMMIMO, ARTHOR SOLIMA,",81.93,True
+crop_002244.jpg,"echivalent al untului de cacao (ulei de palmier, ulei shea), amulsifianți: lecitină",RECEIPT FOR NOT IMOUNTED FOR CARCO (ONE FORLINE FOR FILLES,74.7,True
+crop_002245.jpg,"Ingrediente: prune uscate, glazură de ciocolată (zahăr, masă de cacao,","INVOODIENCE, PRIME USCATE, PLAZUARD DE CORDAID FA",50.0,True
+crop_002247.jpg,"emulsifiant (lecitină din soia), sare iodată, aromă identic naturală lămâie.","EMULSHANT (ECIPIN) DIN SOLA), SARE TODAYA, AR",50.0,True
+crop_002248.jpg,"praf de ou, agenți de afinare (carbonați de sodiu, carbonați de amoniu),","PRAP DE OU, AGEN(DE ANNAME (CARDONATI DE SDIL",47.22,True
+crop_002249.jpg,"de palmier, apă, sirop de zahăr invertit [zahăr, apă, acidifiant (acid citric)],","DE PAIMLE, ADJ, SHOP DE ZAHAR INVENTIT (ZAHR",55.0,True
+crop_002250.jpg,"Ingrediente: Făină albă de grâu, zahăr, ulei rafinat, dezodorizat, nehidrogenat","INGRECIENTE FAINI ABI DE GRAU, ZAHUR, U",58.23,True
+crop_002270.jpg,Antioxidant: acid citric.,ANTIODDANT: ACID CLTRIC.,12.0,False
+crop_002271.jpg,Ingrediente: Chipsuri din mere de soiuri roșii.,INGREDIENTE: CHIPSURI DIN MERE DE SOLURI ROYIT.,6.38,True
+crop_002284.jpg,îndulcitor: sucraloză.,INDULOTOR. SUGRALOZA.,27.27,True
+crop_002285.jpg,"cireșe liofilizate 1%,",CIRESE LIOFILIZATE 7%,13.64,True
+crop_002286.jpg,"pudră de cacao degresată 2,7%,","PUDRA DE GACAO DEGRESATA 2.7%,",13.33,True
+crop_002287.jpg,"masă de cacao, emulsifiant, lecitină (din soia); cacao","MASADE AGAO, EMULSIFANT, LECITINA (DIN SOLA",27.78,True
+crop_002288.jpg,"de floarea soarelui, ciocolată 3,5% (îndulcitor: maltitol,","DE HOAREA SOARELU, CHOCOLATA 3.5% (IND",43.1,True
+crop_002289.jpg,"porumb, făină de grâu, agent de întărire: maltitol; ulei","PORUNB, FAIMA DE GRAU, AGENT DE INTAINRE:",42.86,True
+crop_002290.jpg,"tărâțe de ovăz, gluten (din grâu), fibre solubile de","TARATE DE OVAZ, GLUTEN (DIN GRAU), FIB",36.54,True
+crop_002291.jpg,"Ingrediente: fulgi de ovăz din cereale integrale 25,7%,",INGREDIENTS: FULGI DE OVAZ DIN CEREALE INTERALE 25,12.73,True
+crop_002292.jpg,Conține zaharuri naturale. Cu îndulcitori.,"CONTIME ZAHARURI NATURALE, CU INDULOTORI.",14.29,True
+crop_002293.jpg,ciocolată și cireșe liofilizate. Fără zahăr adaugat.,DOCOLATA SI DRESE IIOPILIZATE. FARA ZAHAR ADANG,30.77,True
+crop_002314.jpg,(curcumină). Poate conține urme de SEMINȚE,(CURCUMINA). POATE CONTIME URNE DE SEMINTE,11.9,True
+crop_002315.jpg,"din ZER, aromă, condiment, colorant","DIN ZER, AROMA, CONDIMENT, COLORANT",2.86,True
+crop_002316.jpg,"modificat din cartofi, extract de drojdie, produs","MODIFICAT DIN CARTOF, EXTRACT DE DROJDIE, PRODUCT",6.12,False
+crop_002317.jpg,"floarea-soarelui, ulei de palmier, sare, amidon","MOAREA-SOARELUI, ULEI DE PALMIER, SARE,",19.15,False
+crop_002319.jpg,"Ingrediente: amidon din cartofi (30%), făină","INGREDIENTS: AMIDON DIN CARTOF (30 %), FAINA",11.36,True
+crop_002324.jpg,"acid citric, antioxidant: acid ascorbic. A se consuma de preferință înainte de: vezi","ADD DTHIC, AMTIONDANT: ADD ASCORDIC, A SE CONSIM",53.57,True
+crop_002325.jpg,"RO | Ingrediente: Piersici, apă, zahăr, sirop de glucoză-fructoză, corector de","RO |INGRECIENTE: PERSONED, APB, ZAHAR, SHOP",56.41,True
+crop_002330.jpg,"uscate 2.2%, zahăr, drojdie, usturoi uscat 0.6%, făină de","USCATE 2.2%, ZAHAR, DROBILE, USTURO",45.61,True
+crop_002331.jpg,"emmental 15%, ulei de palmier, sare iodată, roșii","EMMENTAL 15%, ULEI DE PALMIER, SARE IODATA,",14.29,True
+crop_002332.jpg,"usturoi. Ingrediente: făină de grâu, brânză","USTUROL. INGROUNDIENTE: FAINA DE GRAU, BRAH",25.58,True
+crop_002366.jpg,smântână pasteurizată din lapte proaspăt de,SMANTANA PASTERIZATA DIN LAPTE PROASPAT DE,13.95,True
+crop_002372.jpg,Ingrediente: suc de mere,INGREDIENTE: SUC DE MERE,0.0,False
+crop_002382.jpg,"portocale 40%, suc de morcovi 10%,","PORTOCATE 40%, SUC DE MORCOVI 10%,",2.94,False
+crop_002383.jpg,Ingrediente: Suc de mere 50% suc de,INPERCIENTE: SUC RE MERE 50% SUCHE,20.0,False
+crop_002410.jpg,"xantan, mono și digliceride ale acizilor grași, fosfat de sodiu, alginat","KANTAN, MONO SI OGLICENIDE ARE ACZLOR GRAY",50.0,True
+crop_002411.jpg,"pasteurizată din lapte de vacă, stabilizatori (amidon modificat, gumă","PASTERIZATE DIN LAMTE DE VACI,STABIZATION (",43.48,True
+crop_002412.jpg,Smântână lichidă 20% grăsime UHT. Ingrediente: smântână,SMAMTANA HCHIDI 20% KRISINE UHT.INGREMIENTS,40.0,True
+crop_002414.jpg,"extract de condimente, colorant: extract de ardei roșu.","T. EFFTOCI DE CONDIMENTE, COLORANT EXTRACT DE",38.18,True
+crop_002415.jpg,"(0,5%), stabilizatori: E415, E412; emulsifiant: E452; condimente, acidifiant: E330;","(05%)STABIZATION: E415, E412, ENCLUSMENT E452,",56.63,False
+crop_002416.jpg,"smântână (lapte), ulei vegetal de cocos, sare, pastă de tomate, ardei iute verde","SHOMPING (LAPTE), UEL VEGETAL DE GOODS, S",60.0,True
+crop_002417.jpg,"ceapă, ardei iuți Jalapeno (1,8%), arome (lapte, potențiatori de aromă: E627, E631)","TEMPO ORDER ID: JALAPENO (1,8%), AROME (",60.24,True
+crop_002418.jpg,"E452), ulei vegetal de răpița, crvena paprika (3,0%), amidon de porumb modificat,","E452, UELI VEGETAD DE RAPITA, CRAENA P",60.49,True
+crop_002419.jpg,"preparat din brânză (10,0%) (brânză (lapte), săruri de topire: E331, E339, E450, E451,","PREPORT ON BRONZA (100%) (BRON20 (NAME), SDNUN DE",56.98,True
+crop_002421.jpg,"cafeină. A se păstra la loc uscat și răcoros,",CATEINA. A SE PASTA LA IOC USCAF SI RACOROS,20.0,True
+crop_002422.jpg,"E150d, acidifiant acid fosforic, arome inclusiv","E150D, ACIPANT ACID FOSFORIC, AROME INCLUSIV",8.51,False
+crop_002423.jpg,"de glucoza-fructoza, dioxid de carbon, colorant","DE QUCOZA-FUNCTOZA, DIOXID DE CARBON, COL",19.15,False
+crop_002424.jpg,"si indulcitor. Ingrediente: apă, indulcitor: sirop","SI INDULCTOR INGREDIENTTE: APA, INDULCTOR: SH",18.0,True
+crop_002426.jpg,"de potasiu), corector de aciditate: citrat de sodiu.","DE POTASIU), CORECTOR DE ACIDITATE: CITRI DE S",13.46,False
+crop_002427.jpg,"arome, inclusiv cafeina. Indulcitor: (aspartam, acesulfam","AROME, INCLUSIV CAFEINA, INDULCTOR: (ASPARIM",26.32,False
+crop_002428.jpg,"carbogazoasa, colorant: E150d; acidifiant: acid fosforic;","CARBOGAZOASA, COLORANT: E150D, ACIDIMANT",33.33,False
+crop_002430.jpg,Conține o sursă de fenilalanină.,CONTINE A SURSA DE FENILALANINA.,12.5,True
+crop_002431.jpg,corector de aciditate citrați de sodiu.,CORECTOR DE ACIDITATE CITRATI DE SODIU.,2.56,True
+crop_002432.jpg,"aspartam, acidifiant acid fosforic,","ASPARTAM, ACIDIFANT ACID FOSFORIC,",2.86,False
+crop_002433.jpg,"ciclamat de sodiu, acesulfam-K,","DICLAMAT DE SODIU, ACCESULFAM-K,",6.45,False
+crop_002434.jpg,"naturale, inclusiv cafeină, îndulcitori","NATURALE, INCLUSIV CAFEINA, INDULCITORI",5.13,True
+crop_002435.jpg,"(0,5%), colorant E 150d, arome","(0.5%), COLORANT E 150D, AROME",3.33,False
+crop_002437.jpg,"Ingrediente: apă, dioxid de carbon,","INGREDIENTE: APA, DIOXID DE CARBON,",2.86,True
+crop_002441.jpg,"Poate conține lapte, arahide și varietăți de nuci.","POATE CONTIME LAPTE, ARAHIDE SI VARIETATI DE N",18.0,True
+crop_002442.jpg,"substanță minerală (fier), vitamine (C, B3, B5, B6, B2, B9, D).","SUBSTANTA MINERALA (TER), VITAMINE (C, B3",41.27,True
+crop_002443.jpg,"din trestie de zahăr, aromă naturală, antioxidant (extract bogat în tocoferol),","DIN TESTIBLE ZAHAR, AROMA NATURALA, AMTIOOD",54.43,True
+crop_002444.jpg,"sirop de zahăr invertit, substanță minerală (carbonat de calciu), sare, melasă","SHOP DE ZAHAR INFURIT, SUBSTANTA MINERALA (CARD",48.72,True
+crop_002445.jpg,"miere (3%), făină integrală de porumb (2%), făină integrală de orez (2%),","THIERE (3%), FAINA INTERALA DE PORUNB (2%),",50.68,True
+crop_002446.jpg,"grâu (27,1%), zahăr, făină integrală de orz (15,7%), amidon din grâu,","GRAU (27,1%), ZAHAR, FAINA INTERGALA DE",53.62,True
+crop_002447.jpg,"RO INGREDIENTE: făină integrală de ovăz (27,2%), făină integrală de",TOTAL INGREDIENTE: RAINA INTERALA DE OVAZ (27,50.75,True
+crop_002448.jpg,Poate  conține lapte și varietăți de nuci.,POATE CONLINE LAPTE SI VARIETATI DE NUCI.,11.9,True
+crop_002449.jpg,"(fier), vitamine (B3, B6, B2, B1, B9).","(HER), VITAMINE (83, B6, B2, B1, B",15.79,False
+crop_002450.jpg,"în tocoferol), colorant (caroteni), arome naturale, substanță minerală","IN TOODEROL), COLORANT (CAROTENI), AROME NATUR",37.14,True
+crop_002451.jpg,"bonat de calciu), sare, scorțișoară (0,4%), antioxidant (extract bogat","BONAT DE CALOW), SARE, SCORTSOARA (0.4%),",50.0,True
+crop_002452.jpg,"orez (32,6%), zahăr, ulei de floarea-soarelui, agent de încărcare (car-","OREZ (32,6%), ZAHAR, UEL DE HOAREA - SOAR",50.7,True
+crop_002453.jpg,"INGREDIENTE: făină integrală de grâu (42,4%), făină de","F INGREDIENTE: FAIMA INTERALA DE GRAU (42,",38.89,True
+crop_002455.jpg,"B6, B2, B1, B9, D). Poate conține FRUCTE CU COAJĂ LEMNOASĂ.","B6, B2, B1, B9, D). POATE CONTIME FRUCT",37.29,True
+crop_002456.jpg,"arome naturale, sare, emulsifiant (lecitine), substanță minerală (fier), vitamine (B3, B5,","AMOUNTURALE, SAME, EMALISFANT (LECITRE),S",62.22,True
+crop_002457.jpg,"LAPTE praf integral (1,1%), conține ulei de floarea-soarelui și/sau ulei de palmier,","LAPTE PRAPINTEGRAL (1,1 %), COMINE UEL DE",55.95,True
+crop_002458.jpg,"redus de grăsime* (3,3%), substanță minerală (carbonat de calciu), unt de cacao*,","RECLUS DE GRASIME* (3,PK), SUBSTANIA MINERALA",54.32,True
+crop_002459.jpg,"porumb (10,3%), făină de orez (6,5%), făină de GRÂU (3,6%), cacao cu conținut","PRUND (10,3 %), FAIMA DE OVER (6.5%), FA",61.04,True
+crop_002460.jpg,"INGREDIENTE: făină  integrală de GRÂU (50,8%), zahăr, sirop de glucoză, griș de",INGRECIENTE: FAINA INTERALIA DE GRAU (50/8,56.96,True
+crop_002464.jpg,"bogat în tocoferol), substanță minerală (fier), vitamine (B3,","BOGAT IN TOODEROLI, SUBSTAMIA MINERALA (TER),",39.34,True
+crop_002466.jpg,"pudră (din LAPTE), grăsime din LAPTE,","PUDRA (DIM LAPTE), GASIME DIN LAPTE,",10.81,True
+crop_002467.jpg,"de cacao*, sare, masă de cacao*, emulsifiant (lecitine), ZER","DELACAN"", SAME, MASADE GAGAR ,EMULISIFANT (",46.67,True
+crop_002468.jpg,"(0,5%) cu conținut redus de grăsime*, arome naturale, unt","(05%)CUPONTMUT RETUS DE GASIME"", AROME NAT",36.84,True
+crop_002470.jpg,"rală (carbonat de calciu), extract de malț din ORZ,","TALA (RAYDONAT DE CALCIU), EXTRACT DE MAL;",29.41,True
+crop_002471.jpg,"amidon din porumb, LAPTE praf degresat, substanță mine-","AMITCHIN PORUMB, LAPTE,PAPADEGRESAT,S",43.64,True
+crop_002472.jpg,"(5,4%), sirop de glucoză,","(5,4%),, SIROP DE GLUCOZA,",8.0,True
+crop_002473.jpg,"GRÂU (6,1%), cacao pudră*","GRAU (6.1%), CACAR PUDRA*",16.0,True
+crop_002474.jpg,"porumb (21,7%), zahăr, dextroză, ulei de palmier, făină de","PAYUND Q17%), ZALAR, DEXTOOA, UBLE D",55.17,True
+crop_002475.jpg,"INGREDIENTE: făină integrală de GRÂU, (31,4%), griș de","INGREDENTE:FAMAINTERALADE GRAU (3),4%",42.59,True
+crop_002485.jpg,"țelină, soia, cereale care conțin gluten.","TELINA, SOIA, CEREALE CARE CONTAIN GLUTEN.",9.76,True
+crop_002486.jpg,"maghiran, chili, cimbru, rozmarin. Poate conține: ouă, lapte,","MAGHIAN, CHILI, DIMBRA, ROZMANIN. POATE",40.98,True
+crop_002487.jpg,"- 14%, coriandru, chimen, boia de ardei dulce - 4,8%,","- 14%, CORANDY, CHINEN, BOIA DE ARDEI DULCE",22.64,False
+crop_002488.jpg,"Amestec condimente. Ingrediente: sare, usturoi, muștar alb","AMESTEC CONDIMENTE,INGREDIENTE: SARE,USTURI",27.59,True
+crop_002491.jpg,"cu coajă lemnoasă, ouă, grâu. Produsul conține alcool: nu este potrivit pentru","CU CONPLI LEMASI, OUL, FRIU, PRODUCT COMTRE A",60.26,True
+crop_002492.jpg,"de cacao conține grăsimi vegetale. Produsul poate conține arahide, alte fructe","OR CACARO COMTINE SI GRAILANI VEGETALE, PRODUCT",64.1,True
+crop_002493.jpg,agar-agar. Ciocolată - masă de cacao minim 43%. Ciocolata pe lângă grăsimea,APR-APR CICOLADI - MASI DE CACAR MINIM 43,53.33,True
+crop_002494.jpg,"suc de vișine (0,1%), stabilizator: invertază; arome, agent de îngroșare:","SUB BE VISIDE (0.1%), SAHILIZATOR INVETAZA;",50.68,True
+crop_002495.jpg,"alcool etilic (1,6%), amaretto (0,3%), vin alb (0,3%), rom (0,2%), concentrat de","TALCOOL EDLLIC (1,6%), AMARTIO (0.3%),",60.0,False
+crop_002496.jpg,"aromă], zahăr, vișină în alcool (13%) (vișină, alcool etilic, apă); sirop de glucoză,","AROMIL, ZAHIR, VISIA IN ALCOOL (13%) (VIG",58.82,True
+crop_002497.jpg,"grăsime din lapte, emulgatori: lecitine (din soia) și E 476; stabilizator: E 492;","GRIESAME DIN LAPLE, EMALJATOR, LECOTINE",62.96,True
+crop_002498.jpg,"palmier, shea, sal, semințe de mango) în proporții variabile, grăsime de cacao,","PALMON, SHCA, SAL, SEMINTE DE, MANGO) IN PR",54.43,True
+crop_002499.jpg,"Ingrediente: ciocolată (50%) [zahăr, pulpă de cacao, grăsime vegetală (de","INGRECIENTS: COCULAR (50%) ZAHIR, PALPA DE C",49.32,True
+crop_002500.jpg,"adaos de rom, cu adaos de amaretto, cu adaos de suc de vișine.","ADANDS DE FORM, CA ADADS DE AMARTTO, CU ADADS DE SAC",32.26,True
+crop_002506.jpg,"vitamina B6, acid folic, biotină,","VITAMIMA B6, ADD FOLLC, BLOTINA,",18.18,True
+crop_002507.jpg,"vitamine: niacină, acid pantotenic,","VITAMINE, MIACINA, ACID PANTOTENIC,",8.57,True
+crop_002508.jpg,"citric; oxid de zinc, iodură de potasiu,","OTRIC OLD DE ZINC, IODURA DE POTASIU,",15.0,True
+crop_002509.jpg,"(0,24%), regulator de aciditate: acid","(0.24%), REQULATOR BE ADDITATE: ADID",16.22,False
+crop_002511.jpg,"concentrat de suc de morcov negru,","CONCENTRAT DE SUC DE MORCOV REGRU,",2.94,False
+crop_002512.jpg,"iod. Ingrediente: apă, zahăr, arome,","HOLDINGREDIENTE: APA, ZAHAR, AROME,",16.67,True
+crop_002513.jpg,"folic, biotină, vitamina B12), zinc și","FOIC,BIOTINA, VITAMINA B12), ZINCSI",13.16,True
+crop_002515.jpg,"(niacină, acid pantotenic, vitamina B6, acid","INIADNA, ADD PANTOTENIC, VITAMINA B6, AC",18.18,True
+crop_002516.jpg,aromă de cireșe și adaos de vitamine,AROMADE DRESE SI ADADS DE VITAMINE,19.44,True
+crop_002567.jpg,stabilizator: clorură de calciu; culturi lactice selecționate. A se consuma,STABILIZATION: CHORUR'S DE CALCIU; CULTURI,53.33,True
+crop_002568.jpg,"Ambalat în atmosferă protectoare. Ingrediente: lapte pasteurizat, sare,","AMBALAT IN AMOLLERI PROTECTORE, INGREDIENTIC T",45.07,True
+crop_002572.jpg,"drojdie, sare, boia măcinată, turmeric), apă, ulei de floarea soarelui, făină de grâu, sare. Poate","DROICE, SARE, BARA MAGINATE, TURMENTAL, AKE",66.33,True
+crop_002586.jpg,"de masă, acidifiant: acid citric], ulei de rapiță 25%, ardei galbeni",DEMASA ADJITANT ADD OURD UICE DE AGAILS % ARE SALDER,51.47,True
+crop_002587.jpg,"de brânză 35% [cremă de brânză (din LAPTE), amidon, sare","DELONIA 35% (DEMA DE DARZA (DHL LAPTE, AM",50.0,True
+crop_002588.jpg,"stabilizator: clorură de calciu; antioxidant: acid ascorbic], cremă","SANDULAR DORIA DE ALLOU, ANDXDATE AND ASCOND, D",53.73,True
+crop_002589.jpg,"masă, oțet de spirt, acidifiant: acid acetic, acid citric, acid lactic,","THASE, OFF DE SDIT, ABOLLYANT ADJ AREIT, AND D",59.15,True
+crop_002600.jpg,"acetic). Poate conține urme de: muștar, gluten, lapte,","ACETIC, POBILE CONLINE UTHE DE MUSTAR, GLUTEN, L",27.78,True
+crop_002601.jpg,"de dafin, ienibahar, chilli); sare, regulator de aciditate (acid","DE DETAIN, ENDAHR, ORD) SAME, REGULAR DE ACCIBLE",43.75,False
+crop_002602.jpg,"de sterilizare): ulei de rapiță, extracte de condimente (frunze","DE SERVICE) USE OF THE AGAILA, EXTRACLE OF CONDITIONTE (IN",46.03,True
+crop_002603.jpg,"pește înainte de sterilizare), ulei aromatizat (40% ulei înainte","DESE RANCE DE STERIZATE, UELARDMALZAT (40% U",43.75,True
+crop_002604.jpg,"sterilizată. Ingrediente: hering fără cap, fără coadă (60%","SERIMABLE INGREDENTE INEMING RIA CARD, RRA CORDA (",44.83,True
+crop_002606.jpg,"de: muștar, gluten lapte, soia. Valoare nutritivă pe 100","THE MUSTER, GLUTEN, LAPLE, SOLA VALARE NUMDA",42.86,True
+crop_002607.jpg,regulator de aciditate (acid acetic). Poate conține urme,"REQUIRED DE ADDILATE (ADD ADBIO), POBLE COMPIRE U",42.86,True
+crop_002608.jpg,"uscat, condimente, extracte de condimente (țelină, piper);","USCAT COMORMANTE, EXTRACRE DE CONDITIONATE (TERMA",39.66,True
+crop_002609.jpg,"uscată, agenți de îngroșare (guma de xanthan), păstârnac","USCATE AGAINI DE ENGOSATE (GUNB DE KARTHAN),",41.07,True
+crop_002610.jpg,"tomate, zahăr, ulei de rapiță, făină de cartofi, sare, ceapă","TAMALE, ZALAN, UBLOE RAHIA, BARA DE CARL",58.33,True
+crop_002611.jpg,"de tomate (45% sos înainte de sterilizare): apă, pastă de","DE TOTALS (45% SOS) NAME OF STEMZATE(FACE), PASTA",43.86,True
+crop_002615.jpg,regulator de aciditate (acid acetic). Poate conține urme,"REQUIRED DE ADDILATE (ADD ACETD), POBATE COMTURE J",41.07,True
+crop_002616.jpg,"extracte de condimente (țelină, piper, cuișoare, ienibahar,","REQUACTE DE CONDITIONTE (TERRA, PIPER, OUSC",52.54,True
+crop_002617.jpg,"de grâu (inclusiv gluten), sare, ceapă, uscată, condimente,","DEGRAU (MOLLSIK QUITEN), SARE, DEFORE USDA",52.54,True
+crop_002622.jpg,"betanină. Poate conține alte fructe cu coaja lemnoasa, ouă și cereale care","TOTALING, PAPLE COMTIME ARE FRICE OR OBAYS, REME",59.46,True
+crop_002623.jpg,"lemnoasa (alune, arahide), extract de vanilie, aromă naturală de căpșuni, colorant:","REMMARY ALIME, ARAHIDE), EXTACTIDE AMILE, ABOVE",55.42,True
+crop_002624.jpg,"emulsifianți: lecitine din soia, poliricinoleat de poliglicerină; pasta de fructe cu coaja","EMTASMANY LECIBLE ON SPA, POLLINGHLES OF PEND",66.67,True
+crop_002625.jpg,"cacao, lapte praf integral, grăsime din lapte, corector de aciditate: acid citric;","EACH TASTE UNT INTERNAL, MASIME UTH RIPTE,",67.07,True
+crop_002626.jpg,"(palmier, shea) în proporții variate, unt de cacao, lapte praf degresat, zer praf, masă de","(PRIMER, SHANK) IN PRODUCTIVE, IN THE CASH INSTE AND REC",63.33,True
+crop_002627.jpg,"conține substanță uscată de cacao: min. 30%. Ingrediente: zahăr, grăsimi vegetale",CONLINE SUBTAINIA USCELL OF RECEIP WITH 30% INVOICE TO BE,59.26,True
+crop_002629.jpg,"derivate din lapte, arahide și alte varietăți de nuci.","DETABLE DIN LAPTE, ARAHIDE SI ARE VARIETATI",35.19,True
+crop_002633.jpg,"coloranți: curcumină, carmină, complecși de cupru ale clorofilelor și clorofilinelor.","DETAINT ORIGINAL, CAMINA, COMPLIES OF COPU A' CONDEL",64.71,True
+crop_002634.jpg,"concentrat 0,5% (lămâie 0,13%, portocale 0,13%, cireșe 0,12%, măr 0,08%), arome,","AMOUNTAL 0.5% (LAMBLE 0.13%, PORTOCALE 0",62.5,True
+crop_002635.jpg,"gelatinizant: pectine; corectori de aciditate: acid citric, citrați de sodiu; suc de fructe","RECEIPIENT RECIPE; CORRECTOR DE ADDICATE: ADDIC, D",58.24,True
+crop_002636.jpg,"cacao, emulsifianți: E 492, lecitine (conține soia), E476; aromă], apă, agent","GOOD, ENCLUSEMENT E 492, LECIBLE (CONLINE SPLA), E",57.14,True
+crop_002637.jpg,"Ingrediente: sirop de glucoză, zahăr, ciocolată (21%) [zahăr, masă de cacao, unt de","DOMAGENTE: SHOP DE QUOZA, ZAKAR, COOLATA",63.86,True
+crop_002640.jpg,"praf degresat, emulsifiant: lecitine (din soia); aromă. Poate conține urme de arahide, fructe cu coajă lemnoasă,","PROF REGENT, ENCLUSEMENT LECASE (AM) ARNAY ARONG P",72.32,True
+crop_002641.jpg,"(RO) Tabletă cu lapte. Ingrediente: zahăr, grăsime de palmier, cacao cu conținut redus de grăsime, zer praf 5% lapte","(NO) TABLEBOOK ON TABLE, LAPPENTER TABLE, PLEASE REFALES",73.28,True
+crop_002643.jpg,"glucoză, zahăr. Poate conține urme de arahide și nuci. (RS)","**0ZA, ZAHAR. POATE CONTIME URME DE ARAHIDE S",35.59,True
+crop_002644.jpg,"Batoane cu susan. Ingrediente: 49% semințe de susan, sirop de",BATORNE CU SUSAN. INGROUNDIENTS: 49% SEMINTE DE S,32.79,True
+crop_002648.jpg,"de floarea-soarelui), grâu dur, albuș de ou, ulei de rapiță, făină de grâu, sare iodată, vin roșu, aromă","THE TRANS ACCRIBIENT, REGUR, ABUS BE OU, LEELLAS NA",73.08,True
+crop_002649.jpg,"pulbere, extracte de condimente, condimente, proteine vegetale hidrolizate din rapită și porumb, ulei","PURCHASE, EXTRACATE BE CONDIMENTS, CONDIMENTS,",65.35,True
+crop_002650.jpg,"trifosfați și polifosfați; dextroză, zahăr, antioxidant: ascorbat de sodiu; aromă, proteine din lapte, zer","TOTALAS & POLLOW ARNARA, ZALAR, ENTERADANT ASCARDARD",69.81,True
+crop_002651.jpg,"Apă, ceapă 18%, șnițel carne de vită 16% (carne de vită, apă, sare iodată, stabilizatori: difosfați,","ADJ. COSPT 18%, JALANA DE VIA 16% (C",74.0,True
+crop_002661.jpg,"(E150d), acidifiant (E338), arome naturale, aroma cafeina","(E1502), ACIDIFANT (E338), ARONE NATURNABLE,",33.33,False
+crop_002662.jpg,"cireșe. Ingrediente: apa, zahar, dioxid de carbon, colorant","CHEESE. INGREDIENTE: APE, ZAHAR, DIO",45.76,True
+crop_002676.jpg,"DOAR 4 INGREDIENTE: Suc de aronia presată, culeasă în","DOAR 4 INGREDIENTE: SUC DE ARONIA PRESATA, CUL",15.09,True
+crop_002682.jpg,"colorant E150d, acidifiant acid fosforic, arome naturale,","COLORANT E150D, ACIDIPANT ACD FOSFORIC, ARONE",22.81,False
+crop_002683.jpg,"500ml. Ingrediente: apa, sirop de fructoza, dioxid de carbon","500ML. INORDIENTS APA, SIROP DE FRUCTOZA, D",31.67,False
+crop_002687.jpg,"acidifiant acid fosforic, arome naturale, aroma cafeina. A se","ADIENT ADD ROSFONIC, AROME NATURALE, AROMA CATE",31.15,False
+crop_002688.jpg,"Ingrediente: apa, zahar, dioxid de carbon, colorant E150d,","RECEME ARE, ZAHAR, DIOXID DE CARBON, COLOR",34.48,False
+crop_002696.jpg,"fosforic, arome, cofeină.","TOSFONIC, AROME, COFEINA.",12.0,True
+crop_002697.jpg,"Ingrediente: apă, zahăr, dioxid de carbon, colorant: E150d, acidifiant: acid","INGREDIENTS: APA, ZAHAR, DIOXID DE CARBON",50.0,True
+crop_002730.jpg,"pudră 0,5% (conține proteine din lapte și lactoză),",PUDRA 0.5% (CONLINE PROTEINE DIN LAPTE SILACT,19.61,True
+crop_002731.jpg,"din lapte și lactoză), sare, dextroză, arome, cașcaval","DIN LAPTE SILACTOZA, SARE, DEXTROZA, AR",33.33,True
+crop_002732.jpg,"rapiță în proporții variabile), zer pudră (conține proteine","RAPITA IN PROPORTIL VARIABILE), ZER PUDRA",40.68,True
+crop_002736.jpg,"emulsifiant (lecitină de soia), dextroză.","EMULSIANT (ICOTINA DE SOLA), DEXTROZA.",19.51,True
+crop_002737.jpg,"corectori de aciditate (acid citric, acid malic)], zahăr, făină de grâu,","COODON BE ADDILATE (ADD DINC, ADD MAILIC), ZAHAR",51.39,True
+crop_002738.jpg,"(pătrunjel 0,12%, mărar 0,00006%, mentă), aromă, ulei de palmier,","(DELANIEI 0.12%, MAMAR 0,00006%, MENT",56.92,True
+crop_002740.jpg,"(monoglutamat de sodiu, 5-ribonucleotide disodice), lapte pudră","(MONDETIMAT DE SOLD, 5-MONOLEODIDE DISOURCE),",44.44,True
+crop_002742.jpg,"(acid citric), colorant (extract de ardei roșu).","(ACID CITYIC), COLORANT (EXTRACT DE ARDEI ROSU).",4.17,True
+crop_002743.jpg,"corector de aciditate (acetați de sodiu), acidifiant","CORECTOR DE ACIDITATE (ACETATI DE SODIU), ACID",13.46,True
+crop_002744.jpg,"(chili)], maltodextrină (conține gluten de grâu),","(CHILI)), MALTODEXTRINA (CONLINE GLUTEN DIN",22.45,True
+crop_002745.jpg,"roșu pudră (paprica) 0,08%, ardei iute pudră","ROSU PUDRA (PAPRICA) 0,08%, ARDEBI L",27.27,True
+crop_002746.jpg,"(conține derivate din lapte), condimente [ardei","(CONLINE DENIVATE DIN LAPTE), CONDIMENTE (ARDE",8.51,True
+crop_002747.jpg,"0,78% (conține derivate din lapte), sare, zer pudră","0.78% (CONTIME DERIVATE DIN LAPTE), SARE,",25.49,True
+crop_002748.jpg,"(conține derivate din lapte), smântână pudră","(CONLINE DERIVATE DIN LAPTE), SMANTANA PUDRA",11.36,True
+crop_002749.jpg,"soarelui, rapiță în proporții variabile), zahăr, arome","SOARELUI, RAPITA IN PROPORTIL VARIABILE),",33.33,True
+crop_002750.jpg,"MD Ingrediente: cartofi, uleiuri vegetale (floarea","NDINGREDIENTS: CARTOFI, UELURI VEGETALE (FOARE",14.0,False
+crop_002751.jpg,smântână și ardei paprica.,SMANTANA SI ARDEI PAPRICA.,15.38,True
+crop_002753.jpg,"0,05%, chimen), colorant (extract de ardei roșu), plante aromatice].","0.05%, CHIMEN), COLORANT (EXTRACT DE ARTEI ROS",36.76,True
+crop_002754.jpg,"usturoi pudră 0,3%, condimente (ardei chilli 0,12%, piper negru","USTUROL PUDRA 0,3%, CONDIMENTE (ARDE) CH",41.27,True
+crop_002755.jpg,"pudră 0,6%, corectori de aciditate (acetați de sodiu, acid citric),","PUCTRA 0.6%, CORECTION BE ACIDITATE (ACETAI DE S",41.79,True
+crop_002756.jpg,"disodice), arome (conțin grâu, soia, lapte, lactoză), zahăr, ceapă","DISCODIOS), AROME (CONTH GRAU, SOLA, L",53.03,True
+crop_002757.jpg,"potențiatori de aromă (monoglutamat de sodiu, 5-ribonucleotide","POTENDATORI DE AROMA (MONOSULARNAT DE SODU, S",40.32,True
+crop_002761.jpg,"lapte, lactoză), cașcaval pudră 0,08% (conține lapte,","IAPTE, LACTOZA), CASCAVAL PUDRA 0.08% (",35.85,True
+crop_002762.jpg,"(conține lapte, lactoză), sare, clorură de potasiu, arome (conțin","(CONLINE LAPTE, LACTOZA), SARE, CORURA DE POT",35.38,True
+crop_002763.jpg,"ascorbic, extract bogat în tocoferol, acid citric)], zer pudră","ASCOPBLIC, EXTRACI BOGAT IN TOODEROL, ACID",41.94,True
+crop_002764.jpg,"proporții variabile; antioxidanți (extracte de rozmarin, acid","PROPONTI VANIABILE, ANTOXIDANTI (EXTRAC",44.26,True
+crop_002766.jpg,"Ingrediente: cartofi, uleiuri vegetale [rapiță, floarea soarelui, în","INGREDIENTS: CARTON, UELURI VEGETALE |RAPITA",42.65,True
+crop_002778.jpg,"glucoză, maltodextrină, plante aromatice, acidifiant (acid","GLUCOZA, MALTOXLINIA, PLANTE AROMATION, ACCIP",36.21,True
+crop_002780.jpg,"carbonat de calciu, fier, vitamina B3, vitamina B1)], sare,","CARDONATOR CALCIU, FIER, VITAMINA B3, VIT",35.59,False
+crop_002782.jpg,"soarelui, rapiță, în proporții variabile), mix de ingrediente","SCARELLI, RAPITA, IN PROPORTI VARIABLE),",44.26,True
+crop_002783.jpg,"Ingrediente: cartofi, uleiuri vegetale (porumb, floarea","INGREDIENTS: CARTOF, ULEIURI VEGETALE (POR",25.45,False
+crop_002788.jpg,"colorant (extract de ardei roșu), extract de cafea, carne de vită","COLORANT (EXTRANDE ARE, IROSU), EXTRACT DE CAFE",35.38,True
+crop_002789.jpg,"0,06%, arome, aromă de fum, corector de aciditate (acid citric).","0.06%, AROME, PROMA, REFUM, COREDITOR DE ADD",45.31,True
+crop_002790.jpg,"făină de roșcove, ardei gras verde 0,06%, ceapă prăjită pudră","FALRA DE ROSCOVE, ANDINGMAS VERDE 0.06%, DEAP",42.62,True
+crop_002791.jpg,"de aromă (monoglutamat de sodiu, 5-ribonucleotide disodice),","DE AROMA (NONOGUTAMAT DE SODU, 5-PRB",46.67,True
+crop_002792.jpg,"pudră 0,12%, piper negru 0,06%, piper alb 0,03%) potențiatori","PUDRA 0.12%, PIPER REGNU 0.06%, PIPER",47.54,True
+crop_002793.jpg,"(conține soia), sare, condimente (ceapă pudră 0,3%, usturoi","(CO TINC SOLD, SARE, CONDIMENTE (CEAPA PUD",38.98,True
+crop_002794.jpg,"coaste de vită la grătar [zahăr, proteină vegetală hidrolizată","CONCTE DE VITA LA GRATAR (ZAHAR, PROTEINA V",41.94,True
+crop_002795.jpg,"rapiță, în proporții variabile), mix de ingrediente cu gust de","RAPURA, IN PROPORTI VARIABLE), TAX DE INGRED",40.32,True
+crop_002796.jpg,"MD Ingrediente: cartofi, uleiuri vegetale (porumb, floarea soarelui,","GND INGRY,JIENTE: CARLOT, UELUN VEG",64.71,False
+crop_002800.jpg,"acizilor grași), dextroză, corector de acididate (acid citric). A se","ADZLOR GRASI), DEXTROZA, CORECTOR DE ACID",44.12,True
+crop_002812.jpg,"arahide, grâu și alte cereale care conțin gluten.","ARAHIDE, GRAU SLATE CEREALE CARE CONTAIN GLUTEN.",14.29,True
+crop_002813.jpg,colorant (extract de ardei roșu)]. Produsul poate conține,COLORANT (EXTRACT DE ARDEI ROYU). PRODUCT POATE CONLINE,10.53,True
+crop_002817.jpg,"sare, ceapă pudră, usturoi pudră, potențiatori de aromă","SALE, DEAPA PUDRA, USTUROI PUDRA, P",45.45,True

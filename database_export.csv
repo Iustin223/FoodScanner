@@ -1,0 +1,163 @@
+id,cod_e,nume,grad_risc,descriere
+1,E100,curcumină,Inofensiv / Necunoscut,"Un colorant natural (galben-portocaliu) utilizat în margarină, gemuri, jeleuri și marmelade și alte preparate similare din fructe (inclusiv produse cu conținut scăzut de calorii). De asemenea utilizat în cârnați, pateu și aspic, granule și fulgi de cartofi uscați, muștar.[3]"
+2,E101,riboflavină,Inofensiv / Necunoscut,Vitamina B2
+3,E102,tartrazină,Periculos,"Este un colorant galben care se găsește în dulciuri (budinci, înghețate, dropsuri), băuturi, muștar, supe instant, gemuri, cereale, snacks-uri.
+Este considerat a avea acțiune cancerigenă (tumori tiroidiene), poate provoca mutații cromozomiale și determina deficiențe în vitamina B6 și zinc.[necesită citare]"
+4,E104,galben de chinolină,Periculos,"Este folosit în rujuri, produse pentru păr, parfumuri, o largă gamă de medicamente. Totodată este utilizat ca un colorant galben pentru înghețate, dropsuri, prafuri de budincă."
+5,E110,"galben apus de soare fcf, galben portocaliu s",Periculos,"Intră în componența sucurilor, dropsurilor, înghețatei, a snack-urilor, precum și în unele băuturi, medicamente, conserve de pește, prafuri de budincă.
+Este considerat cancerigen (tumori renale) și are ca efecte congestia nazală, alergii, hiperactivitate, dureri abdominale, vomă, indigestie.[necesită citare]"
+6,E120,"cochineal, acid carminic, carmin, cârmâz",Inofensiv / Necunoscut,"Este un pigment de un roșu-intens extras din femela coșenilei, o insectă exotică din Mexic.
+Este adăugat frecvent în produse ca iaurturile și sucurile de fructe, în special varietățile care necesită o culoare rubinie (de exemplu cele de vișine, de cireșe sau de căpșuni)."
+7,E122,"azorubină, carmoizină",Periculos,"În prezent este interzis în Canada, Japonia, Norvegia, SUA și Suedia. UE încă evaluează riscurile potențiale pentru sănătate."
+8,E124,"ponceau 4r, roșu cochineal a",Periculos,"Este considerat cancerigen și prin urmare interzis în țări precum SUA, Norvegia, Finlanda. Dar încă folosit pe scară largă în restul UE.[4]"
+9,E127,eritrozină,Inofensiv / Necunoscut,"Este un colorant roșu pentru compoturi și alte alimente. Este întâlnit în băuturi alcoolice, înghețată, prăjituri, bomboane, sucuri răcoritoare.
+Cercetătorii au ajuns la concluzia că provoacă mutații genetice, cancer al tiroidei la șobolani (studiu din anul 1990), posibil și la om.[necesită citare]"
+10,E128,roșu 2g,Periculos,"Comisia Europeană a considerat colorantul E128 susceptibil de a prezenta un risc major pentru sănătatea umană, și în 2007 suspendă utilizarea acestuia în alimentația umană, precum și introducerea acestuia pe piață și importul de produse care conțin acest colorant.[5]"
+11,E129,roșu allura ac,Periculos,"Este interzis în Danemarca, Belgia, Franța, Eleveția și Suedia. Este permis în SUA și UE (păstrând totuși interdicțiile impuse de țările membre menționate anterior)."
+12,E132,"indigotin, indigo carmin",Inofensiv / Necunoscut,"Este un colorant care se adăugă în tablete și capsule, înghețată, dulciuri, produse de patiserie, biscuiți.
+Poate provoca greață, vomă, hipertensiune arterială, urticarie, probleme de respirație și alte reacții alergice.[necesită citare]"
+13,E150a,caramel simplu,Inofensiv / Necunoscut,"Termenul de caramel se referă la produsele de culoare maro mai mult sau mai puțin intens, care sunt destinate pentru colorare. Nu corespunde produsului zaharos aromat obținut prin încălzirea zahărului și care se folosește pentru aromatizarea alimentelor (de exemplu, produse de cofetărie, patiserie, băuturi alcoolice).[3]
+Se adaugă la pâine din malț, bere neagră, oțet balsamic (de Modena), whiskey, vinuri licoroase, legume în oțet, saramură sau ulei (cu excepția măslinelor), gemuri, jeleuri, marmelade, cârnați, pateu, aspic.[3]"
+14,E150b,caramel de sulfit caustic,Inofensiv / Necunoscut,Fara descriere
+15,E150c,caramel de amoniu,Inofensiv / Necunoscut,Fara descriere
+16,E150d,caramel de sulfit de amoniu,Inofensiv / Necunoscut,Fara descriere
+17,E160a,"beta-caroten, amestec de caroteni",Inofensiv / Necunoscut,"Sursele naturale de beta-caroten sunt morcovii, cartofii dulci, și cantalupii (varietate de pepene galben cu miezul de culoare portocalie)."
+18,E160c,"extract de ardei iute, capsantin, capsorubin",Inofensiv / Necunoscut,Colorant natural roșu închis. Este utilizat în egală măsură și ca aromatizant.
+19,E161,xantofile,Inofensiv / Necunoscut,"Coloranți naturali de tip carotenoide oxigenate. E161b (luteină), E161g (cantaxantină)"
+20,E162,"roșu din sfeclă roșie, betanină",Inofensiv / Necunoscut,"Larg utilizat, dar culoarea este destul de instabilă."
+21,E200,acid sorbic,Inofensiv / Necunoscut,"Este un conservant care împiedică formarea de mucegaiuri și drojdii, nefiind eficient împotriva bacteriilor.
+Este utilizat la un spectru larg de produse, cum sunt iaurtul și alte produse lactate fermentate, salate de fructe, limonadă, brânză, pâine de secară, prăjituri și produse de panificație, pizza, fructe de mare, suc de lămâie, cidru, și supe."
+22,E202,sorbat de potasiu,Inofensiv / Necunoscut,Este folosit ca și conservant pentru prunele uscate.
+23,E211,benzoat de sodiu,Periculos,"Este utilizat în calitate de conservant împotriva drojdiilor și bacteriilor în produsele acide, cum ar fi dressing-urile pentru salate, băuturi carbogazoase cu arome de citrice, gemuri, sucuri de fructe citrice, murături și condimente. Se găsește de asemenea și în apa de gură bazată pe alcool.
+În combinație cu acidul ascorbic (vitamina C, E300), benzoatul de sodiu și benzoatul de potasiu (E212) pot forma benzen, un cunoscut cancerigen. Factori ca temperaturile ridicate, lumina, și timpul petrecut pe raft pot stimula formarea benzenului.[6]
+Ca urmare a îngrijorării crescânde a consumatorilor, în ce privește relația dintre E211 și hiperactivitatea și deficitul de atenție la copii (ADHD) și modificarea unor părți din ADN, compania Coca-Cola a hotărât să retragă treptat E211 din produsele sale — imediat ce va descoperi o alternativă satisfăcătoare.[7]"
+24,E212,benzoat de potasiu,Periculos,"Informațiile despre E211 sunt valabile și pentru E212.
+În UE nu este recomandată folosirea acestuia pentru produsele destinate consumului de către copii."
+25,E213,benzoat de calciu,Inofensiv / Necunoscut,Informațiile despre E211 sunt valabile și pentru E213.
+26,E214,"p-hidroxibenzoat de etil, etilparaben",Inofensiv / Necunoscut,"Autoritatea Europeană pentru Siguranța Alimentară (European Food Safety Authority, EFSA) nu a fost în măsură să recomande o doză zilnică admisă (DZA) pentru parabenul de propil (E216), deoarece acesta, spre deosebire de parabenul de etil (E214) și cel de metil (E218), a avut efecte asupra hormonilor sexuali și a organelor de reproducere masculine la șobolanii tineri.[8]
+În directiva 2006/52/CE se menționează că este necesar să se interzică utilizarea p-hidroxibenzoaților (PHB), denumiți și parabeni, în suplimentele alimentare lichide.[8]"
+27,E215,derivat sodic al esterului etilic al acidului p-hidroxibenzoic,Inofensiv / Necunoscut,Fara descriere
+28,E216,"p-hidroxibenzoat de propil, propilparaben",Periculos,Fara descriere
+29,E217,derivat sodic al esterului propilic al acidului p-hidroxibenzoic,Periculos,Fara descriere
+30,E218,"p-hidroxibenzoat de metil, metilparaben",Inofensiv / Necunoscut,Fara descriere
+31,E219,derivat sodic al esterului metilic al acidului p-hidroxibenzoic,Inofensiv / Necunoscut,Fara descriere
+32,E220,dioxid de sulf,Inofensiv / Necunoscut,"Este folosit ca și conservant pentru fructele uscate, în special caise. Păstrează aspectul și culoarea originală a fructelor și previne putrezirea lor.
+Este folosit în aproape toate vinurile comerciale ca antiseptic și antioxidant pentru a preveni dezvoltarea bacteriilor și oxidarea, deci pentru a păstra gustul, parfumul și culoarea originală a vinului.
+Este responsabil pentru cuvintele ""conține sulfiți"" ce se regăsesc pe etichetele sticlelor de vin. După legislația UE și SUA, vinurile cu o concentrație de dioxid de sulf mai mică de 10 ppm nu trebuie să aibă inscripționate cele două cuvinte."
+33,E221,sulfit de sodiu,Inofensiv / Necunoscut,Este folosit în alimente pentru evitarea decolorării și degradării.
+34,E222,sulfit acid de sodiu (bisulfit de sodiu),Inofensiv / Necunoscut,Este folosit în conservele de fructe pentru a preveni oxidarea și pentru a distruge microbii.
+35,E223,metabisulfit de sodiu (disulfit de sodiu),Inofensiv / Necunoscut,"Datorită efectului său oxidant, poate reduce conținutul de vitamine din produse.[9]"
+36,E224,metabisulfit de potasiu (disulfit de potasiu),Inofensiv / Necunoscut,
+37,E249,nitrit de potasiu,Inofensiv / Necunoscut,"Utilizat pentru produse din carne uscată, sărată, netratată termic.[10]"
+38,E250,nitrit de sodiu,Inofensiv / Necunoscut,"Este frecvent utilizat cu rol dublu în produsele din carne (pastramă, șuncă etc.) pentru a păstra culoarea roșiatică a cărnii, și de asemenea pentru prevenirea dezvoltării bacteriilor producătoare de toxină botulinică.
+Principala îngrijorare legată de nitritul de sodiu este formarea nitrozaminelor — considerate cancerigene — atunci când produsele de carne care conțin E249 sau E250 sunt expuse la temperaturi înalte (prin prăjire sau la grătar).[11] Acidul ascorbic (vitamina C, E300) sau acidul eritrobic (E315) împiedică formarea de nitrozamine, și de aceea sunt utilizați împreună cu nitritul de sodiu."
+39,E251,nitrat de sodiu,Inofensiv / Necunoscut,"Folosit în produsele din carne sărată, inclusiv în conservele de carne.[10]"
+40,E252,nitrat de potasiu,Inofensiv / Necunoscut,"Folosit în brânză tare, semitare, semimoale. De asemenea și pentru hering sau șprot marinat.[10]"
+41,E270,acid lactic,Inofensiv / Necunoscut,"Împiedică alterarea măslinelor spaniole, stabilizează aciditatea în procesul de fabricare a brânzei, și crește aciditatea la deserturile congelate, băuturile carbogazoase cu arome de fructe.[12]"
+42,E300,acid ascorbic,Inofensiv / Necunoscut,Vitamina C
+43,E306,extract bogat în tocoferol,Inofensiv / Necunoscut,Vitamina E
+44,E307,alfa-tocoferol,Inofensiv / Necunoscut,Fara descriere
+45,E308,gama-tocoferol,Inofensiv / Necunoscut,Fara descriere
+46,E309,delta-tocoferol,Inofensiv / Necunoscut,Fara descriere
+47,E310,galat de propil,Inofensiv / Necunoscut,"Galații se utilizează, de obicei în combinație cu E320 sau E321, în grăsimi și uleiuri pentru fabricarea profesională a alimentelor tratate termic, ulei și grăsime de gătit (excluzând uleiul de turtă de măsline), untură, ulei de pește, grăsime de vită, pasăre și oaie.[10]"
+48,E311,galat de octil,Inofensiv / Necunoscut,Fara descriere
+49,E312,galat de dodecil,Inofensiv / Necunoscut,Fara descriere
+50,E315,acid eritrobic,Inofensiv / Necunoscut,"Utilizat în produse din carne semiconservate și conservate, produse din pește semiconservate și conservate, pește refrigerat și congelat cu piele roșie.[10]"
+51,E320,butilhidroxianisol (bha),Periculos,"Este un antioxidant sintetic folosit pentru a preveni râncezirea în grăsimi și produse grase.
+Utilizat de obicei în combinație cu E321 în alimente tip snacks pe bază de cereale, supe și ciorbe deshidratate, sosuri, carne deshidratată, condimente și mirodenii, cereale prepreparate, cartofi granulați deshidratați (chipsuri), gumă de mestecat, suplimente dietetice.[10]
+Dacă E320 și/sau E321 sunt adăugate într-un ingredient (de exemplu, marțipanul[13]) folosit într-un produs alimentar, nu este necesar ca vreunul să fie declarat în lista de ingrediente.
+Este de asemenea folosit în produsele cosmetice și în ambalajele pentru alimente.[14]
+Este interzis în Austria.[13]
+Institutul național de sănătate (National Institutes of Health) din SUA a declarat că E320 este anticipat în mod rezonabil ca fiind cancerigen pentru oameni, bazându-se pe rezultatele experimentelor efectuate pe animale.[15]
+Statul California din SUA l-a declarat cancerigen și prin urmare a interzis întrebuințarea acestuia."
+52,E321,butilhidroxitoluen (bht),Periculos,"Este un antioxidant sintetic folosit pentru a preveni râncezirea în grăsimi și produse grase.
+Este de asemenea folosit în produsele cosmetice și în ambalajele pentru alimente.[14]"
+53,E322,lecitină,Inofensiv / Necunoscut,"Sursele naturale de lecitină sunt gălbenușul de ou și semințele de soia.
+Întârzie râncezirea și ajută la obținerea unor prăjituri sau torturi mai pufoase. Având rol și de emulgator, aceasta împiedică separarea uleiului și apei.[12]"
+54,E330,acid citric,Inofensiv / Necunoscut,"Este de fapt cunoscuta sare de lămâie.
+Se găsește în cele mai multe sucuri care se afla în comerț, muștar (sub formă de arome), ciuperci conservate."
+55,E338,acid fosforic,Inofensiv / Necunoscut,"Produce tulburări digestive (indigestie, vomă, colici abdominale, ș.a.).[necesită citare]
+Este folosit și în preparatele din brânză."
+56,E406,agar-agar,Inofensiv / Necunoscut,
+57,E407,caragenan,Inofensiv / Necunoscut,Este o familie de polizaharide ce sunt extrase din specia de alge roșii denumită Chondrus crispus. Extractele gelationoase din această algă reprezintă o alternativă vegetală la gelatină.
+58,E410,gumă de carruba,Inofensiv / Necunoscut,"Aditiv alimentar cu rol de emulgator, stabilizator, agent de îngroșare, de umplere și de aglomerare. Este un produs natural, obținut din arborele de roșcov.[16][17][18]"
+59,E411,gumă de ovăz,Inofensiv / Necunoscut,"Este un agent de îngroșare, polizaharid natural, obținut din ovăz care în concentrație ridicată produce flatulență și balonare.[necesită citare]"
+60,E412,gumă de guar,Inofensiv / Necunoscut,"Este un agent de îngroșare, emulsificator și stabilizator obținut din rășina de guar care poate provoca greață, meteorism și crampe, și reduce nivelul colesterolului.[necesită citare]"
+61,E413,tragacant,Inofensiv / Necunoscut,
+62,E414,"gumă de acacia, gumă arabică",Inofensiv / Necunoscut,
+63,E415,gumă de xantan,Inofensiv / Necunoscut,
+64,E440,"pectine (pectină, pectină amidată)",Inofensiv / Necunoscut,"Pectina este un carbohidrat care întărește membranele celulelor din fructele citrice, mere, morcovi, și alte fructe și legume.
+Pectina capătă, prin amestecare cu apă și prin fierbere, forma unei gelatine. Aceasta constituie baza pentru prepararea marmeladei și a gemurilor."
+65,E450,"difosfați (difosfat disodic, difosfat trisodic, difosfat tetrasodic, difosfat dipotasic, difosfat tetrapotasic, difosfat dicalcic, dihidrogeno-difosfat de calciu)",Inofensiv / Necunoscut,"Folosiți în produse fine de panificație, făină cu agenți de afânare, sosuri, deserturi, biscuiți și pesmeți.[10]"
+66,E451,"trifosfați (trifosfat pentasodic, trifosfat pentapotasic)",Inofensiv / Necunoscut,"Adăugați în supe și ciorbe, ceai și infuzii de plante.[10]"
+67,E452,"polifosfați (polifosfat de sodiu, polifosfat de potasiu, polifosfat calcosodic, polifosfați de calciu)",Inofensiv / Necunoscut,"Utilizați în produse alimentare sub formă de praf, gumă de mestecat, cereale pentru micul dejun, snacks, surimi, paste din pește și crustacee, glazuri, produse de cofetărie, fidea, aluaturi, file de pește neprelucrat, refrigerat și congelat, produse din crustacee refrigerate și congelate.[10]"
+68,E466,carboximetilceluloză,Inofensiv / Necunoscut,"Produce tulburări digestive (indigestie, vomă, colici abdominale ș.a.).[necesită citare]"
+69,E500,"carbonați de sodiu (carbonat de sodiu, carbonat acid de sodiu, sescvicarbonat de sodiu)",Inofensiv / Necunoscut,"Carbonatul acid de sodiu este denumirea științifică a bicarbonatului de sodiu folosit în bucătărie.
+Este un agent de afânare reprezentând o componentă a parfului de copt, și este folosit în alimentele de înțărcare pentru sugari."
+70,E501,"carbonați de potasiu (carbonat de potasiu, carbonat acid de potasiu), potasă",Inofensiv / Necunoscut,"Utilizat în produse pe bază de cacao și de ciocolată, lapte deshidratat și parțial deshidratat."
+71,E512,clorură stanoasă,Inofensiv / Necunoscut,Utilizat exclusiv pentru stabilizarea culorii sparanghelului alb în cutii de conservă și în borcane de sticlă.[10]
+72,E525,"hidroxid de potasiu, potasă caustică",Inofensiv / Necunoscut,Utilizat în alimentele de înțărcare pentru sugari și în produsele pe bază de cacao și de ciocolată.[10]
+73,E579,gluconat de fier,Inofensiv / Necunoscut,"Este un stabilizator folosit pentru înnegrirea (oxidarea) artificială a măslinelor.
+Este de asemenea utilizat ca sursă de fier și de industria farmaceutică în tabletele de suplimente nutritive.[12]"
+74,E927b,"carbamidă, uree",Inofensiv / Necunoscut,"Este folosită, cu rol de stabilizator, exclusiv pentru guma de mestecat fără adaos de zahăr.[10]"
+75,E420,sorbitol,Inofensiv / Necunoscut,"Este un zahăr-alcool ce are aproximativ jumătate din dulceața zaharozei.
+Unele persoane cu diabet folosesc sorbitolul ca îndulcitor, deoarece este lent absorbit de organism și nu cauzează o crește bruscă a glicemiei (nivelul glucozei în sânge).[12]
+Nu conduce la apariția cariilor dentare, deoarece bacteriile din cavitatea bucală nu metabolizează sorbitolul foarte bine. De aceea este folosit în gumele de mestecat.
+Consumul unei cantități semnificative poate avea un puternic efect laxativ, cauzând chiar și diaree."
+76,E421,manitol,Inofensiv / Necunoscut,"Este posibil să provoace alergii. Este interzis în mâncarea sugarilor putând provoca diaree și disfuncții renale. Poate provoca greață, vomă și se regăsește în produse cu conținut redus în calorii.[necesită citare]"
+77,E950,"acesulfam k, acesulfam potasiu",Inofensiv / Necunoscut,"Este un îndulcitor artificial, de aproximativ 200 de ori mai dulce decât zaharoza. Este de obicei folosit în combinație cu aspartamul, sucraloza sau zaharina.
+Este utilizat în guma de mestecat, produsele de patiserie, dulciurile pe bază de gelatină, sucurile dietetice (așa numitele ""sugar-free"")."
+78,E951,aspartam,Inofensiv / Necunoscut,"Este un îndulcitor artificial, de aproximativ 200 de ori mai dulce decât zaharoza.[19], frecvent folosit și care poate fi sursa a peste 70 de tipuri de boli, potrivit cercetătorilor.[necesită citare]
+Se întâlnește cel mai des în guma de mestecat, produse zaharoase, băuturi răcoritoare.
+Joacă un rol important în declanșarea tumorilor cerebrale, a sclerozei multiple, malformațiilor și diabetului.[necesită citare] Este cancerigen."
+79,E952,"acid ciclamic  și sărurile sale de na și ca (ciclamat de sodiu, ciclamat de calciu)",Periculos,"Ciclamatul de sodiu este un îndulcitor artificial, de 30-50 de ori mai dulce decât zaharoza, depinzând de concentrația utilizată - nefiind o relație liniară. Este de obicei folosit împreună cu alți îndulcitori, în special zaharină.
+Acest controversat îndulcitor a fost utilizat în USA până în anul 1970, după care a fost interzis. Studiile pe animale au indicat că produce cancer și afectează glandele genitale masculine (testiculele), dar nu direct, ci amplificând potența altor substanțe cancerigene.[12]"
+80,E953,isomalt,Inofensiv / Necunoscut,"Este un tip de zahăr-alcool, oferind aproape jumătate din caloriile unei cantități similare de zaharoză (zahăr). Similar cu alți zahăr-alcooli, induce riscul unor neplăceri gastrice (flatulență și diaree) atunci când este consumat în cantități mari (peste 50 g/zi pentru adulți și 25 g/zi pentru copii).
+Este de obicei folosit împreună cu sucraloza, obținând astfel un amestec aproximativ la fel de dulce ca zahărul."
+81,E954,"zaharină și sărurile sale de na, k și ca (zaharinat de sodiu, zaharinat de potasiu, zaharinat de calciu)",Inofensiv / Necunoscut,Este un îndulcitor artificial de aproximativ 300-500 de ori mai dulce decât zaharoza.[19]
+82,E955,sucraloză,Inofensiv / Necunoscut,"Este un îndulcitor artificial, de aproximativ 600 de ori mai dulce decât zaharoza."
+83,E957,taumatină,Inofensiv / Necunoscut,Este de aproximativ 2000-3000 de ori mai dulce decât zaharoza.[19]
+84,E962,sare de aspartam-acesulfam,Inofensiv / Necunoscut,"Este un îndulcitor artificial, de aproximativ 350 de ori mai dulce decât zaharoza."
+85,E965,maltitol,Inofensiv / Necunoscut,"Este un zahăr-alcool care nu este bine absorbit de către organismul uman, ceea ce înseamnă mai puține calorii pe gram decât zahărul.
+Nu conduce la apariția cariilor dentare, de aceea este folosit în gumele de mestecat.
+Consumul unei cantități semnificative (mai mult de 20-30 grame) poate avea efecte laxative.[12]"
+86,E967,xilitol,Inofensiv / Necunoscut,"Este aproximativ la fel de dulce ca zaharoza, dar furnizând doar două treimi din energia obținută de la aceeași cantitate de zaharoză."
+87,E535,ferocianura de sodiu,Periculos,"Utilizați în produse alimentare sub formă de praf (inclusiv zaharuri), sare și substituenții ei, suplimente alimentare dietetice, alimente sub formă de tablete, pastile, drajeuri, brânză tare și brânză prelucrată tăiată felii, gumă de mestecat, orez, cârnați și jeleuri (numai tratament superficial).[10]
+E555 este folosit în sare, lapte praf și făină sub forma granulelor gluten-kaolin numite 'Pesta'. Deși se știe că aluminiul este cauza unor probleme placentare în timpul sarcinii și că este asociat cu boala Alzheimer, este permis în România[20].[necesită citare]"
+88,E536,ferocianura de potasiu,Periculos,Fara descriere
+89,E551,dioxid de siliciu,Inofensiv / Necunoscut,Fara descriere
+90,E552,silicat de calciu,Inofensiv / Necunoscut,Fara descriere
+91,E553a,"silicat de magneziu, trisilicat de magneziu",Inofensiv / Necunoscut,Fara descriere
+92,E553b,talc,Inofensiv / Necunoscut,Fara descriere
+93,E554,silicat alumino-sodic,Inofensiv / Necunoscut,Fara descriere
+94,E555,silicat alumino-potasic,Inofensiv / Necunoscut,Fara descriere
+95,E556,silicat alumino-calcic,Inofensiv / Necunoscut,Fara descriere
+96,E559,silicat de aluminiu (kaolin),Inofensiv / Necunoscut,Fara descriere
+97,E620,acid glutamic,Inofensiv / Necunoscut,"Glutamatul monosodic este un potențiator de aromă și este adăugat în cantitate mai mare la amestecurile de condimente și mirodenii cum ar fi produsele de tip Vegeta care conțin până la 15% glutamat monosodic, precum și supele la plic. Alte produse care pot conține glutamat monosodic sunt unele mezeluri sau unele tipuri de brînză topită."
+98,E621,glutamat monosodic,Inofensiv / Necunoscut,Fara descriere
+99,E622,glutamat monopotasic,Inofensiv / Necunoscut,Fara descriere
+100,E623,diglutamat de calciu,Inofensiv / Necunoscut,Fara descriere
+101,E624,glutamat de monoamoniu,Inofensiv / Necunoscut,Fara descriere
+102,E625,diglutamat de magneziu,Inofensiv / Necunoscut,Fara descriere
+103,E626,acid guanilic,Inofensiv / Necunoscut,"Acidul guanilic este adesea utilizat în sinergie cu inozinatul disodic (E631), acest amestec formând așa numitele 5′-ribonucleotide disodice (E635)."
+104,E627,guanilat disodic,Inofensiv / Necunoscut,Fara descriere
+105,E628,guanilat dipotasic,Inofensiv / Necunoscut,Fara descriere
+106,E629,guanilat de calciu,Inofensiv / Necunoscut,Fara descriere
+107,E630,acid inozinic,Inofensiv / Necunoscut,"Acidul inozinic se utilizează predominant împreună cu glutamatul monosodic (E621). Datorită efectelor sinergice între cele două substanțe, impactul glutamatului monosodic asupra gustului este intensificat."
+108,E631,inozinat disodic,Inofensiv / Necunoscut,Fara descriere
+109,E632,inozinat dipotasic,Inofensiv / Necunoscut,Fara descriere
+110,E633,inozinat de calciu,Inofensiv / Necunoscut,Fara descriere
+111,E634,5′-ribonucleotide de calciu,Inofensiv / Necunoscut,
+112,E635,5′-ribonucleotide disodice,Inofensiv / Necunoscut,Utilizate împreună cu glutamatul monosodic (E621).
+113,E924,bromat de potasiu,Periculos,"Agenția internațională pentru cercetarea cancerului (International Agency for Research on Cancer, IARC) îl consideră posibil cancerigen pentru oameni.[21]
+Este interzis în UE, Canada, China și multe alte țări. În SUA și Japonia nu a fost interzisă utilizarea acestuia."
+114,E901,ceară de albine (albă și galbenă),Inofensiv / Necunoscut,"Sunt utilizate ca agenți de glazurare pentru produse de cofetărie (inclusiv ciocolată), produse fine de panificație de dimensiuni mici în strat de ciocolată, snacks, fructe în coajă, boabe de cafea. Sunt folosite de asemenea pentru suplimente alimentare dietetice, fructe citrice, pepeni, mere și pere proaspete (numai tratament superficial).[10]"
+115,E902,ceară candelilla,Inofensiv / Necunoscut,Fara descriere
+116,E903,ceară carnauba,Inofensiv / Necunoscut,Fara descriere
+117,E904,șelac,Inofensiv / Necunoscut,Fara descriere
+118,E912,esteri ai acidului montanic,Inofensiv / Necunoscut,Utilizați ca agenți de glazurare pentru fructele citrice proaspete (numai tratament superficial).[10]
+119,E914,ceară de polietilenă oxidată,Inofensiv / Necunoscut,Fara descriere
+120,E290,dioxid de carbon,Inofensiv / Necunoscut,
+121,E941,azot,Inofensiv / Necunoscut,"Folosit la ambalarea ermetică în pungi de plastic a legumelor crude (de exemplu frunze de salată) ce pot fi direct utilizate în prepararea salatelor.
+Utilizat la ambalarea ermetică în pungi a chipsurilor de cartofi, pentru a preveni râncezirea acestora în prezența oxigenului din aer."
+122,E948,oxigen,Inofensiv / Necunoscut,

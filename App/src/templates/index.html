@@ -1,0 +1,175 @@
+{% extends "base.html" %}
+
+{% block title %}Acasă - FoodScanner{% endblock %}
+
+{% block content %}
+  <!-- HERO -->a
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Află ce<br />mănânci</h1>
+      <p>
+        Fotografiază eticheta oricărui produs alimentar și AI-ul nostru îți arată 
+        instantaneu ingredientele periculoase. Protejează-ți sănătatea cu o singură poză.
+      </p>
+      <div class="hero-buttons">
+        <a href="/scan" class="btn btn-primary">⌘ Scanează Acum</a>
+        <a href="/auth/register" class="btn btn-secondary">Creează Cont</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- HOW IT WORKS — BENTO GRID -->
+  <section class="bento-section">
+    <h2 class="bento-heading">Cum funcționează aplicația</h2>
+    <p class="bento-sub">Inteligență artificială antrenată pe etichete alimentare românești</p>
+
+    <div class="bento-grid">
+
+      <!-- BIG CARD: Model Performance -->
+      <div class="bento-card bento-wide bento-dark">
+        <div class="bento-card-inner">
+          <span class="bento-icon">⚡</span>
+          <h3>Performanța Modelului</h3>
+          <p>
+            Model TrOCR (Transformer OCR) antrenat special pe etichete alimentare românești. 
+            Rata de eroare a scăzut de la 35% la 5.4% — adică doar 5 caractere din 100 sunt greșite.
+          </p>
+          <div class="bento-tags">
+            <span class="bento-tag tag-orange">CER: 5.4%</span>
+            <span class="bento-tag tag-light">10 Epoci</span>
+          </div>
+        </div>
+        <div class="bento-chart-area">
+          <div class="chart-bars">
+            <div class="chart-col">
+              <div class="chart-bar bar-before" style="height: 70%;">
+                <span class="bar-val">35%</span>
+              </div>
+              <span class="bar-label">Înainte</span>
+            </div>
+            <div class="chart-col">
+              <div class="chart-bar bar-after" style="height: 11%;">
+                <span class="bar-val">5.4%</span>
+              </div>
+              <span class="bar-label">După</span>
+            </div>
+          </div>
+          <span class="chart-caption">Character Error Rate</span>
+        </div>
+      </div>
+
+      <!-- CARD: Scan Steps -->
+      <div class="bento-card bento-accent">
+       <h3>Încarcă o fotografie</h3>
+        <p>Încarcă o poză cu eticheta de pe ambalaj. Funcționează și de pe telefon.</p>
+      </div>
+
+      <!-- CARD: AI Reads -->
+      <div class="bento-card">
+        <h3>AI-ul Citește</h3>
+        <p>PaddleOCR detectează zonele de text, apoi TrOCR recunoaște fiecare cuvânt — antrenat cu diacritice românești.</p>
+      </div>
+
+      <!-- CARD: Ingredients Database -->
+      <div class="bento-card">
+        <h3>275 Ingrediente</h3>
+        <p>Baza de date conține aditivi alimentari și ingrediente comune, fiecare clasificat: inofensiv, moderat sau periculos.</p>
+        <div class="bento-tags" style="margin-top: 16px;">
+          <span class="bento-tag tag-green">Inofensiv</span>
+          <span class="bento-tag tag-yellow">Moderat</span>
+          <span class="bento-tag tag-red">Periculos</span>
+        </div>
+      </div>
+
+      <!-- BIG CARD: Training Data -->
+      <div class="bento-card bento-wide bento-earth">
+        <div class="bento-card-inner">
+          <h3>Date de Antrenare</h3>
+          <p>
+            533 imagini cu etichete alimentare românești, colectate din Open Food Facts și etichetate manual. 
+            Antrenare ~3 ore pe GPU NVIDIA RTX 4050.
+          </p>
+        </div>
+        <div class="bento-stats-row">
+          <div class="bento-stat">
+            <span class="stat-big">533</span>
+            <span class="stat-sm">Imagini</span>
+          </div>
+          <div class="bento-stat">
+            <span class="stat-big">890</span>
+            <span class="stat-sm">Cropuri etichetate</span>
+          </div>
+          <div class="bento-stat">
+            <span class="stat-big">~3h</span>
+            <span class="stat-sm">Antrenare</span>
+          </div>
+          <div class="bento-stat">
+            <span class="stat-big">RTX</span>
+            <span class="stat-sm">4050 GPU</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- CARD: Results -->
+      <div class="bento-card bento-accent">
+        <h3>Rezultate Clare</h3>
+        <p>Fiecare ingredient e clasificat cu culori: verde, galben, roșu. Ingredientele periculoase apar primele.</p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- DANGERS SECTION — BENTO STYLE -->
+  <section class="bento-section bento-section-alt">
+    <h2 class="bento-heading">Știi ce mănânci?</h2>
+    <p class="bento-sub">Aceste ingrediente se găsesc în produsele de zi cu zi din România</p>
+
+    <div class="dangers-bento">
+
+      <div class="danger-item danger-severe">
+        <div class="danger-badge">PERICULOS</div>
+        <h3>E250 — Nitrit de sodiu</h3>
+        <p>Prezent în cârnați, șuncă și mezeluri. Poate forma nitrozamine cancerigene în organism.</p>
+        <span class="danger-where">Mezeluri, cârnați, șuncă</span>
+      </div>
+
+      <div class="danger-item danger-severe">
+        <div class="danger-badge">PERICULOS</div>
+        <h3>E951 — Aspartam</h3>
+        <p>Clasificat posibil cancerigen de IARC în 2023. Prezent în sucuri „zero" și gume de mestecat.</p>
+        <span class="danger-where">Sucuri zero, gume, dulciuri</span>
+      </div>
+
+      <div class="danger-item danger-moderate">
+        <div class="danger-badge badge-mod">MODERAT</div>
+        <h3>Sirop glucoză-fructoză</h3>
+        <p>Consumul frecvent este puternic asociat cu obezitate, ficat gras și rezistență la insulină.</p>
+        <span class="danger-where">Sucuri, sosuri, dulciuri</span>
+      </div>
+
+      <div class="danger-item danger-severe">
+        <div class="danger-badge">PERICULOS</div>
+        <h3>Grăsimi hidrogenate</h3>
+        <p>Conțin grăsimi trans asociate puternic cu boli cardiovasculare. Interzise în multe țări.</p>
+        <span class="danger-where">Margarină, patiserie, snackuri</span>
+      </div>
+
+      <div class="danger-item danger-moderate">
+        <div class="danger-badge badge-mod">MODERAT</div>
+        <h3>Ulei de palmier</h3>
+        <p>Conținut ridicat de grăsimi saturate care cresc colesterolul și riscul cardiovascular.</p>
+        <span class="danger-where">Biscuiți, ciocolată, snackuri</span>
+      </div>
+
+      <div class="danger-item danger-moderate">
+        <div class="danger-badge badge-mod">MODERAT</div>
+        <h3>E338 — Acid fosforic</h3>
+        <p>Poate reduce absorbția calciului și contribui la osteoporoză la consum excesiv.</p>
+        <span class="danger-where">Cola, băuturi carbogazoase</span>
+      </div>
+
+    </div>
+
+    
+  </section>
+{% endblock %}

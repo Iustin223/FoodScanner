@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Model weights (too large for GitHub - hundreds of MB)
+trocr-model-romanian-final/
+trocr-model-romanian/
+
+# Database (contains personal scan data)
+*.db
+*.sqlite
+
+# Uploads folder (user photos)
+App/src/static/uploads/
+
+# Dataset (too large)
+dataset/
+label_studio_data.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.conda/
+
+
+*.ipynb
+wiki_aditivi.html
+*.sh
+mydebug.py

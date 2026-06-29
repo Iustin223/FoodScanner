@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% block title %}Know What You're Eating{% endblock %}</title>
+  <link rel="stylesheet" href="/static/style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+  <nav class="navbar">
+    <a href="/" class="nav-brand">FoodScanner</a>
+    
+    <div class="nav-links">
+      {% if utilizator %}
+        <a href="/profil" class="nav-user">   <link rel="stylesheet" href="/static/style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+  <nav class="navbar">
+    <a href="/" class="nav-brand">FoodScanner</a>
+    
+    <div class="nav-links">
+      {% if utilizator %}
+        <a href="/profil" class="nav-user"><i class="fa-solid fa-user fa-lg" style="color: rgb(0, 0, 0);"></i> Salut, {{ utilizator.nume }}!</a>
+        <a href="/logout" class="nav-link">Logout</a>
+      {% else %}
+        <a href="/auth/login" class="btn-nav">Login</a>
+      {% endif %}
+    </div>
+  </nav> Salut, {{ utilizator.nume }}!</a>
+        <a href="/logout" class="nav-link">Logout</a>
+      {% else %}
+        <a href="/auth/login" class="btn-nav">Login</a>
+      {% endif %}
+    </div>
+  </nav>
+
+  <main>
+    {% block content %}
+    {% endblock %}
+  </main>
+
+  <footer class="footer">
+    <p>&copy; 2026 Proiect Licență OCR.</p>
+  </footer>
+
+  {% block scripts %}
+    
+  {% endblock scripts %}
+
+  <script>
+    // Check if user is logged in
+ (function() {
+    const token = localStorage.getItem('token');
+    if (token) {
+        fetch('/auth/me', {
+            headers: {'Authorization': 'Bearer ' + token}
+        })
+        .then(r => r.json())
+        .then(data => {
+            if (data.nume) {
+                document.querySelector('.nav-links').innerHTML = `
+                    <a href="/history" class="nav-link">Istoric</a>
+                    <span class="nav-user"> ${data.nume}</span>
+                    <a href="#" class="nav-link" onclick="logout()">Logout</a>
+                `;
+            }
+        })
+        .catch(() => {});
+    }
+})();
+
+    function logout() {
+        localStorage.removeItem('token');
+        localStorage.removeItem('tokenType');
+        window.location.href = '/';
+    }
+
+</script>    
+
+</body>
+</html>

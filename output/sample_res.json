@@ -1,0 +1,355 @@
+{
+    "input_path": "sample.jpg",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_textline_orientation": true
+    },
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": true,
+            "use_doc_unwarping": true
+        },
+        "angle": 0
+    },
+    "dt_polys": [
+        [
+            [
+                171,
+                0
+            ],
+            [
+                2519,
+                0
+            ],
+            [
+                2519,
+                108
+            ],
+            [
+                171,
+                106
+            ]
+        ],
+        [
+            [
+                175,
+                50
+            ],
+            [
+                2515,
+                58
+            ],
+            [
+                2515,
+                234
+            ],
+            [
+                174,
+                226
+            ]
+        ],
+        [
+            [
+                190,
+                166
+            ],
+            [
+                2519,
+                173
+            ],
+            [
+                2519,
+                338
+            ],
+            [
+                189,
+                331
+            ]
+        ],
+        [
+            [
+                188,
+                280
+            ],
+            [
+                2373,
+                293
+            ],
+            [
+                2372,
+                455
+            ],
+            [
+                187,
+                442
+            ]
+        ],
+        [
+            [
+                178,
+                395
+            ],
+            [
+                2339,
+                401
+            ],
+            [
+                2338,
+                557
+            ],
+            [
+                177,
+                551
+            ]
+        ],
+        [
+            [
+                154,
+                499
+            ],
+            [
+                2518,
+                515
+            ],
+            [
+                2517,
+                680
+            ],
+            [
+                153,
+                664
+            ]
+        ],
+        [
+            [
+                146,
+                630
+            ],
+            [
+                1960,
+                633
+            ],
+            [
+                1960,
+                736
+            ],
+            [
+                145,
+                736
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 64,
+        "limit_type": "min",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "Chipsuri din cartofl cu gust de smantana sI marar",
+        "Ingrediente: cartofi uleiuri vegetale foarea soarelu",
+        "rapita in proporti variabile), zer pudra (contine derivate",
+        "din lapte), faina de orez, sare fainǎ de grau, zahar,",
+        "smantana pudra 0,05% (contine derivate din lapte,",
+        "lactoza), condimente, plante aromatice (patrunjel0,04%",
+        "mǎrar0.001%). acidifiant (acidcitric).arome"
+    ],
+    "rec_scores": [
+        0.9047859907150269,
+        0.92044597864151,
+        0.9216883182525635,
+        0.9067427515983582,
+        0.9385780692100525,
+        0.9176116585731506,
+        0.8944346308708191
+    ],
+    "rec_polys": [
+        [
+            [
+                171,
+                0
+            ],
+            [
+                2519,
+                0
+            ],
+            [
+                2519,
+                108
+            ],
+            [
+                171,
+                106
+            ]
+        ],
+        [
+            [
+                175,
+                50
+            ],
+            [
+                2515,
+                58
+            ],
+            [
+                2515,
+                234
+            ],
+            [
+                174,
+                226
+            ]
+        ],
+        [
+            [
+                190,
+                166
+            ],
+            [
+                2519,
+                173
+            ],
+            [
+                2519,
+                338
+            ],
+            [
+                189,
+                331
+            ]
+        ],
+        [
+            [
+                188,
+                280
+            ],
+            [
+                2373,
+                293
+            ],
+            [
+                2372,
+                455
+            ],
+            [
+                187,
+                442
+            ]
+        ],
+        [
+            [
+                178,
+                395
+            ],
+            [
+                2339,
+                401
+            ],
+            [
+                2338,
+                557
+            ],
+            [
+                177,
+                551
+            ]
+        ],
+        [
+            [
+                154,
+                499
+            ],
+            [
+                2518,
+                515
+            ],
+            [
+                2517,
+                680
+            ],
+            [
+                153,
+                664
+            ]
+        ],
+        [
+            [
+                146,
+                630
+            ],
+            [
+                1960,
+                633
+            ],
+            [
+                1960,
+                736
+            ],
+            [
+                145,
+                736
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            171,
+            0,
+            2519,
+            108
+        ],
+        [
+            174,
+            50,
+            2515,
+            234
+        ],
+        [
+            189,
+            166,
+            2519,
+            338
+        ],
+        [
+            187,
+            280,
+            2373,
+            455
+        ],
+        [
+            177,
+            395,
+            2339,
+            557
+        ],
+        [
+            153,
+            499,
+            2518,
+            680
+        ],
+        [
+            145,
+            630,
+            1960,
+            736
+        ]
+    ]
+}

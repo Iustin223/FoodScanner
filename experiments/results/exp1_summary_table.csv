@@ -1,0 +1,8 @@
+Metrică,TrOCR Default,TrOCR Fine-tuned
+CER Mediu,38.13%,5.4%
+CER Median,39.13%,-
+CER Min,0.00%,-
+CER Max,81.93%,-
+Deviație Standard,20.48%,-
+Cropuri testate,842,89 (set validare)
+Sursă CER,Măsurat pe cropuri,Hugging Face Trainer eval

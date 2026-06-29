@@ -1,0 +1,276 @@
+﻿id,cod_e,nume,grad_risc,descriere
+1,E100,curcumină,inofensiv,Colorant natural galben-portocaliu din turmeric.
+2,E102,tartrazină,periculos,"Este considerat a avea acțiune cancerigenă (tumori tiroidiene), poate provoca mutații."
+3,E104,galben de chinolină,periculos,"Consumul său este asociat cu efecte adverse precum alergii, urticarie, iritații respiratorii."
+4,E110,galben de apus de soare,periculos,Colorant sintetic care poate provoca reacții alergice rinită și indigestie.
+5,E120,carmin,inofensiv,Colorant roșu natural din insecte.
+6,E122,azorubină,periculos,"Colorant alimentar sintetic, poate provoca alergii și hiperactivitate la copii."
+7,E124,ponceau 4R,periculos,"Colorant sintetic azoic, acționează ca eliberator de histamină, poate intensifica astmul."
+8,E127,eritrozină,periculos,Colorant roșu pentru compoturi. Poate provoca cancer al tiroidei (studiu făcut în 1990).
+9,E128,roșu 2G,periculos,"Colorant sintetic, este interzis de Autoritatea Europeană pentru Siguranța Alimentară, poate provoca tumori."
+10,E129,roșu allura,periculos,"Colorant sintetic azoic de culoare roșie, poate influența negativ flora intestinală."
+11,E131,albastru patentat V,periculos,"Colorant sintetic albastru, Unele surse medicale alternative îl listează ca fiind periculos sau suspectat de a fi cancerigen."
+12,E132,indigotin,moderat,"Colorant pentru dulciuri, poate provoca greață, vomă, hipertensiune arterială."
+13,E133,Albastru briliant ,periculos,Colorant albastru sintetic. Poate provoca reacții alergice la persoanele sensibile la aspirină.
+14,E150a,caramel simplu,inofensiv,Colorant natural obținut prin încălzirea zahărului. Nu prezintă riscuri cunoscute.
+15,E150d,caramel cu sulfit de amoniu,moderat,Colorant caramel procesat chimic. Consumul excesiv poate afecta sistemul imunitar. Se recomandă consum limitat.
+16,E160a,beta-caroten,inofensiv,Colorant natural portocaliu și precursor al vitaminei A. Benefic pentru sănătate în doze normale.
+17,E160b,anato,inofensiv,Colorant natural galben-portocaliu din semințele de anato. Nu prezintă riscuri cunoscute.
+18,E160c,extract de ardei roșu,inofensiv,Colorant natural roșu din ardei paprika. Nu prezintă riscuri cunoscute.
+19,E171,dioxid de titan,periculos,Colorant alb folosit în dulciuri și glazuri. Interzis în UE din 2022 datorită posibilului efect genotoxic și cancerigen.
+20,E200,acid sorbic,inofensiv,Conservant natural comun în brânzeturi și produse de patiserie. Considerat sigur de EFSA.
+21,E202,sorbat de potasiu,inofensiv,Conservant foarte comun în alimente. Considerat sigur și bine tolerat de organism.
+22,E210,acid benzoic,periculos,Conservant sintetic. În combinație cu vitamina C poate forma benzen care este cancerigen. Asociat cu hiperactivitate la copii.
+23,E211,benzoat de sodiu,periculos,Conservant sintetic. Asociat cu hiperactivitate la copii. În combinație cu vitamina C poate forma benzen cancerigen.
+24,E220,dioxid de sulf,periculos,Conservant în vinuri și fructe uscate. Poate provoca crize de astm severe și reacții alergice la persoanele sensibile.
+25,E221,sulfit de sodiu,periculos,Conservant din familia sulfiților. Poate provoca reacții alergice și crize de astm la persoanele sensibile.
+26,E223,metabisulfit de sodiu,periculos,Conservant din familia sulfiților. Poate provoca dureri de cap și crize de astm la persoanele sensibile.
+27,E249,nitrit de potasiu,periculos,Conservant în mezeluri. Poate forma nitrozamine cancerigene în organism mai ales la temperaturi ridicate.
+28,E250,nitrit de sodiu,periculos,Conservant în mezeluri și cârnați. Poate forma nitrozamine cancerigene. Consumul frecvent de mezeluri crește riscul de cancer colorectal.
+29,E250,azotit de sodiu,periculos,Alias pentru nitrit de sodiu. Conservant în mezeluri. Poate forma nitrozamine cancerigene.
+30,E251,nitrat de sodiu,periculos,Conservant în mezeluri. Se transformă în nitrit de sodiu în organism și poate forma nitrozamine cancerigene.
+31,E252,nitrat de potasiu,periculos,Conservant în mezeluri. Se transformă în nitrit în organism. Asociat cu risc crescut de cancer.
+32,E260,acid acetic,inofensiv,Componentul principal al oțetului. Acidifiant natural considerat complet sigur.
+33,E262,acetat de sodiu,inofensiv,Conservant și corector de aciditate. Considerat sigur de EFSA fără efecte adverse cunoscute.
+34,E270,acid lactic,inofensiv,Acidifiant natural produs prin fermentație lactică. Complet sigur și natural.
+35,E300,acid ascorbic,inofensiv,Vitamina C folosită ca antioxidant. Benefic pentru sănătate și sistemul imunitar.
+36,E301,ascorbat de sodiu,inofensiv,Forma de sodiu a vitaminei C. Antioxidant sigur fără efecte adverse.
+37,E306,tocoferoli,inofensiv,Vitamina E naturală folosită ca antioxidant. Benefic pentru sănătate.
+38,E306,vitamina E,inofensiv,Alias pentru tocoferoli. Antioxidant natural benefic.
+39,E307,alfa-tocoferol,inofensiv,Vitamina E sintetică. Considerat sigur în dozele utilizate în alimente.
+40,E316,eritorbat de sodiu,inofensiv,Antioxidant folosit frecvent în mezeluri. Considerat sigur de EFSA.
+41,E322,lecitină,inofensiv,Emulgator natural extras din soia sau floarea-soarelui. Complet sigur și natural.
+42,E322,lecitină de soia,inofensiv,Emulgator din soia. Sigur dar poate fi alergen pentru persoanele alergice la soia.
+43,E322,lecitină de floarea-soarelui,inofensiv,Emulgator din floarea-soarelui. Alternativă sigură pentru cei alergici la soia.
+44,E330,acid citric,inofensiv,Acidifiant natural prezent în citrice. Complet sigur și utilizat pe scară largă.
+45,E331,citrat de sodiu,inofensiv,Corector de aciditate derivat din acid citric. Nu prezintă riscuri cunoscute.
+46,E332,citrat de potasiu,inofensiv,Corector de aciditate. Considerat sigur fără efecte adverse.
+47,E334,acid tartric,inofensiv,Acidifiant natural prezent în struguri. Nu prezintă riscuri cunoscute.
+48,E338,acid fosforic,moderat,Acidifiant în băuturi carbogazoase. Consumul excesiv poate reduce absorbția calciului și poate contribui la osteoporoză.
+49,E339,fosfat de sodiu,moderat,Corector de aciditate. Consumul excesiv de fosfați poate dezechilibra raportul calciu-fosfor din organism.
+50,E407,caragenan,inofensiv,Stabilizator natural extras din alge marine. Considerat sigur de EFSA în dozele utilizate.
+51,E407,caraghenan,inofensiv,Alias ortografic pentru caragenan. Stabilizator din alge marine.
+52,E410,gumă de roșcove,inofensiv,Îngroșător natural din semințele de roșcove. Complet sigur și natural.
+53,E412,gumă de guar,inofensiv,Îngroșător natural din planta guar. Considerat sigur fără efecte adverse.
+54,E414,gumă arabică,inofensiv,Stabilizator natural din copacul de acacia. Folosit de mii de ani fără probleme.
+55,E415,gumă de xantan,inofensiv,Îngroșător comun în sosuri și dressinguri. Considerat sigur de EFSA.
+56,E420,sorbitol,moderat,Îndulcitor și umectant. Consumul excesiv (peste 20g pe zi) poate provoca balonare și efect laxativ.
+57,E422,glicerol,inofensiv,Umectant și îndulcitor natural. Considerat sigur în dozele din alimente.
+58,E440,pectină,inofensiv,Îngroșător natural din fructe folosit în gemuri. Complet natural și sigur.
+59,E450,difosfați,moderat,Stabilizator și agent de afânare. Consumul excesiv de fosfați poate afecta rinichii și sănătatea osoasă.
+60,E451,trifosfați,moderat,Stabilizator în preparate din carne. Consumul excesiv poate dezechilibra nivelul de fosfor din organism.
+61,E452,polifosfați,moderat,Stabilizator în mezeluri și brânzeturi. Consumul excesiv poate afecta absorbția mineralelor.
+62,E452,polifosfați de sodiu,moderat,Alias pentru polifosfați. Consumul excesiv poate afecta absorbția mineralelor.
+63,E460,celuloză,inofensiv,Agent antiaglomerant și sursă de fibre. Considerat sigur și natural.
+64,E466,carboximetilceluloză,inofensiv,Îngroșător și stabilizator derivat din celuloză. Considerat sigur de EFSA.
+65,E471,mono- și digliceride,inofensiv,Emulgatori comuni în pâine și patiserie. Considerați siguri fără efecte adverse.
+66,E472,esteri ai gliceridelor,inofensiv,Emulgatori în produse de panificație. Considerați siguri.
+67,E476,poliricinoleat de poliglicerol,inofensiv,Emulgator folosit în ciocolată. Considerat sigur de EFSA.
+68,E500,carbonat de sodiu,inofensiv,Bicarbonat de sodiu folosit ca agent de afânare. Complet sigur și natural.
+69,E500,carbonați de sodiu,inofensiv,Alias pentru carbonat de sodiu. Agent de afânare sigur.
+70,E501,carbonat de potasiu,inofensiv,Agent de afânare. Considerat sigur fără efecte adverse.
+71,E621,glutamat monosodic,moderat,Potențiator de aromă foarte comun. Consumul excesiv poate provoca dureri de cap și senzație de amorțeală la persoanele sensibile.
+72,E621,glutamat de sodiu,moderat,Alias pentru glutamat monosodic. Consumul excesiv poate provoca dureri de cap la persoanele sensibile.
+73,E627,guanilat de sodiu,inofensiv,Potențiator de aromă folosit împreună cu glutamatul. Considerat sigur de EFSA.
+74,E631,inozinat de sodiu,inofensiv,Potențiator de aromă. Considerat sigur fără efecte adverse.
+75,E950,acesulfam K,moderat,Îndulcitor artificial de 200 de ori mai dulce decât zahărul. Considerat sigur de EFSA dar unele studii sugerează efecte asupra microbiotei intestinale.
+76,E951,aspartam,periculos,Îndulcitor artificial. Clasificat ca posibil cancerigen (Grupa 2B) de IARC în 2023. Poate provoca dureri de cap la persoanele sensibile.
+77,E952,ciclamat,periculos,Îndulcitor artificial interzis în SUA. Studii pe animale au arătat efect cancerigen la doze mari. Poate afecta fertilitatea.
+78,E954,zaharină,moderat,Cel mai vechi îndulcitor artificial. Controversat dar considerat sigur de EFSA în dozele recomandate.
+79,E955,sucraloză,periculos,Îndulcitor artificial de 600 de ori mai dulce decât zahărul. Studii recente sugerează posibile efecte asupra microbiotei intestinale.
+80,E960,stevia,inofensiv,Îndulcitor natural extras din planta stevia. Considerat sigur și bine tolerat.
+81,E965,maltitol,moderat,Îndulcitor din amidon. Consumul excesiv peste 20g pe zi poate provoca balonare și diaree.
+82,-,apă,inofensiv,Ingredient natural de bază esențial pentru viață. Complet sigur.
+83,-,zahăr,moderat,Ingredient comun. Consumul excesiv este asociat cu obezitate și diabet de tip 2 și carii dentare.
+84,-,sare,moderat,Ingredient comun. Consumul excesiv peste 5g pe zi este asociat cu hipertensiune arterială și boli cardiovasculare.
+85,-,ulei de palmier,moderat,Ulei vegetal cu conținut ridicat de grăsimi saturate. Consumul excesiv poate crește colesterolul și riscul cardiovascular.
+86,-,ulei de cocos,moderat,Ulei vegetal cu conținut foarte ridicat de grăsimi saturate. Consumul excesiv poate crește colesterolul LDL.
+87,-,ulei de floarea-soarelui,inofensiv,Ulei vegetal comun bogat în vitamina E. Considerat sigur și sănătos cu moderație.
+88,-,ulei de rapiță,inofensiv,Ulei vegetal bogat în acizi grași omega-3. Considerat printre cele mai sănătoase uleiuri vegetale.
+89,-,ulei de măsline,inofensiv,Ulei vegetal sănătos bogat în antioxidanți și grăsimi mononesaturate. Recomandat în dieta mediteraneană.
+90,-,sirop de glucoză-fructoză,periculos,Îndulcitor procesat industrial. Consumul frecvent este puternic asociat cu obezitate și ficat gras și rezistență la insulină.
+91,-,sirop de glucoză,moderat,Îndulcitor din amidon. Consumul excesiv poate contribui la creșterea glicemiei și la obezitate.
+92,-,grăsime hidrogenată,periculos,Conține grăsimi trans foarte nocive. Asociată puternic cu boli cardiovasculare și colesterol LDL crescut. Interzisă în multe țări.
+93,-,grăsimi vegetale hidrogenate,periculos,Alias pentru grăsime hidrogenată. Conține grăsimi trans asociate cu boli cardiovasculare.
+94,-,dextroză,inofensiv,Glucoză simplă din porumb. Nu prezintă riscuri în cantitățile utilizate în alimente.
+95,-,fructoză,moderat,Zahăr natural din fructe. Consumul excesiv sub formă izolată poate contribui la ficat gras și rezistență la insulină.
+96,-,lactoză,inofensiv,Zahăr natural din lapte. Sigur dar poate provoca disconfort la persoanele cu intoleranță la lactoză.
+97,-,amidon modificat,moderat,Amidon procesat chimic pentru proprietăți îmbunătățite. Considerat sigur dar procesarea chimic ridică semne de întrebare.
+98,-,amidon de porumb,inofensiv,Amidon natural din porumb folosit ca îngroșător. Complet sigur și natural.
+99,-,amidon din cartofi,inofensiv,Amidon natural din cartofi. Complet sigur și natural.
+100,-,proteină de soia,inofensiv,Proteină vegetală din soia. Sigură dar alergen pentru persoanele alergice la soia.
+101,-,proteină din lapte,inofensiv,Proteină animală din lapte. Sigură dar alergen pentru persoanele alergice la lapte.
+102,-,făină de grâu,inofensiv,Ingredient de bază în panificație. Sigur dar conține gluten nepotrivit pentru celiaci.
+103,-,drojdie,inofensiv,Agent de fermentație natural. Complet sigur și utilizat de mii de ani.
+104,-,unt de cacao,inofensiv,Grăsime naturală din cacao. Considerat sigur și sănătos cu moderație.
+105,-,cacao,inofensiv,Ingredient natural din boabe de cacao. Bogat în antioxidanți și minerale.
+106,-,lapte praf,inofensiv,Lapte deshidratat. Nu prezintă riscuri suplimentare față de laptele lichid.
+107,-,zer,inofensiv,Subprodus din producția de brânză bogat în proteine. Considerat sigur și nutritiv.
+108,-,slănină,moderat,Grăsime animală din porc. Consumul excesiv poate crește colesterolul și riscul cardiovascular.
+109,-,condimente,inofensiv,Amestec de mirodenii naturale. Complet sigur și benefic pentru sănătate.
+110,-,făină de grâu,inofensiv,Ingredient de bază în panificație. Conține gluten.
+111,-,făină de soia,inofensiv,Făină din boabe de soia. Alergen pentru persoanele alergice la soia.
+112,-,sare iodată,moderat,Sare cu iod adăugat. Consumul excesiv asociat cu hipertensiune arterială.
+113,-,ouă,inofensiv,Ingredient natural. Alergen pentru persoanele alergice la ouă.
+114,-,smântână,inofensiv,Produs lactat natural. Conținut ridicat de grăsimi.
+115,-,lapte,inofensiv,Ingredient natural. Alergen pentru persoanele cu intoleranță la lactoză.
+116,-,unt,moderat,Grăsime animală din lapte. Consumul excesiv poate crește colesterolul.
+117,-,untură,moderat,Grăsime animală din porc. Consumul excesiv poate crește colesterolul.
+118,-,amidon,inofensiv,Amidon natural folosit ca îngroșător. Complet sigur.
+119,-,scorțișoară,inofensiv,Condiment natural cu proprietăți antiinflamatorii. Complet sigur.
+120,-,carne de pui,inofensiv,Proteină animală. Complet sigur.
+121,-,carne de porc,inofensiv,Proteină animală. Complet sigur.
+122,-,aromă,inofensiv,Aromă alimentară. Fără riscuri cunoscute în dozele utilizate.
+123,-,arome,inofensiv,Arome alimentare. Fără riscuri cunoscute în dozele utilizate.
+124,-,zer,inofensiv,Subprodus din producția de brânză bogat în proteine.
+125,-,pesmet,inofensiv,Pâine uscată măcinată. Conține gluten.
+126,-,piper,inofensiv,Condiment natural. Complet sigur.
+127,-,usturoi,inofensiv,Condiment natural cu proprietăți benefice pentru sănătate.
+128,-,ceapă,inofensiv,Legumă naturală. Complet sigur.
+129,-,muștar,inofensiv,Condiment natural. Alergen pentru persoanele alergice la muștar.
+130,E101,riboflavină,inofensiv,Vitamina B2 folosită ca colorant galben natural. Benefic pentru sănătate.
+131,E141,complexe de clorofilă cu cupru,inofensiv,Colorant verde natural din plante. Nu prezintă riscuri cunoscute.
+132,E150b,caramel caustic cu sulfit,moderat,Colorant caramel procesat. Consumul excesiv poate afecta sistemul imunitar.
+133,E150c,caramel de amoniu,moderat,Colorant caramel procesat. Consumul excesiv poate afecta sistemul imunitar.
+134,E153,cărbune vegetal,inofensiv,Colorant negru natural. Considerat sigur de EFSA.
+135,E160d,licopin,inofensiv,Colorant roșu natural din roșii. Antioxidant benefic pentru sănătate.
+136,E162,roșu de sfeclă,inofensiv,Colorant natural din sfeclă roșie. Complet sigur și natural.
+137,E163,antociani,inofensiv,Coloranți naturali din fructe roșii și mov. Antioxidanți benefici.
+138,E170,carbonat de calciu,inofensiv,Colorant alb natural și sursă de calciu. Complet sigur.
+139,E172,oxizi de fier,inofensiv,Coloranți naturali roșu-brun. Considerați siguri.
+140,E234,nizină,inofensiv,Conservant natural produs de bacterii lactice. Considerat sigur.
+141,E235,natamicină,inofensiv,Conservant natural antifungic folosit pe brânzeturi. Considerat sigur.
+142,E261,acetat de potasiu,inofensiv,Conservant și corector de aciditate. Considerat sigur fără efecte adverse.
+143,E263,acetat de calciu,inofensiv,Conservant și stabilizator. Considerat sigur.
+144,E270,acid lactic,inofensiv,Acidifiant natural din fermentație lactică. Complet sigur.
+145,E280,acid propionic,inofensiv,Conservant natural în pâine. Considerat sigur de EFSA.
+146,E296,acid malic,inofensiv,Acidifiant natural prezent în mere. Complet sigur.
+147,E297,acid fumaric,inofensiv,Acidifiant folosit în băuturi și dulciuri. Considerat sigur.
+148,E304,esteri ai acidului ascorbic,inofensiv,Antioxidant derivat din vitamina C. Considerat sigur.
+149,E315,acid eritorbic,inofensiv,Antioxidant similar cu vitamina C. Considerat sigur.
+150,E325,lactat de sodiu,inofensiv,Corector de aciditate derivat din acid lactic. Considerat sigur.
+151,E326,lactat de potasiu,inofensiv,Corector de aciditate. Considerat sigur.
+152,E327,lactat de calciu,inofensiv,Corector de aciditate și sursă de calciu. Considerat sigur.
+153,E333,citrat de calciu,inofensiv,Corector de aciditate și sursă de calciu. Considerat sigur.
+154,E335,tartrat de sodiu,inofensiv,Corector de aciditate derivat din acid tartric. Considerat sigur.
+155,E336,tartrat de potasiu,inofensiv,Cremă de tartru folosită în panificație. Complet sigur.
+156,E340,fosfat de potasiu,moderat,Corector de aciditate. Consumul excesiv de fosfați poate afecta sănătatea osoasă.
+157,E341,fosfat de calciu,inofensiv,Corector de aciditate și sursă de calciu. Considerat sigur.
+158,E392,extract de rozmarin,inofensiv,Antioxidant natural din rozmarin. Complet sigur și natural.
+159,E400,acid alginic,inofensiv,Îngroșător natural din alge marine. Considerat sigur.
+160,E401,alginat de sodiu,inofensiv,Îngroșător natural din alge. Folosit în sosuri și deserturi.
+161,E406,agar,inofensiv,Îngroșător natural din alge marine. Complet sigur și vegan.
+162,E413,gumă de tragacant,inofensiv,Îngroșător natural. Considerat sigur.
+163,E418,gumă gellan,inofensiv,Stabilizator și îngroșător. Considerat sigur de EFSA.
+164,E425,konjac,inofensiv,Îngroșător natural din planta konjac. Considerat sigur.
+165,E432,polisorbat 20,moderat,Emulgator sintetic. Consumul excesiv poate afecta flora intestinală.
+166,E433,polisorbat 80,moderat,Emulgator sintetic. Studii recente sugerează posibile efecte asupra microbiotei intestinale.
+167,E435,polisorbat 60,moderat,Emulgator sintetic. Consumul excesiv poate afecta flora intestinală.
+168,E440,pectină,inofensiv,Îngroșător natural din fructe folosit în gemuri. Complet sigur.
+169,E442,fosfatide de amoniu,inofensiv,Emulgator folosit în ciocolată. Considerat sigur.
+170,E445,esteri glicerici ai rășinii de lemn,inofensiv,Stabilizator în băuturi carbogazoase. Considerat sigur de EFSA.
+171,E450,difosfați de sodiu,inofensiv,Alias pentru difosfați. Agent de afânare și stabilizator.
+172,E461,metilceluloză,inofensiv,Îngroșător și stabilizator din celuloză. Considerat sigur.
+173,E464,hidroxipropilmetilceluloză,inofensiv,Îngroșător și agent de glazurare. Considerat sigur.
+174,E470,săruri ale acizilor grași,inofensiv,Emulgatori și antiaglomeranți. Considerați siguri.
+175,E473,esteri ai zaharozei,inofensiv,Emulgatori în produse de panificație. Considerați siguri.
+176,E474,zaharogliceride,inofensiv,Emulgatori alimentari. Considerați siguri.
+177,E475,esteri poliglicerolici,inofensiv,Emulgatori în produse de patiserie. Considerați siguri.
+178,E481,stearoil lactilat de sodiu,inofensiv,Emulgator și stabilizator în pâine. Considerat sigur.
+179,E491,monostearat de sorbitan,inofensiv,Emulgator în produse de patiserie. Considerat sigur.
+180,E492,tristearat de sorbitan,inofensiv,Emulgator în ciocolată. Considerat sigur.
+181,E503,carbonat de amoniu,inofensiv,Agent de afânare în biscuiți. Considerat sigur.
+182,E504,carbonat de magneziu,inofensiv,Antiaglomerant și corector de aciditate. Considerat sigur.
+183,E508,clorură de potasiu,inofensiv,Sare de potasiu folosită ca înlocuitor de sare. Considerat sigur.
+184,E509,clorură de calciu,inofensiv,Agent de întărire în conserve de legume. Considerat sigur.
+185,E516,sulfat de calciu,inofensiv,Stabilizator și sursă de calciu. Considerat sigur.
+186,E524,hidroxid de sodiu,inofensiv,Corector de aciditate. Considerat sigur în dozele utilizate.
+187,E551,dioxid de siliciu,inofensiv,Antiaglomerant în pudre și condimente. Considerat sigur.
+188,E575,glucono-delta-lactonă,inofensiv,Acidifiant și coagulant în tofu. Considerat sigur.
+189,E620,acid glutamic,moderat,Potențiator de aromă natural. Consumul excesiv poate provoca dureri de cap la persoanele sensibile.
+190,E622,glutamat monopotasic,moderat,Potențiator de aromă. Consumul excesiv poate provoca dureri de cap la persoanele sensibile.
+191,E623,diglutamat de calciu,moderat,Potențiator de aromă. Consumul excesiv poate provoca dureri de cap.
+192,E624,glutamat de monoamoniu,moderat,Potențiator de aromă. Consumul excesiv poate provoca dureri de cap.
+193,E625,diglutamat de magneziu,moderat,Potențiator de aromă. Consumul excesiv poate provoca dureri de cap.
+194,E635,ribonucleotide de sodiu,inofensiv,Potențiator de aromă. Considerat sigur de EFSA.
+195,E900,dimetilpolisiloxan,inofensiv,Antispumant în uleiuri de prăjit. Considerat sigur de EFSA.
+196,E901,ceară de albine,inofensiv,Agent de glazurare natural. Complet sigur.
+197,E903,ceară de carnauba,inofensiv,Agent de glazurare natural din palmier. Considerat sigur.
+198,E904,șelac,inofensiv,Agent de glazurare natural. Considerat sigur.
+199,E920,L-cisteină,inofensiv,Ameliorator de făină. Considerat sigur.
+200,E927b,carbamidă,inofensiv,Ameliorator de făină. Considerat sigur.
+201,E938,argon,inofensiv,Gaz de ambalare inert. Complet sigur.
+202,E941,azot,inofensiv,Gaz de ambalare inert. Complet sigur.
+203,E942,protoxid de azot,inofensiv,Gaz propulsor în sprayuri alimentare. Considerat sigur.
+204,E943,butan,inofensiv,Gaz propulsor. Considerat sigur în dozele utilizate.
+205,E944,propan,inofensiv,Gaz propulsor. Considerat sigur în dozele utilizate.
+206,E948,oxigen,inofensiv,Gaz de ambalare. Complet sigur și natural.
+207,E949,hidrogen,inofensiv,Gaz de procesare. Complet sigur.
+208,E953,izomalt,moderat,Îndulcitor din zahăr. Consumul excesiv peste 20g pe zi poate provoca balonare și diaree.
+209,E961,neotam,inofensiv,Îndulcitor artificial foarte puternic. Considerat sigur de EFSA.
+210,E962,sare de aspartam-acesulfam,periculos,Combinație de îndulcitori artificiali. Conține aspartam clasificat posibil cancerigen.
+211,E966,lactitol,moderat,Îndulcitor din lactoză. Consumul excesiv poate provoca balonare și efect laxativ.
+212,E967,xilitol,inofensiv,Îndulcitor natural din mesteacăn. Benefic pentru sănătatea dentară dar toxic pentru câini.
+213,E968,eritritol,inofensiv,Îndulcitor natural cu zero calorii. Bine tolerat de organism.
+214,E999,extract de quillaia,inofensiv,Agent de spumare în băuturi. Considerat sigur de EFSA.
+215,E1103,invertază,inofensiv,Enzimă folosită în producția de dulciuri. Considerat sigur.
+216,E1200,polidextroză,inofensiv,Fibră alimentară solubilă. Considerat sigur și benefic.
+217,E1404,amidon oxidat,moderat,Amidon modificat chimic. Considerat sigur dar procesarea ridică semne de întrebare.
+218,E1412,difosfat de diamidon,moderat,Amidon modificat chimic. Considerat sigur dar procesat industrial.
+219,E1414,diamidon fosfat acetilat,moderat,Amidon modificat chimic folosit ca îngroșător. Considerat sigur dar procesat.
+220,E1420,amidon acetilat,moderat,Amidon modificat chimic. Considerat sigur dar procesat industrial.
+221,E1422,adipat de diamidon acetilat,moderat,Amidon modificat chimic. Considerat sigur dar procesat industrial.
+222,E1442,hidroxipropil difosfat de diamidon,moderat,Amidon modificat chimic foarte comun. Considerat sigur dar procesat industrial.
+223,E1450,octenil succinat de amidon sodic,moderat,Amidon modificat chimic folosit ca stabilizator. Considerat sigur dar procesat industrial.
+224,E1451,amidon acetilat oxidat,moderat,Amidon modificat chimic. Considerat sigur dar procesat industrial.
+225,E1505,citrat de trietil,inofensiv,Agent de glazurare. Considerat sigur de EFSA.
+226,E1518,triacetină,inofensiv,Agent de glazurare și umectant. Considerat sigur.
+227,E1520,propilenglicol,moderat,Solvent și umectant. Consumul excesiv poate provoca iritații. Considerat sigur în doze mici.
+228,-,miere,inofensiv,Îndulcitor natural produs de albine. Benefic pentru sănătate cu moderație.
+229,-,oțet,inofensiv,Produs natural din fermentația acetică. Complet sigur.
+230,-,gelatină,inofensiv,Proteină animală din colagen. Complet sigur dar de origine animală.
+231,-,cazeină,inofensiv,Proteină principală din lapte. Alergen pentru persoanele alergice la lapte.
+232,-,mălai,inofensiv,Făină de porumb. Complet sigur fără gluten.
+233,-,orez,inofensiv,Cereală naturală fără gluten. Complet sigur.
+234,-,porumb,inofensiv,Cereală naturală. Complet sigur.
+235,-,grâu,inofensiv,Cereală de bază. Sigur dar conține gluten nepotrivit pentru celiaci.
+236,-,secară,inofensiv,Cereală naturală. Conține gluten nepotrivit pentru celiaci.
+237,-,orz,inofensiv,Cereală naturală. Conține gluten nepotrivit pentru celiaci.
+238,-,ovăz,inofensiv,Cereală naturală bogată în fibre. Poate conține urme de gluten.
+239,-,semințe de mac,inofensiv,Semințe comestibile naturale. Bogate în minerale și complet sigure.
+240,-,semințe de susan,inofensiv,Semințe naturale. Alergen pentru persoanele alergice la susan.
+241,-,semințe de in,inofensiv,Semințe bogate în omega-3 și fibre. Benefice pentru sănătate.
+242,-,semințe de floarea-soarelui,inofensiv,Semințe naturale bogate în vitamina E. Complet sigure.
+243,-,nucă,inofensiv,Fruct cu coajă lemnoasă. Alergen pentru persoanele alergice la nuci.
+244,-,alune,inofensiv,Fruct cu coajă lemnoasă. Alergen puternic pentru persoanele alergice.
+245,-,migdale,inofensiv,Fruct cu coajă lemnoasă. Alergen pentru persoanele alergice la nuci.
+246,-,arahide,inofensiv,Leguminoasă. Alergen puternic poate provoca reacții anafilactice severe.
+247,-,masă de cacao,inofensiv,Pastă de cacao pură din boabe de cacao. Bogată în antioxidanți.
+248,-,pudră de cacao,inofensiv,Cacao degresată măcinată. Bogată în antioxidanți și minerale.
+249,-,unt,moderat,Grăsime animală din lapte. Consumul excesiv poate crește colesterolul.
+250,-,margarină,moderat,Grăsime vegetală procesată. Poate conține grăsimi trans la unele mărci mai vechi.
+251,-,smântână,moderat,Produs lactat cu conținut ridicat de grăsimi. Consumul excesiv poate crește colesterolul.
+252,-,brânză,inofensiv,Produs lactat natural bogat în calciu și proteine. Complet sigur.
+253,-,iaurt,inofensiv,Produs lactat fermentat benefic pentru flora intestinală. Complet sigur.
+254,-,frișcă,moderat,Smântână cu conținut foarte ridicat de grăsimi. Consumul excesiv poate crește colesterolul.
+255,-,roșii,inofensiv,Legumă naturală bogată în licopin. Benefică pentru sănătate.
+256,-,ceapă,inofensiv,Legumă naturală cu proprietăți antiinflamatorii. Complet sigur.
+257,-,usturoi,inofensiv,Condiment natural cu proprietăți benefice pentru sănătate.
+258,-,morcovi,inofensiv,Legumă naturală bogată în beta-caroten. Benefică pentru vedere.
+259,-,ardei,inofensiv,Legumă naturală bogată în vitamina C. Complet sigur.
+260,-,piper,inofensiv,Condiment natural. Complet sigur în cantitățile utilizate.
+261,-,muștar,inofensiv,Condiment natural. Alergen pentru persoanele alergice la muștar.
+262,-,țelină,inofensiv,Legumă naturală. Alergen pentru persoanele alergice la țelină.
+263,-,chimion,inofensiv,Condiment natural. Complet sigur.
+264,-,boia de ardei,inofensiv,Condiment natural din ardei uscați. Complet sigur.
+265,-,oregano,inofensiv,Condiment natural cu proprietăți antimicrobiene. Complet sigur.
+266,-,busuioc,inofensiv,Condiment natural. Complet sigur.
+267,-,coriandru,inofensiv,Condiment natural. Complet sigur.
+268,-,curcuma,inofensiv,Condiment natural cu proprietăți antiinflamatorii puternice. Benefic pentru sănătate.
+269,-,ghimbir,inofensiv,Condiment natural cu proprietăți antiinflamatorii și antiemetice. Benefic pentru sănătate.
+270,-,scorțișoară,inofensiv,Condiment natural cu proprietăți antidiabetice. Complet sigur cu moderație.
+271,-,nucșoară,moderat,Condiment natural. Consumul excesiv (peste 5g) poate provoca halucinații și greață.
+272,-,cuișoare,inofensiv,Condiment natural cu proprietăți antiseptice. Complet sigur.
+273,-,vinagretă,inofensiv,Sos din oțet și ulei. Complet sigur.
+274,-,chin,inofensiv,Substanță amară naturală din scoarța copacului de chinină. Considerată sigură în doze mici.
+275,-,chinină,inofensiv,Substanță amară naturală folosită în apa tonică. Considerată sigură în dozele din alimente.

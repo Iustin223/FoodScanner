@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+
+{% block title %}Login - FoodScanner{% endblock %}
+
+{% block content %}
+<section class="scan-section" style="display: flex; align-items: center; justify-content: center; min-height: 80vh; padding: 20px;">
+  
+  <div class="card" style="max-width: 420px; width: 100%; padding: 40px 30px;">
+    
+    <div class="icon-box" style="margin-bottom: 20px;"><i class="fa-solid fa-user fa-lg" style="color: rgb(0, 0, 0);"></i></div>
+    
+    <h2 style="font-size: 2rem; margin-bottom: 10px; color: var(--text-dark);">Bine ai revenit!</h2>
+    <p style="color: var(--text-muted); font-family: Arial, Helvetica, sans-serif; margin-bottom: 30px; font-size: 0.95rem;">
+      Autentifică-te pentru a-ți accesa istoricul scanărilor și setările profilului.
+    </p>
+
+    <form style="text-align: left; display: flex; flex-direction: column; gap: 20px;" id="loginForm" class="auth-form">
+      
+      <div>
+        <label for="email" style="font-family: Arial, Helvetica, sans-serif; font-size: 0.9rem; font-weight: bold; color: var(--text-dark); margin-bottom: 8px; display: block;">Adresă Email</label>
+        <input type="email" id="email" name="email" placeholder="nume@exemplu.ro" required 
+               style="width: 100%; padding: 14px 16px; border: 2px solid #d4ccc8; border-radius: 14px; font-size: 1rem; outline: none; transition: border-color 0.3s ease, box-shadow 0.3s ease; color: var(--text-dark);">
+      </div>
+
+      <div>
+        <label for="password" style="font-family: Arial, Helvetica, sans-serif; font-size: 0.9rem; font-weight: bold; color: var(--text-dark); margin-bottom: 8px; display: block;">Parolă</label>
+        <input type="password" id="password" name="password" required 
+               style="width: 100%; padding: 14px 16px; border: 2px solid #d4ccc8; border-radius: 14px; font-size: 1rem; outline: none; transition: border-color 0.3s ease, box-shadow 0.3s ease; color: var(--text-dark);">               
+      </div>
+
+        <div style="display: flex; align-items: center; gap: 8px; margin-top: -5px; margin-bottom: 5px;">
+          <input type="checkbox" id="showPassword" onclick="myFunction()" 
+                 style="width: 16px; height: 16px; accent-color: var(--orange); cursor: pointer;">
+          <label for="showPassword" style="font-family: Arial, Helvetica, sans-serif; font-size: 0.85rem; color: var(--text-muted); cursor: pointer; user-select: none;">
+            Arată parola
+          </label>
+        </div>
+
+      <button type="submit" class="btn btn-primary" style="width: 100%; margin-top: 10px;">
+        Intră în cont
+      </button>
+      
+    </form>
+
+    <p style="margin-top: 25px; font-size: 0.9rem; color: var(--text-muted); font-family: Arial, Helvetica, sans-serif;">
+      Nu ai cont? <a href=" /auth/register" style="color: var(--orange); font-weight: bold; text-decoration: none; transition: color 0.2s ease;">Creează unul</a>
+    </p>
+
+  </div>
+</section>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+  const inputs = document.querySelectorAll('input');
+  inputs.forEach(input => {
+    input.addEventListener('focus', () => {
+      input.style.borderColor = 'var(--orange)';
+      input.style.boxShadow = '0 0 0 3px rgba(242, 140, 40, 0.15)';
+    });
+    input.addEventListener('blur', () => {
+      input.style.borderColor = '#d4ccc8';
+      input.style.boxShadow = 'none';
+    });
+  });
+
+
+  function myFunction()
+  {
+    var x = document.getElementById("password")
+    if (x.type === "password")
+  {
+    x.type = "text";
+  }
+
+  else 
+  {
+    x.type = "password";
+  }
+  }
+
+
+</script>
+<script src="/static/auth.js"></script>
+{% endblock scripts %}
+
