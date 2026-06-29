@@ -66,7 +66,7 @@ FoodScanner/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FoodScanner.git
+git clone https://github.com/Iustin223/FoodScanner.git
 cd FoodScanner
 ```
 
@@ -83,7 +83,7 @@ The fine-tuned TrOCR model is not included in the repository because of its size
 Download the model from the provided external link and place it in:
 
 ```text
-trocr-model-romanian-final/
+https://huggingface.co/Iustin12/trocr-romanian-food-labels
 ```
 
 Expected structure:
